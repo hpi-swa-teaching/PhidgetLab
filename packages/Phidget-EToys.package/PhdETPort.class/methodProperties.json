@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"addPortDescriptorQuadsTo:" : "pt 5/7/2009 08:17",
+		"additionsToViewerCategoryPhidgetPort" : "pt 7/23/2009 17:20",
+		"launchPartVia:label:phidget:" : "pt 5/7/2009 12:00",
+		"newStandAlone:" : "pt 5/7/2009 10:54",
+		"partName:categories:documentation:" : "pt 5/7/2009 10:52",
+		"portDescription" : "pt 5/7/2009 08:18",
+		"portType" : "pt 7/24/2009 14:22" },
+	"instance" : {
+		"centerNumberString" : "lk 7/24/2009 15:34",
+		"createWire" : "lk 7/24/2009 15:36",
+		"delete" : "lk 7/24/2009 15:40",
+		"getPortNumber" : "lk 7/24/2009 15:35",
+		"getShowWire" : "pt 7/23/2009 17:23",
+		"initialize" : "pt 6/30/2009 13:05",
+		"initializeToStandAlone:" : "pt 6/2/2009 10:34",
+		"isInRange:" : "lk 7/24/2009 15:35",
+		"positionWire" : "lk 7/24/2009 15:36",
+		"setPortNumber:" : "lk 7/24/2009 15:35",
+		"setShowWire:" : "pt 7/23/2009 17:23",
+		"step" : "lk 7/24/2009 15:35",
+		"stepTime" : "lk 7/24/2009 15:35",
+		"update" : "lk 7/24/2009 15:29",
+		"update:" : "lk 7/24/2009 15:29" } }

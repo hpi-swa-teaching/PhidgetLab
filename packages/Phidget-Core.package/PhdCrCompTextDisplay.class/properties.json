@@ -1,0 +1,19 @@
+{
+	"category" : "Phidget-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pt 7/20/2009 16:26",
+	"instvars" : [
+		"text",
+		"displayedText",
+		"scrollPosition",
+		"running",
+		"seperator",
+		"waitTime" ],
+	"name" : "PhdCrCompTextDisplay",
+	"pools" : [
+		 ],
+	"super" : "PhdCrComponent",
+	"type" : "normal" }

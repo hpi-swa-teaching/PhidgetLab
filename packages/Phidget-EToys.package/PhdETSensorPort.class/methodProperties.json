@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"additionsToViewerCategoryPhidgetPort" : "pt 8/23/2009 13:56",
+		"portDescription" : "pt 7/23/2009 17:28",
+		"portType" : "pt 7/23/2009 17:28" },
+	"instance" : {
+		"createAndAddStatusMorph" : "lk 7/24/2009 15:23",
+		"getIfKitSensorInverted" : "pt 8/23/2009 13:49",
+		"getIfKitSensorValue" : "pt 8/23/2009 13:48",
+		"initialize" : "lk 7/24/2009 15:23",
+		"inverted" : "pt 8/23/2009 13:32",
+		"isInRange:" : "pt 7/16/2009 17:20",
+		"setIfKitSensorInverted:" : "pt 8/23/2009 13:53",
+		"setStatus:" : "pt 7/2/2009 17:01",
+		"update" : "lk 7/24/2009 15:30" } }

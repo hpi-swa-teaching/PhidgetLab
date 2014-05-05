@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pt 7/23/2009 17:40",
+	"instvars" : [
+		"motorMorph" ],
+	"name" : "PhdETServo1Motor",
+	"pools" : [
+		 ],
+	"super" : "PhdETPhidget",
+	"type" : "normal" }

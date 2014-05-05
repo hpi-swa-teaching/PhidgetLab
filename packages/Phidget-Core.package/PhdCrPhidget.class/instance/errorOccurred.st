@@ -1,0 +1,4 @@
+private
+errorOccurred
+
+	self onError.

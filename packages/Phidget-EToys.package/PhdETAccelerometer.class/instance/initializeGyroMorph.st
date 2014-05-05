@@ -1,0 +1,4 @@
+initialization
+initializeGyroMorph
+		
+	self positionGyroMorph.

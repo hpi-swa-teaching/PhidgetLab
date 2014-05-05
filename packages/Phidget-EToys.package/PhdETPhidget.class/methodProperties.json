@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "pt 8/24/2009 17:14",
+		"clearSampleImages" : "lk 8/12/2009 11:55",
+		"descriptionForPartsBinAbstract" : "lk 8/12/2009 11:37",
+		"descriptionForPartsBinBasic" : "lk 8/12/2009 11:35",
+		"getSampleImageForm" : "lk 8/12/2009 11:49",
+		"newThumbnailStandAlone" : "lk 8/12/2009 11:46",
+		"sampleImageForm" : "lk 8/12/2009 11:50",
+		"sampleImageForm:" : "lk 8/12/2009 11:50" },
+	"instance" : {
+		"adaptSize" : "pt 5/28/2009 14:38",
+		"changed" : "pt 7/24/2009 15:19",
+		"closeConnection" : "pt 8/24/2009 17:11",
+		"createAndAddSubmorphs" : "pt 7/24/2009 15:52",
+		"delete" : "pt 7/24/2009 15:20",
+		"getAttached" : "pt 7/24/2009 15:20",
+		"getLabel" : "pt 7/24/2009 15:20",
+		"getOpened" : "pt 8/24/2009 09:14",
+		"initPhidget:withLabel:" : "pt 8/23/2009 11:48",
+		"initializeForThumbnail" : "lk 7/24/2009 18:56",
+		"initializeToStandAlone" : "lk 7/24/2009 18:39",
+		"openAnyConnection" : "pt 8/24/2009 17:12",
+		"openConnectionWithSerialNumber:" : "pt 8/24/2009 17:12",
+		"openLastConnection" : "pt 8/24/2009 17:12",
+		"positionLabel" : "pt 5/28/2009 14:31",
+		"serialNumber" : "pt 8/24/2009 09:18",
+		"setLabel:" : "pt 7/24/2009 15:24" } }

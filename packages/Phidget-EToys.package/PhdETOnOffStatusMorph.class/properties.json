@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pt 7/16/2009 16:46",
+	"instvars" : [
+		"status" ],
+	"name" : "PhdETOnOffStatusMorph",
+	"pools" : [
+		 ],
+	"super" : "CircleMorph",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"knownCallbacks" : "sp 6/24/2009 14:18",
+		"primGetNewId" : "lk 8/24/2009 18:43",
+		"systemCallbacks" : "lk 8/13/2009 11:24" },
+	"instance" : {
+		"currentChanged" : "lk 8/13/2009 11:32",
+		"deleteComponents" : "sp 6/24/2009 13:46",
+		"initialize" : "sp 6/24/2009 13:40",
+		"initializeComponents" : "lk 8/6/2009 21:56",
+		"inputChanged" : "lk 8/13/2009 11:32",
+		"inputs" : "sp 6/24/2009 13:51",
+		"motors" : "sp 6/24/2009 13:50",
+		"onCurrentChange" : "lk 8/13/2009 11:46",
+		"onInputChange" : "lk 8/13/2009 11:46",
+		"onVelocityChange" : "lk 8/13/2009 11:46",
+		"registerSemaphores" : "sp 6/25/2009 13:26",
+		"resetState" : "lk 8/6/2009 22:18",
+		"velocityChanged" : "lk 8/13/2009 11:32" } }

@@ -1,0 +1,4 @@
+accessing
+getPortNumber
+
+	^ portNumber

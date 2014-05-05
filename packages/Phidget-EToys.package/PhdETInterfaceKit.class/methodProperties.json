@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"descriptionForPartsBin" : "lk 8/12/2009 11:37",
+		"descriptionForPartsBinBasic" : "lk 8/12/2009 11:22" },
+	"instance" : {
+		"collectPortDescriptorQuads" : "lk 7/24/2009 15:55",
+		"getInput:" : "pt 8/23/2009 13:45",
+		"getOutput:" : "pt 8/23/2009 13:45",
+		"getSensor:" : "pt 8/23/2009 13:46",
+		"initialize" : "lk 7/24/2009 15:56",
+		"inputChange" : "lk 7/24/2009 15:56",
+		"inputPortAvailable:" : "pt 7/16/2009 16:11",
+		"outputChange" : "lk 7/24/2009 15:56",
+		"outputPortAvailable:" : "lk 7/24/2009 15:56",
+		"sensorChange" : "lk 7/24/2009 15:56",
+		"sensorPortAvailable:" : "lk 7/24/2009 15:57",
+		"setOutput:to:" : "pt 7/1/2009 15:11" } }

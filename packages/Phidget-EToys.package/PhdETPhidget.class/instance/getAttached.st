@@ -1,0 +1,4 @@
+accessing
+getAttached
+
+	^ phidHandle isAttached

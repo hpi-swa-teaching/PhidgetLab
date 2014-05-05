@@ -1,0 +1,4 @@
+accessing
+getLabel
+
+	^ labelMorph contents

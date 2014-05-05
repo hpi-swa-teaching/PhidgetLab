@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pt 7/23/2009 18:15",
+	"instvars" : [
+		"statusMorph" ],
+	"name" : "PhdETOutputPort",
+	"pools" : [
+		 ],
+	"super" : "PhdETPort",
+	"type" : "normal" }

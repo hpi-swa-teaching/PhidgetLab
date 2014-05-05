@@ -1,0 +1,4 @@
+accessing
+getOpened
+
+	^ phidHandle isOpen

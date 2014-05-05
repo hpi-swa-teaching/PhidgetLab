@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "pt 8/24/2009 16:58",
+		"descriptionForPartsBin" : "lk 8/12/2009 11:38",
+		"descriptionForPartsBinBasic" : "lk 8/12/2009 11:38" },
+	"instance" : {
+		"createAndAddSubmorphs" : "lk 7/24/2009 15:50",
+		"detach" : "lk 7/24/2009 15:51",
+		"getTextLCDColumns" : "pt 7/14/2009 15:56",
+		"getTextLCDRow1" : "pt 7/14/2009 15:49",
+		"getTextLCDRow1Scrolling" : "pt 7/14/2009 16:00",
+		"getTextLCDRow2" : "pt 7/14/2009 15:49",
+		"getTextLCDRow2Scrolling" : "pt 7/14/2009 16:00",
+		"getTextLCDRows" : "pt 7/14/2009 15:56",
+		"getTextLCDScrollSeperator" : "pt 7/14/2009 16:11",
+		"initialize" : "pt 7/14/2009 17:01",
+		"positionRows" : "lk 7/24/2009 15:51",
+		"setTextLCDRow1:" : "pt 7/14/2009 15:57",
+		"setTextLCDRow1Scrolling:" : "lk 8/24/2009 22:12",
+		"setTextLCDRow2:" : "pt 7/14/2009 15:57",
+		"setTextLCDRow2Scrolling:" : "lk 8/24/2009 22:12",
+		"setTextLCDScrollSeperator:" : "pt 7/14/2009 16:11",
+		"updateDisplayedText" : "pt 7/14/2009 16:53" } }

@@ -1,0 +1,4 @@
+private
+currentChanged
+
+	self onCurrentChange.

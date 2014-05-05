@@ -1,0 +1,15 @@
+{
+	"category" : "Phidget-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lk 6/16/2009 18:56",
+	"instvars" : [
+		"index",
+		"nextLink" ],
+	"name" : "PhdCrMultiComponent",
+	"pools" : [
+		 ],
+	"super" : "PhdCrComponent",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+primitives
+primGetNewId
+
+	self subclassResponsibility.

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"additionsToViewerCategoryPhidgetPort" : "pt 7/23/2009 17:21",
+		"portDescription" : "pt 5/7/2009 08:32",
+		"portType" : "pt 7/23/2009 17:28" },
+	"instance" : {
+		"createAndAddStatusMorph" : "lk 7/24/2009 15:32",
+		"getIfKitOutputValue" : "pt 8/23/2009 13:51",
+		"initialize" : "pt 7/2/2009 17:03",
+		"isInRange:" : "pt 6/2/2009 10:35",
+		"setIfKitOutputValue:" : "pt 8/23/2009 13:52",
+		"setStatus:" : "pt 6/30/2009 12:59",
+		"update" : "lk 7/24/2009 15:30" } }

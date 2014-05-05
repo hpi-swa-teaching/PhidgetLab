@@ -1,0 +1,16 @@
+{
+	"category" : "Phidget-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sp 7/1/2009 12:35",
+	"instvars" : [
+		"sensors",
+		"inputs",
+		"outputs" ],
+	"name" : "PhdCrInterfaceKit",
+	"pools" : [
+		 ],
+	"super" : "PhdCrPhidget",
+	"type" : "normal" }

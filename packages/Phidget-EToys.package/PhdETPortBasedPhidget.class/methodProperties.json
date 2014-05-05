@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adaptSize" : "pt 5/28/2009 14:38",
+		"createAndAddSubmorphs" : "lk 7/24/2009 15:58",
+		"createBin" : "pt 5/28/2009 12:04",
+		"delete" : "lk 7/24/2009 16:01",
+		"initPhidget:withLabel:" : "pt 5/28/2009 17:09",
+		"ports" : "lk 7/24/2009 15:58",
+		"positionBin" : "pt 5/28/2009 17:09",
+		"registerPort:" : "lk 7/24/2009 15:58",
+		"unregisterPort:" : "lk 7/24/2009 15:59" } }

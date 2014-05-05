@@ -1,0 +1,4 @@
+private
+positionChanged
+
+	self onPositionChange.

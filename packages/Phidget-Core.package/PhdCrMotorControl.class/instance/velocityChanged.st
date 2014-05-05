@@ -1,0 +1,4 @@
+private
+velocityChanged
+
+	self onVelocityChange.
