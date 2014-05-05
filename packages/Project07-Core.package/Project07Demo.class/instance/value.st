@@ -1,0 +1,4 @@
+accessing
+value
+
+	^ 1

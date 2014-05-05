@@ -1,0 +1,14 @@
+{
+	"category" : "Project07-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value" ],
+	"name" : "Project07Demo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
