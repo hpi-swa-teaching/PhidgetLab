@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "FW 6/27/2013 15:25",
+		"setupInputPort" : "FW 6/27/2013 14:21",
+		"setupInterfaceKit" : "fw 6/4/2013 11:55",
+		"setupLightSensorPort" : "fw 6/4/2013 11:54",
+		"setupOutputPort" : "FW 6/27/2013 15:21",
+		"tearDown" : "FW 6/27/2013 15:40",
+		"testChangePortNumber" : "FW 6/27/2013 14:16",
+		"testDeletePort" : "FW 6/27/2013 14:16",
+		"testInputConnectorWantsPlug" : "FW 7/1/2013 11:13",
+		"testInputPortRangeBorders" : "FW 6/27/2013 15:19",
+		"testOutputConnectorWantsPlug" : "FW 7/1/2013 11:13",
+		"testPortUpdates" : "FW 6/27/2013 15:34",
+		"testSensorConnectorWantsPlug" : "FW 7/1/2013 11:12" } }
