@@ -1,0 +1,15 @@
+{
+	"category" : "MultiColumn Lists-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scroll",
+		"offSet" ],
+	"name" : "MultiColumnListHeader",
+	"pools" : [
+		 ],
+	"super" : "StackedStringMorph",
+	"type" : "normal" }

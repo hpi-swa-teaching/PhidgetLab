@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"selectShownColumnsFrom:" : "cbc 8/18/2004 11:38",
+		"selectShownColumnsFrom:currentlyShowing:" : "cbc 8/18/2004 14:47" },
+	"instance" : {
+		"buildWindowFrom:selected:" : "cbc 8/18/2004 12:56",
+		"cancel" : "cbc 8/18/2004 12:52",
+		"forkedSelection" : "cbc 8/18/2004 12:53",
+		"ok" : "cbc 8/18/2004 12:52",
+		"openWindow" : "cbc 8/18/2004 11:10",
+		"selectShownColumnsFrom:defaultShown:" : "cbc 8/18/2004 12:37" } }

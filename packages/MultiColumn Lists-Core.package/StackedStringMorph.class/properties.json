@@ -1,0 +1,24 @@
+{
+	"category" : "MultiColumn Lists-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cbc 4/22/2003 17:10",
+	"instvars" : [
+		"strings",
+		"sizes",
+		"alignments",
+		"fitMethod",
+		"locations",
+		"font",
+		"backgroundColor",
+		"displayBounds",
+		"selected",
+		"showScreen",
+		"rawSizes" ],
+	"name" : "StackedStringMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

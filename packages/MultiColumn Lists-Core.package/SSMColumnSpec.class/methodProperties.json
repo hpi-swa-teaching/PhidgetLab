@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"named:selector:" : "cbc 1/12/2005 15:43",
+		"named:selector:conversionMethod:" : "cbc 1/12/2005 15:43",
+		"named:selector:conversionMethod:adjust:" : "cbc 2/15/2007 11:06",
+		"named:selector:conversionMethod:adjust:visible:" : "cbc 2/15/2007 11:05",
+		"named:selector:visible:" : "cbc 2/15/2007 11:05" },
+	"instance" : {
+		"adjust:" : "cbc 1/12/2005 15:45",
+		"columnName" : "cbc 1/12/2005 16:27",
+		"columnName:" : "cbc 1/12/2005 15:44",
+		"conversionMethod:" : "cbc 1/12/2005 15:45",
+		"currentValueDomain" : "cbc 1/17/2005 11:32",
+		"displayStringFrom:inDomain:" : "cbc 1/5/2006 13:45",
+		"initialize" : "cbc 1/17/2005 11:28",
+		"initializeForNewList" : "cbc 1/17/2005 11:28",
+		"selector" : "cbc 1/17/2005 10:30",
+		"selector:" : "cbc 1/12/2005 15:44",
+		"valueFor:" : "cbc 1/5/2006 10:37",
+		"visible" : "cbc 2/15/2007 11:10",
+		"visible:" : "cbc 2/15/2007 11:06" } }

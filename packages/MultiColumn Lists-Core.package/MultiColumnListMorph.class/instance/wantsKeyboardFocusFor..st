@@ -1,0 +1,3 @@
+accessing
+wantsKeyboardFocusFor: aMorph
+	^ true

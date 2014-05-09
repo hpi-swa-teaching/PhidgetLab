@@ -1,0 +1,14 @@
+{
+	"category" : "MultiColumn Lists-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EditableStackedStringMorph",
+	"pools" : [
+		 ],
+	"super" : "StackedStringMorph",
+	"type" : "normal" }

@@ -1,0 +1,5 @@
+display
+openWindow
+
+	window openInWorld
+

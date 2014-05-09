@@ -1,0 +1,15 @@
+{
+	"category" : "MultiColumn Lists-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"itemHeight",
+		"width" ],
+	"name" : "StackedStringListLayout",
+	"pools" : [
+		 ],
+	"super" : "LayoutPolicy",
+	"type" : "normal" }
