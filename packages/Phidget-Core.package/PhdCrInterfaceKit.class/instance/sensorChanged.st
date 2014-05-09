@@ -1,4 +1,0 @@
-private
-sensorChanged
-
-	self onSensorChange.

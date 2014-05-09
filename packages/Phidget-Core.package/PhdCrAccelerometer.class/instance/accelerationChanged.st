@@ -1,4 +1,0 @@
-private
-accelerationChanged
-
-	self onAccelerationChange.

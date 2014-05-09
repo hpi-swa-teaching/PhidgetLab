@@ -1,4 +1,0 @@
-private
-tagLost
-
-	self onTagLost.

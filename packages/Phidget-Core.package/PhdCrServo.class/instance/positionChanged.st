@@ -1,4 +1,0 @@
-private
-positionChanged
-
-	self onPositionChange.

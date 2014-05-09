@@ -1,4 +1,0 @@
-animation
-step
-
-	self positionWire.

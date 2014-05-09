@@ -1,4 +1,0 @@
-accessing
-text
-
-	^ textMorph contents
