@@ -1,0 +1,17 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"indicatorLine",
+		"value",
+		"xSpeed",
+		"ySpeed" ],
+	"name" : "PhdETJoystickSensorMorph",
+	"pools" : [
+		 ],
+	"super" : "CircleMorph",
+	"type" : "normal" }

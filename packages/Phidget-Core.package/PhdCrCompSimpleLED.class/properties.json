@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lk 6/16/2009 19:46",
+	"instvars" : [
+		 ],
+	"name" : "PhdCrCompSimpleLED",
+	"pools" : [
+		 ],
+	"super" : "PhdCrComponent",
+	"type" : "normal" }

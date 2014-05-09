@@ -1,0 +1,3 @@
+private
+paddingLeftRight
+	^ 10

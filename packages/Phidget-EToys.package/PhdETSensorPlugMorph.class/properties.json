@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhdETSensorPlugMorph",
+	"pools" : [
+		 ],
+	"super" : "PhdETPlugMorph",
+	"type" : "normal" }

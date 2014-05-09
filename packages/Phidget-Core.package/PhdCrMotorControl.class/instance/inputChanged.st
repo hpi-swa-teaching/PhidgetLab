@@ -1,0 +1,4 @@
+private
+inputChanged
+
+	self onInputChange.

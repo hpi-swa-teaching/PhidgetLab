@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"additionsToViewerCategoryPhidgetPort" : "ck 5/6/2014 16:51",
+		"portDescription" : "ck 5/6/2014 16:51" },
+	"instance" : {
+		"createAndAddSeparatorString" : "ck 5/6/2014 16:51",
+		"createAndAddSlave" : "ck 5/9/2014 16:26",
+		"delete" : "ck 5/6/2014 16:51",
+		"getIfKitSensorXValue" : "ck 5/6/2014 16:51",
+		"getIfKitSensorYSpeed" : "ck 5/6/2014 16:51",
+		"getIfKitSensorYValue" : "ck 5/6/2014 16:51",
+		"initialize" : "ck 5/9/2014 16:29",
+		"positionNumberString" : "ck 5/6/2014 16:51",
+		"positionSeparatorString" : "ck 5/6/2014 16:51",
+		"setStatus:" : "ck 5/6/2014 16:51",
+		"slaveValue:" : "ck 5/6/2014 16:51",
+		"updateStatusMorph" : "ck 5/6/2014 16:51" } }

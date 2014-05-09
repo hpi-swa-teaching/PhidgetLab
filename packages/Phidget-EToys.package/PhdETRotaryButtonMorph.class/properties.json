@@ -1,0 +1,19 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"min",
+		"max",
+		"current",
+		"currentMorph",
+		"value",
+		"speed" ],
+	"name" : "PhdETRotaryButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "CircleMorph",
+	"type" : "normal" }

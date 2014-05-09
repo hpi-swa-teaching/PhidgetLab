@@ -1,0 +1,4 @@
+private
+textChanged
+	
+	self onTextChange.

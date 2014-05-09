@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sp 7/1/2009 14:38",
+	"instvars" : [
+		"sensitivity" ],
+	"name" : "PhdCrCompAxis",
+	"pools" : [
+		 ],
+	"super" : "PhdCrMultiComponent",
+	"type" : "normal" }

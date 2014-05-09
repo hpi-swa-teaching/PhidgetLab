@@ -1,0 +1,19 @@
+{
+	"category" : "Phidget-Core",
+	"classinstvars" : [
+		"SystemCallbacks" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lk 8/5/2009 22:17",
+	"instvars" : [
+		"serialNumber",
+		"opened",
+		"semaphores",
+		"userProcessBlocks",
+		"id",
+		"ETHandle" ],
+	"name" : "PhdCrPhidget",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

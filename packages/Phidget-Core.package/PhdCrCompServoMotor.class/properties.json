@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sp 7/1/2009 14:40",
+	"instvars" : [
+		 ],
+	"name" : "PhdCrCompServoMotor",
+	"pools" : [
+		 ],
+	"super" : "PhdCrMultiComponent",
+	"type" : "normal" }

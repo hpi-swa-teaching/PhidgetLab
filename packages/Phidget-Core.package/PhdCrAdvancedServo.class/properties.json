@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sp 7/1/2009 13:07",
+	"instvars" : [
+		 ],
+	"name" : "PhdCrAdvancedServo",
+	"pools" : [
+		 ],
+	"super" : "PhdCrServo",
+	"type" : "normal" }

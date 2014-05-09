@@ -1,0 +1,15 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ports",
+		"bin" ],
+	"name" : "PhdETPortBasedPhidget",
+	"pools" : [
+		 ],
+	"super" : "PhdETPhidget",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhdETPositiveBarMorph",
+	"pools" : [
+		 ],
+	"super" : "PhdETBarMorph",
+	"type" : "normal" }

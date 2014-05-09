@@ -1,0 +1,4 @@
+accessing
+backColor
+
+	^ self color

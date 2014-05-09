@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"backColor" : "ck 5/6/2014 17:03",
+		"backColor:" : "ck 5/6/2014 17:03",
+		"barColor" : "ck 5/6/2014 17:03",
+		"barColor:" : "ck 5/6/2014 17:03",
+		"calcStatusMorphDirection" : "ck 5/6/2014 17:03",
+		"calcStatusMorphPosition:forWidth:" : "ck 5/6/2014 17:03",
+		"calcStatusMorphWidth:" : "ck 5/6/2014 17:03",
+		"createAndAddMiddleLine" : "ck 5/9/2014 14:58",
+		"createAndAddStatusMorph" : "ck 5/6/2014 17:03",
+		"height:" : "ck 5/6/2014 17:03",
+		"initialize" : "ck 5/6/2014 17:03",
+		"maxValue" : "ck 5/6/2014 17:03",
+		"maxValue:" : "ck 5/6/2014 17:03",
+		"minValue" : "ck 5/6/2014 17:03",
+		"minValue:" : "ck 5/6/2014 17:03",
+		"speed" : "ck 5/6/2014 17:03",
+		"speed:" : "ck 5/6/2014 17:03",
+		"statusMorph" : "ck 5/6/2014 17:03",
+		"updateMiddleLine" : "ck 5/6/2014 17:03",
+		"updateStatus" : "ck 5/6/2014 17:03",
+		"value" : "ck 5/6/2014 17:03",
+		"value:" : "ck 5/6/2014 17:03",
+		"width:" : "ck 5/6/2014 17:03" } }

@@ -1,0 +1,4 @@
+accessing
+getIfKitSensorYSpeed
+
+	^ slave getIfKitSensorSpeed

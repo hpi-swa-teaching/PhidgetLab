@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"controlingMorph" ],
+	"name" : "PhdETPartsBin",
+	"pools" : [
+		 ],
+	"super" : "PartsBin",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"phidget",
+		"portNumber",
+		"numberString",
+		"wire",
+		"plug",
+		"receivedUpdate" ],
+	"name" : "PhdETPort",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

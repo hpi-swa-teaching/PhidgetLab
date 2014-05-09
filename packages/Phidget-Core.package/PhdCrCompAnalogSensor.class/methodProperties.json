@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"primComponentCount:" : "lk 6/16/2009 20:55",
+		"primGetChangeTrigger:at:" : "lk 7/20/2009 15:55",
+		"primGetValue:at:" : "lk 6/16/2009 20:55",
+		"primSetChangeTrigger:at:to:" : "lk 7/20/2009 15:56",
+		"primSetSemaphoreIndexChange:for:" : "lk 6/16/2009 20:55" },
+	"instance" : {
+		"changeTrigger" : "lk 7/20/2009 15:57",
+		"changeTrigger:" : "yb 5/13/2013 08:57",
+		"initialize" : "yb 5/21/2013 09:37",
+		"invert:" : "pt 8/29/2009 19:08",
+		"invertedValue" : "pt 8/29/2009 19:37",
+		"lastValue" : "yb 5/13/2013 09:05",
+		"lastValue:" : "yb 5/13/2013 09:10",
+		"lastValueTime" : "yb 5/13/2013 09:06",
+		"lastValueTime:" : "yb 5/13/2013 09:10",
+		"speed" : "yb 5/13/2013 09:06",
+		"speed:" : "yb 5/13/2013 09:11",
+		"value" : "yb 5/21/2013 09:37" } }

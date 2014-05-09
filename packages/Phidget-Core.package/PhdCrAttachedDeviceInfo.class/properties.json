@@ -1,0 +1,23 @@
+{
+	"category" : "Phidget-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DeviceClassIdCoreMap",
+		"DeviceClassIdMap",
+		"DeviceClassIdNameMap",
+		"DeviceTypeIdEtoysMap",
+		"DeviceTypeIdMap",
+		"DeviceTypeIdNameMap" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"serialNumber",
+		"label",
+		"deviceClassId",
+		"deviceTypeId" ],
+	"name" : "PhdCrAttachedDeviceInfo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

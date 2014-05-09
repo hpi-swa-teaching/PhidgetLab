@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"deviceClassIdCoreMap" : "lk 9/2/2009 15:20",
+		"deviceClassIdMap" : "lk 9/2/2009 15:19",
+		"deviceClassIdNameMap" : "lk 9/2/2009 15:20",
+		"deviceTypeIdEtoysMap" : "lk 9/2/2009 15:57",
+		"deviceTypeIdMap" : "lk 9/2/2009 15:47",
+		"deviceTypeIdNameMap" : "lk 9/2/2009 15:55" },
+	"instance" : {
+		"deviceClassId" : "lk 8/6/2009 11:18",
+		"deviceClassId:" : "lk 8/6/2009 11:17",
+		"deviceName" : "lk 8/6/2009 10:16",
+		"deviceName:" : "lk 8/6/2009 10:16",
+		"deviceTypeId" : "lk 8/6/2009 11:18",
+		"deviceTypeId:" : "lk 8/6/2009 11:18",
+		"getCoreObject" : "lk 8/13/2009 12:24",
+		"getEtoysObject" : "lk 8/6/2009 15:53",
+		"infoStringArray" : "lk 8/12/2009 14:56",
+		"label" : "lk 8/6/2009 10:16",
+		"label:" : "lk 8/6/2009 10:16",
+		"serialNumber" : "lk 8/6/2009 10:16",
+		"serialNumber:" : "lk 8/6/2009 10:17" } }

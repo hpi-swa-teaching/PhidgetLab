@@ -1,0 +1,4 @@
+accessing
+getIfKitSensorSpeed
+
+	^ statusMorph speed

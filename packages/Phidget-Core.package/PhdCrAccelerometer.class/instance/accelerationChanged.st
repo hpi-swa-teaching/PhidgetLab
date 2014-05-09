@@ -1,0 +1,4 @@
+private
+accelerationChanged
+
+	self onAccelerationChange.

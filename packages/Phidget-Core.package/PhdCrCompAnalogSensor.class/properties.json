@@ -1,0 +1,17 @@
+{
+	"category" : "Phidget-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sp 7/1/2009 14:39",
+	"instvars" : [
+		"lastValue",
+		"lastValueTime",
+		"speed",
+		"testWheel" ],
+	"name" : "PhdCrCompAnalogSensor",
+	"pools" : [
+		 ],
+	"super" : "PhdCrMultiComponent",
+	"type" : "normal" }

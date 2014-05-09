@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createAndAddCurrentMorph" : "ck 5/9/2014 14:58",
+		"current" : "ck 5/6/2014 17:04",
+		"current:" : "ck 5/6/2014 17:04",
+		"initialize" : "ck 5/6/2014 17:04",
+		"max" : "ck 5/6/2014 17:04",
+		"max:" : "ck 5/6/2014 17:04",
+		"min" : "ck 5/6/2014 17:04",
+		"min:" : "ck 5/6/2014 17:04",
+		"servoRadians:" : "ck 5/6/2014 17:04",
+		"speed" : "ck 5/6/2014 17:04",
+		"speed:" : "ck 5/6/2014 17:04",
+		"updateCurrentMorph" : "ck 5/6/2014 17:04",
+		"updateStatus" : "ck 5/6/2014 17:04",
+		"value" : "ck 5/6/2014 17:04",
+		"value:" : "ck 5/6/2014 17:04" } }

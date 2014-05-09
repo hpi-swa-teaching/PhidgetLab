@@ -1,0 +1,4 @@
+private
+tagFound
+
+	self onTagFound.
