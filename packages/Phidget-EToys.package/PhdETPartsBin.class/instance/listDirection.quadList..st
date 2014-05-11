@@ -23,7 +23,7 @@ listDirection: aListDirection quadList: quadList
 	quadList do:
 		[:tuple |
 			aClass := Smalltalk at: tuple first.
-			aButton := IconicButton new initializeWithThumbnail: (self class thumbnailForQuad: tuple color: self color phidget: self phidget) withLabel: tuple third andColor: self color andSend: tuple second to: aClass with: self phidget.
+			aButton := MyIconicButton new initializeWithThumbnail: (self class thumbnailForQuad: tuple color: self color phidget: self phidget) withLabel: tuple third andColor: self color andSend: tuple second to: aClass with: self phidget.
 			(tuple size > 3 and: [tuple fourth isEmptyOrNil not]) ifTrue:
 				[aButton setBalloonText: tuple fourth].
  			self addMorphBack: aButton]
