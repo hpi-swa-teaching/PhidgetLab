@@ -1,0 +1,14 @@
+{
+	"category" : "Project07-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhidgetIconicButton",
+	"pools" : [
+		 ],
+	"super" : "IconicButton",
+	"type" : "normal" }

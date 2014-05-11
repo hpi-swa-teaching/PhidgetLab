@@ -2,6 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "ck 5/9/2014 16:25",
+		"initialize" : "fw 5/11/2014 17:31",
 		"positionPlug" : "ck 5/6/2014 13:45",
 		"wantsDroppedMorph:event:" : "ck 5/9/2014 16:27" } }

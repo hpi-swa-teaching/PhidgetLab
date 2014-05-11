@@ -1,7 +1,7 @@
-*Phidget-EToys
+as yet unclassified
 createLineFrom: startPoint to: endPoint color: aColor width: aNumber
 
-	^ self
+	^ PolygonMorph
 		vertices: {startPoint. endPoint}
 		color: aColor
 		borderWidth: aNumber
