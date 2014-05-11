@@ -14,14 +14,15 @@ initialize
 	
 	self
 		setLabel: aLabel;
-		width: 280;
-		height: 181;
-		color: Color white;
-		createAndAddSubmorphs.
-		
+		width: 305;
+		height: 130;
+		color: Color white.
+				
 	"open the phidget, so that it's ready to be used.
 	Do NOT do this if we are just creating a dummy instance for thumbnail creation."
 	thumbnailCreation ifFalse: [ phidHandle openAny ].
 	
-	bin color: self color lighter lighter.		
+	bin color: self color lighter lighter.
+	self createAndAddSubmorphs.
+
 	self setupEventsWith: aLabel.

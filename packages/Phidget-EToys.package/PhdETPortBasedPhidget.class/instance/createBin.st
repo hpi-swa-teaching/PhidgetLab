@@ -17,5 +17,4 @@ createBin
 		vResizing: #shrinkWrap;
 		layoutChanged;
 		fullBounds.
-		
 	^ aBin
