@@ -1,7 +1,7 @@
 initialization
 createAndAddStatusMorph
 
-	currentMorph := PolygonMorph
+	currentMorph := PhidgetPolygonMorph
 		createLineFrom: self position + ((self width)/2 @ 0)
 		to: self position + ((self width)/2 @ self height)
 		color: Color black

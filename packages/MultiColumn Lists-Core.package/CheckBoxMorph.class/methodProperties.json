@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"defaultCheckedMorph:" : "cbc 8/18/2004 11:29",
+		"defaultUnCheckedMorph:" : "cbc 8/18/2004 11:29",
+		"label:" : "cbc 8/18/2004 11:27" },
+	"instance" : {
+		"actionSelected" : "cbc 8/30/2004 09:26",
+		"checkedMorph" : "cbc 8/18/2004 11:01",
+		"checkedMorph:" : "cbc 8/18/2004 10:46",
+		"handlesMouseDown:" : "cbc 8/18/2004 10:52",
+		"height" : "cbc 8/18/2004 11:33",
+		"initialize" : "cbc 8/18/2004 11:27",
+		"isChecked" : "cbc 8/18/2004 10:50",
+		"label" : "cbc 8/18/2004 10:49",
+		"label:" : "cbc 8/18/2004 10:56",
+		"labelMorph" : "cbc 8/18/2004 10:58",
+		"labelMorph:" : "cbc 8/18/2004 10:56",
+		"mouseDown:" : "cbc 8/18/2004 10:53",
+		"selected:" : "cbc 8/30/2004 09:26",
+		"switchToChecked" : "cbc 8/18/2004 11:33",
+		"switchToUnChecked" : "cbc 8/18/2004 11:32",
+		"unCheckedMorph" : "cbc 8/18/2004 11:01",
+		"unCheckedMorph:" : "cbc 8/18/2004 10:47",
+		"width" : "cbc 8/30/2004 09:25" } }

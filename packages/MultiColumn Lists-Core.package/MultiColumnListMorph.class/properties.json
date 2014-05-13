@@ -1,0 +1,38 @@
+{
+	"category" : "MultiColumn Lists-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"list",
+		"selectedMorph",
+		"selection",
+		"getListSelector",
+		"getIndexSelector",
+		"setIndexSelector",
+		"keystrokeActionSelector",
+		"autoDeselect",
+		"font",
+		"lastKeystrokeTime",
+		"lastKeystrokes",
+		"lastClickTime",
+		"doubleClickSelector",
+		"potentialDropMorph",
+		"header",
+		"origObjects",
+		"sort",
+		"filter",
+		"sortXRef",
+		"showScreen",
+		"controlOptions",
+		"currentTop",
+		"keyActions",
+		"specifications",
+		"tag" ],
+	"name" : "MultiColumnListMorph",
+	"pools" : [
+		 ],
+	"super" : "ScrollPane",
+	"type" : "normal" }

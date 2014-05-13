@@ -1,0 +1,23 @@
+{
+	"category" : "MultiColumn Lists-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ssmColSpecs",
+		"colorSelector",
+		"headerShown",
+		"headerLocked",
+		"font",
+		"currentFilter",
+		"currentSort",
+		"currentRawList",
+		"showScreen",
+		"backPointers" ],
+	"name" : "SSMSpec",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

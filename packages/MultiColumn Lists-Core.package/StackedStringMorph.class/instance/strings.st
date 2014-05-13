@@ -1,0 +1,4 @@
+accessing
+strings
+
+	^strings

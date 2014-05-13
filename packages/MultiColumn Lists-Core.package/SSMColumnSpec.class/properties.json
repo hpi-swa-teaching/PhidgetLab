@@ -1,0 +1,19 @@
+{
+	"category" : "MultiColumn Lists-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"columnName",
+		"selector",
+		"conversionMethod",
+		"adjust",
+		"valueDomain",
+		"visible" ],
+	"name" : "SSMColumnSpec",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

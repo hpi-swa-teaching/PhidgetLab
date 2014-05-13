@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addSpec:" : "cbc 2/15/2007 11:08",
+		"asCSVLine" : "cbc 12/15/2005 14:12",
+		"backgroundColor" : "cbc 1/13/2005 16:30",
+		"cleanup" : "cbc 1/18/2005 10:41",
+		"colName:selector:" : "cbc 1/12/2005 16:07",
+		"colName:selector:conversionMethod:" : "cbc 1/17/2005 12:02",
+		"colorSelector:" : "cbc 1/12/2005 16:07",
+		"displayIndexForObject:" : "cbc 1/18/2005 10:43",
+		"displayListFrom:" : "cbc 5/4/2005 09:03",
+		"filterMenu:" : "cbc 10/19/2005 14:24",
+		"hideColumns:" : "cbc 2/15/2007 11:10",
+		"initialize" : "cbc 1/18/2005 10:42",
+		"listFont" : "cbc 1/12/2005 16:52",
+		"originalIndexFor:" : "cbc 1/18/2005 10:43",
+		"originalObjectFor:" : "CBC 5/6/2005 10:36",
+		"queryForSortOptions" : "cbc 1/17/2005 10:31",
+		"reFilterDisplayQuery" : "cbc 8/11/2005 14:20",
+		"reRemoveSubFilterDisplayQuery" : "cbc 5/27/2005 09:42",
+		"reRemoveSubFilterDisplayQuery2" : "cbc 5/27/2005 09:38",
+		"removeFiltering" : "cbc 1/17/2005 13:21",
+		"setupHeaderOn:" : "cbc 1/12/2005 16:29",
+		"setupInitialShowScreenOn:" : "cbc 2/15/2007 11:10",
+		"subFilterDisplayQuery" : "cbc 5/27/2005 09:41" } }

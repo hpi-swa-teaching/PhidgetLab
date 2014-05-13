@@ -1,0 +1,1 @@
+This morph takes an array of strings, and stacks them one after the other on a single line.
