@@ -1,0 +1,4 @@
+animation
+step
+	
+	self rotate.
