@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pt 7/24/2009 12:07",
+	"instvars" : [
+		"textMorph" ],
+	"name" : "PhdETTextLCDRowMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

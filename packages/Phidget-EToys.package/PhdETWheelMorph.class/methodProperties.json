@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"numberOfSpokes" : "lk 7/24/2009 14:42" },
+	"instance" : {
+		"addSpokesToWheel:" : "lk 7/24/2009 15:06",
+		"calcRotationParameters" : "lk 7/24/2009 14:32",
+		"createWheel" : "pt 7/15/2009 11:49",
+		"initialize" : "lk 7/24/2009 14:29",
+		"maxSpeed" : "pt 7/15/2009 11:56",
+		"maxSpeed:" : "pt 7/15/2009 11:57",
+		"minSpeed" : "pt 7/15/2009 11:56",
+		"minSpeed:" : "pt 7/15/2009 11:56",
+		"rotate" : "lk 7/24/2009 14:30",
+		"speed" : "pt 7/15/2009 10:38",
+		"speed:" : "pt 7/15/2009 11:57",
+		"step" : "pt 7/15/2009 09:56",
+		"stepTime" : "pt 7/15/2009 11:53" } }

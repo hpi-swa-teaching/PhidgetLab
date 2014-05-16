@@ -1,0 +1,17 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pt 7/24/2009 13:02",
+	"instvars" : [
+		"center",
+		"radius",
+		"angleA",
+		"angleB" ],
+	"name" : "PhdETSegmentOfCircle",
+	"pools" : [
+		 ],
+	"super" : "MixedCurveMorph",
+	"type" : "normal" }
