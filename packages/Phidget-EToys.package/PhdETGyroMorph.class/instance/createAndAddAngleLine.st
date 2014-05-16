@@ -2,7 +2,7 @@ initialization
 createAndAddAngleLine
 	"creates a line (PolygonMorph) as a Submorph to me."
 	
-	angleLine := PolygonMorph 
+	angleLine := PhidgetPolygonMorph 
 		createLineFrom: self center
 		to: self center
 		color: Color black
