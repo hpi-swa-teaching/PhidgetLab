@@ -2,7 +2,7 @@
 	"class" : {
 		"numberOfSpokes" : "lk 7/24/2009 14:42" },
 	"instance" : {
-		"addSpokesToWheel:" : "lk 7/24/2009 15:06",
+		"addSpokesToWheel:" : "RB 5/16/2014 16:34",
 		"calcRotationParameters" : "lk 7/24/2009 14:32",
 		"createWheel" : "pt 7/15/2009 11:49",
 		"initialize" : "lk 7/24/2009 14:29",

@@ -13,7 +13,7 @@ addSpokesToWheel: aCircle
 	
 	[ angle <= (Float pi * 2.0) ] whileTrue: [
 		end := start - ( (angle cos * radius) @ (angle sin * radius) ).
-		line := PolygonMorph
+		line := PhidgetPolygonMorph
 			createLineFrom: start
 			to: end
 			color: Color black
