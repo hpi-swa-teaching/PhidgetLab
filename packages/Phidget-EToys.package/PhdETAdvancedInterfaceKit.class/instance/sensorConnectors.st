@@ -1,4 +1,0 @@
-accessing
-sensorConnectors
-
-	^ sensorConnectors
