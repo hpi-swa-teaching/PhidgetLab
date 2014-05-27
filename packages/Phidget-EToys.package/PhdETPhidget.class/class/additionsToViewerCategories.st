@@ -2,11 +2,11 @@ Etoys-Support
 additionsToViewerCategories
 	"Answer a list of (<categoryName> <list of category specs>) pairs that characterize the phrases this kind of morph wishes to add to various Viewer categories."
 	^ #(
-		(phidget (
+		(Phidget (
 			(slot Label 'The label of this Phidget.' String readWrite Player getLabel Player setLabel:)
 		))
 		
-		('phidget - connection to hardware' (
+		('Phidget - Connection to Hardware' (
 			(slot Attached 'This is wether the Phidget is attached to the USB port or not.' Boolean readOnly Player getAttached unused unused)
 			(slot ConnectionOpened 'This is wether a connection to the phidget is opened (=ready to use) or not.' Boolean readOnly Player getOpened unused unused)
 			(command closeConnection 'Closes the connection to the (hardware) phidget.')
