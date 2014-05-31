@@ -1,0 +1,16 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sensorConnectors",
+		"inputConnectors",
+		"outputConnectors" ],
+	"name" : "PhdETAdvancedInterfaceKit",
+	"pools" : [
+		 ],
+	"super" : "PhdETPortBasedPhidget",
+	"type" : "normal" }

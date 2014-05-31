@@ -1,0 +1,19 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"min",
+		"max",
+		"value",
+		"statusMorph",
+		"lineMorph",
+		"speed" ],
+	"name" : "PhdETBarMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

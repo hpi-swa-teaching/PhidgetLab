@@ -1,0 +1,16 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"master",
+		"value",
+		"speed" ],
+	"name" : "PhdETAssistentSensorMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
