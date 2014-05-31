@@ -1,4 +1,0 @@
-connecting
-positionPlug
-
-	^ self subclassResponsibility

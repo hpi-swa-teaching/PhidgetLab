@@ -1,4 +1,0 @@
-accessing
-getIfKitSensorSpeed
-
-	^statusMorph speed
