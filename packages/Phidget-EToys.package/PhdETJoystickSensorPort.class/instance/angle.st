@@ -1,0 +1,3 @@
+accessing
+angle
+	^ self calculateAngle
