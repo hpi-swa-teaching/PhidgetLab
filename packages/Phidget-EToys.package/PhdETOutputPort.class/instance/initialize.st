@@ -9,7 +9,7 @@ initialize
 			[portNumber := number].
 		
 	self
-		color: Color blue muchLighter;
+		setColor;
 		height: 70;
 		createAndAddStatusMorph;
 		update: self class portType.

@@ -16,7 +16,7 @@ initializeWith: aStatusMorph
 	lastValue := 0.
 	lastValueTime := Time now.
 	self
-		color: Color yellow lighter;
+		setColor;
 		height: 65;
 		width: 100;
 		createAndAddStatusMorphWith: aStatusMorph;

@@ -4,9 +4,9 @@
 		"descriptionForPartsBinBasic" : "ck 5/9/2014 16:49" },
 	"instance" : {
 		"collectPortDescriptorQuads" : "ck 5/9/2014 16:27",
-		"createAndAddInputConnectors" : "RB 5/11/2014 16:19",
-		"createAndAddOutputConnectors" : "RB 5/11/2014 16:19",
-		"createAndAddSensorConnectors" : "RB 5/11/2014 16:18",
+		"createAndAddInputConnectors" : "rb 6/1/2014 14:44",
+		"createAndAddOutputConnectors" : "rb 6/1/2014 14:44",
+		"createAndAddSensorConnectors" : "rb 6/1/2014 14:43",
 		"createAndAddSubmorphs" : "ck 5/6/2014 13:42",
 		"createConnectorArrays" : "ck 5/6/2014 13:42",
 		"findFirstFreeInputConnector" : "ck 5/6/2014 13:42",
@@ -15,10 +15,12 @@
 		"getInput:" : "ck 5/6/2014 13:42",
 		"getOutput:" : "ck 5/6/2014 13:42",
 		"getSensor:" : "ck 5/6/2014 13:42",
-		"initialize" : "RB 5/15/2014 15:45",
+		"initialize" : "ck 6/1/2014 13:26",
 		"inputChange" : "ck 5/6/2014 13:42",
 		"inputConnectors" : "ck 5/6/2014 13:42",
 		"inputPortAvailable:" : "ck 5/6/2014 13:42",
+		"makePortsColored" : "ck 6/1/2014 14:34",
+		"makePortsGray" : "ck 6/1/2014 14:33",
 		"outputChange" : "ck 5/6/2014 13:42",
 		"outputConnectors" : "ck 5/6/2014 13:42",
 		"outputPortAvailable:" : "ck 5/6/2014 13:42",
@@ -26,4 +28,4 @@
 		"sensorConnectors" : "ck 5/6/2014 13:42",
 		"sensorPortAvailable:" : "ck 5/6/2014 13:42",
 		"setOutput:to:" : "ck 5/6/2014 13:42",
-		"setupEventsWith:" : "ck 5/6/2014 13:42" } }
+		"setupEventsWith:" : "ck 6/1/2014 14:05" } }

@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"drawOn:" : "ck 5/6/2014 13:43",
-		"initialize" : "ck 5/6/2014 13:43",
+		"drawOn:" : "ck 6/1/2014 13:39",
+		"initialize" : "ck 6/1/2014 14:27",
+		"setColorOnAttached:" : "ck 6/1/2014 14:32",
 		"wantsDroppedMorph:event:" : "ck 5/6/2014 13:43" } }

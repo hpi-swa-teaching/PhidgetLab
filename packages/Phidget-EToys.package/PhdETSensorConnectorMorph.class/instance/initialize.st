@@ -1,7 +1,6 @@
 initialization
 initialize
 
-	| pin |
 	super initialize.
 	
 	self 
@@ -11,12 +10,12 @@ initialize
 		borderColor: Color darkGray;
 		borderWidth: 1.
 	
-	pin := PhidgetPolygonMorph
+	self pin: (PhidgetPolygonMorph
 			createLineFrom: self position + ((self width)/2 @ self borderWidth)
 			to: self position + ((self width)/2 @ ((self height)*0.75))
 			color: Color yellow
-			width: 2.
-	self addMorph: pin.
+			width: 2).
+	self addMorph: self pin.
 			
 	overlay := PhdETSensorConnectorOverlayMorph new.
 	overlay position: self position.
