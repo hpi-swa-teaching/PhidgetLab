@@ -1,0 +1,19 @@
+{
+	"category" : "Project07-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"iconicButton",
+		"polygonMorph",
+		"thumbnail",
+		"label",
+		"phidget",
+		"receiver" ],
+	"name" : "AdditionalPartsTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
