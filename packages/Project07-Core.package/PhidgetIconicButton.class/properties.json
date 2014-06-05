@@ -6,7 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"image",
+		"labeledItem",
+		"nonTranslucent",
+		"name" ],
 	"name" : "PhidgetIconicButton",
 	"pools" : [
 		 ],
