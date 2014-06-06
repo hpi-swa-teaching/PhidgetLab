@@ -7,7 +7,7 @@ additionsToViewerCategoryPhidgetPort
 			(slot Speed 'The speed at the Analog Sensor value change (0 - 1000).' Number readOnly Player getIfKitSensorSpeed unused unused)
 			(slot YSpeed 'The speed at the Y-Analog Sensor value change (0 - 1000).' Number readOnly Player getIfKitSensorYSpeed unused unused)
 			(slot YValue 'The Y-Value at the Analog Sensor value change (0 - 1000).' Number readOnly Player getIfKitSensorYValue unused unused)
-			(slot Angle 'The angle of the joystick values' Number readOnly Player angle unused unused)
-			"(slot ChangeTrigger 'Value changes become visible only if the change is greater than the changeTrigger.' Number readWrite Player getIfKitSensorChangeTrigger Player setIfKitSensorChangeTrigger:)" "don't use this, because there might be a bug in our changeTrigger-Primitive"
+			(slot Angle 'The angle of the joystick values.' Number readOnly Player getAngle unused unused)
+			(slot Amplitude 'How far you push the the joystick forward.' Number readOnly Player getAmplitude unused unused)
 		)
 	)

@@ -1,0 +1,3 @@
+accessing
+amplitude
+	^ self calculateAmplitude

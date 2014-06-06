@@ -10,6 +10,8 @@
 		"getAcclRotationAroundYNumber" : "pt 7/3/2009 13:50",
 		"getAcclRotationAroundZ" : "pt 7/3/2009 13:50",
 		"getAcclRotationAroundZNumber" : "pt 7/3/2009 13:50",
+		"getAmplitude" : "rb 6/6/2014 15:55",
+		"getAngle" : "rb 6/6/2014 14:58",
 		"getAttached" : "pt 7/3/2009 13:50",
 		"getIfKitInputValue" : "pt 7/3/2009 13:50",
 		"getIfKitOutputValue" : "pt 7/3/2009 13:50",

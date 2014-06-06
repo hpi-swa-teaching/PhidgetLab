@@ -1,9 +1,11 @@
 {
 	"class" : {
-		"additionsToViewerCategoryPhidgetPort" : "ck 6/1/2014 17:27",
+		"additionsToViewerCategoryPhidgetPort" : "rb 6/6/2014 15:54",
 		"portDescription" : "ck 5/6/2014 16:51" },
 	"instance" : {
-		"angle" : "ck 6/1/2014 17:25",
+		"amplitude" : "rb 6/6/2014 15:56",
+		"angle" : "rb 6/6/2014 14:58",
+		"calculateAmplitude" : "rb 6/6/2014 15:54",
 		"calculateAngle" : "rb 6/5/2014 11:37",
 		"createAndAddSeparatorString" : "ck 5/6/2014 16:51",
 		"createAndAddSlave" : "ck 5/9/2014 16:26",
