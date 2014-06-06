@@ -1,8 +1,9 @@
 loadImage
 load: anImage
 
-	^ self imageCache
+	^ (self imageCache
 		at: anImage
 		ifAbsentPut: [ (self imageLookUpDictionary includesKey: anImage)
-						ifTrue: [ Object readFrom: (self imageLookUpDictionary at: anImage) value ]
-						ifFalse: [ Form fromFileNamed: (self getFullPathFrom: anImage) ] ]
+						ifTrue: [ Object
+									readFrom: (self imageLookUpDictionary at: anImage) value ]
+						ifFalse: [ Form fromFileNamed: (self getFullPathFrom: anImage) ] ]) clone
