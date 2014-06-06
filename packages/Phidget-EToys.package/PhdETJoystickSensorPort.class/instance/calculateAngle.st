@@ -4,7 +4,7 @@ calculateAngle
 	
 	radius := 1.
 	angle := 0.
-	normedAdjacent := radius / 1000 * (500 - slaveValue).
+	normedAdjacent := radius / 1000 * (slaveValue - 500 ).
 	normedOpposite := radius / 1000 * (500 - masterValue).
 	angle := (normedOpposite arcTan: normedAdjacent) radiansToDegrees.
 	angle < 0

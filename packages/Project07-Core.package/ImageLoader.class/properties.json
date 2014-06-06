@@ -1,0 +1,14 @@
+{
+	"category" : "Project07-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ImageLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
