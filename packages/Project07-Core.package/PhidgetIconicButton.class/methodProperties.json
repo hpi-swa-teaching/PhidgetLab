@@ -2,5 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initializeWithThumbnail:withLabel:andColor:andSend:to:with:" : "fw 5/11/2014 17:03",
-		"launchPartFromClick" : "fw 5/11/2014 17:06" } }
+		"addImage:" : "fw 6/5/2014 11:39",
+		"addText:" : "PC 6/1/2014 17:22",
+		"initializeWithThumbnail:withLabel:andColor:andSend:to:with:" : "PC 6/3/2014 10:39",
+		"launchPartFromClick" : "fw 5/11/2014 17:06",
+		"makeColored" : "fw 6/5/2014 11:39",
+		"makeGray" : "fw 6/5/2014 11:38" } }

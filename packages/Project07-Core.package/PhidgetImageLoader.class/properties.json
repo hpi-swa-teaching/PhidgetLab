@@ -1,13 +1,14 @@
 {
 	"category" : "Project07-Core",
 	"classinstvars" : [
-		 ],
+		"Instance" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "ImageLoader",
+		"imageLookUpDictionary",
+		"imageCache" ],
+	"name" : "PhidgetImageLoader",
 	"pools" : [
 		 ],
 	"super" : "Object",

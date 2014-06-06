@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"Instance" : "fw 6/5/2014 11:13",
+		"Instance:" : "fw 6/5/2014 11:13",
+		"reset" : "fw 6/5/2014 11:48" },
+	"instance" : {
+		"bar" : "fw 6/5/2014 02:01",
+		"barOff" : "fw 6/5/2014 02:01",
+		"getFullPathFrom:" : "fw 6/5/2014 11:34",
+		"imageCache" : "fw 6/5/2014 11:17",
+		"imageCache:" : "fw 6/5/2014 11:16",
+		"imageLookUpDictionary" : "fw 6/5/2014 11:47",
+		"imageLookUpDictionary:" : "fw 6/5/2014 11:16",
+		"input" : "fw 6/5/2014 02:01",
+		"inputOff" : "fw 6/5/2014 02:01",
+		"joystick" : "fw 6/5/2014 02:01",
+		"joystickOff" : "fw 6/5/2014 02:01",
+		"light" : "fw 6/2/2014 23:34",
+		"lightOff" : "fw 6/5/2014 02:01",
+		"load:" : "fw 6/6/2014 14:38",
+		"output" : "fw 6/5/2014 02:00",
+		"outputOff" : "fw 6/5/2014 01:59",
+		"rotation" : "fw 6/5/2014 02:00",
+		"rotationOff" : "fw 6/5/2014 01:59",
+		"slider" : "fw 6/5/2014 02:00",
+		"sliderOff" : "fw 6/5/2014 02:00" } }

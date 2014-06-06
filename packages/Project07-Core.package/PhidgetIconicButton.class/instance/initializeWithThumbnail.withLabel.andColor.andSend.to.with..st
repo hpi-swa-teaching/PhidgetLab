@@ -1,23 +1,18 @@
-as yet unclassified
+initialization
 initializeWithThumbnail: aThumbnail withLabel: aLabel andColor: aColor andSend: aSelector to: aReceiver with: aPhidget
 	"Initialize the receiver to show aThumbnail on its face, giving it the label supplied and arranging for it, when the button goes down on it, to obtain a new morph by sending the supplied selector to the supplied receiver"
 
-	| labeledItem nonTranslucent |
+	name := aLabel.
 	nonTranslucent := aColor asNontranslucentColor.
 	labeledItem := AlignmentMorph newColumn.
-	labeledItem color: nonTranslucent.
-	labeledItem borderWidth: 0.
-	labeledItem
-		layoutInset: 4@0;
-		cellPositioning: #center.
-	labeledItem addMorph: aThumbnail.
-	labeledItem addMorphBack: (Morph new extent: (4@4)) beTransparent.
-	labeledItem addMorphBack: (TextMorph new
-		backgroundColor: nonTranslucent;
-		contentsAsIs: aLabel;
-		beAllFont: Preferences standardEToysFont;
-		centered).
-
+	labeledItem color: nonTranslucent;
+				borderWidth: 0;
+				layoutInset: 4@0;
+				cellPositioning: #center.
+	
+	self addImage: aLabel. "früher: labeledItem addMorph: aThumbnail."
+	self addText: aLabel.
+	
 	self
 		beTransparent;
 		labelGraphic: ((labeledItem imageForm: 32 backgroundColor: nonTranslucent forRectangle: labeledItem fullBounds) replaceColor: nonTranslucent withColor: Color transparent);
@@ -28,3 +23,5 @@ initializeWithThumbnail: aThumbnail withLabel: aLabel andColor: aColor andSend: 
 		actWhen: #buttonDown.
 
 	self stationarySetup.
+	
+	

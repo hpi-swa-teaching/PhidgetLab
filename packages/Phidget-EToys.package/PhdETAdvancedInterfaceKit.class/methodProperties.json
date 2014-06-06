@@ -19,6 +19,8 @@
 		"inputChange" : "ck 5/6/2014 13:42",
 		"inputConnectors" : "ck 5/6/2014 13:42",
 		"inputPortAvailable:" : "ck 5/6/2014 13:42",
+		"makeButtonsColored" : "fw 6/3/2014 11:19",
+		"makeButtonsGray" : "fw 6/3/2014 11:19",
 		"makePortsColored" : "ck 6/1/2014 14:34",
 		"makePortsGray" : "ck 6/1/2014 14:33",
 		"outputChange" : "ck 5/6/2014 13:42",
@@ -28,4 +30,4 @@
 		"sensorConnectors" : "ck 5/6/2014 13:42",
 		"sensorPortAvailable:" : "ck 5/6/2014 13:42",
 		"setOutput:to:" : "ck 5/6/2014 13:42",
-		"setupEventsWith:" : "ck 6/1/2014 14:05" } }
+		"setupEventsWith:" : "fw 6/3/2014 13:20" } }
