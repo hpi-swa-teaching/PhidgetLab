@@ -1,0 +1,15 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value",
+		"speed" ],
+	"name" : "PhdETTemperatureSensorMorph",
+	"pools" : [
+		 ],
+	"super" : "CircleMorph",
+	"type" : "normal" }

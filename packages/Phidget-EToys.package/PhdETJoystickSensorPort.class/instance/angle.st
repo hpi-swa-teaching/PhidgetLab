@@ -1,3 +1,3 @@
-accessing
+viewer values
 angle
 	^ self calculateAngle

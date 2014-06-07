@@ -1,6 +1,6 @@
 PartsBin
 descriptionForPartsBinBasic
 
-    ^ self partName:    'Advanced InterfaceKit'
+    ^ self partName:    'InterfaceKit'
         categories:     #('Phidgets')
         documentation:  'An advanced Interface Kit'

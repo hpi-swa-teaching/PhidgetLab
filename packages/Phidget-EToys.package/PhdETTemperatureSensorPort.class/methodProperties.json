@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"additionsToViewerCategoryPhidgetPort" : "ck 6/7/2014 14:55",
+		"portDescription" : "ck 6/7/2014 14:37" },
+	"instance" : {
+		"celcius" : "ck 6/7/2014 15:10",
+		"celciusValue" : "ck 6/7/2014 15:09",
+		"celciusValue:" : "ck 6/7/2014 15:09",
+		"fahrenheit" : "ck 6/7/2014 15:09",
+		"initialize" : "ck 6/7/2014 14:36",
+		"kelvin" : "ck 6/7/2014 15:09" } }

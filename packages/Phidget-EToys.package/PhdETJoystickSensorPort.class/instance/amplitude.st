@@ -1,3 +1,3 @@
-accessing
+viewer values
 amplitude
 	^ self calculateAmplitude

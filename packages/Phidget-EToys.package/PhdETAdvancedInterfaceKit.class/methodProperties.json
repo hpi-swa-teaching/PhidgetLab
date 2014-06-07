@@ -1,9 +1,9 @@
 {
 	"class" : {
 		"descriptionForPartsBin" : "ck 5/6/2014 13:42",
-		"descriptionForPartsBinBasic" : "ck 5/9/2014 16:49" },
+		"descriptionForPartsBinBasic" : "ck 6/7/2014 14:39" },
 	"instance" : {
-		"collectPortDescriptorQuads" : "ck 5/9/2014 16:27",
+		"collectPortDescriptorQuads" : "ck 6/7/2014 14:43",
 		"createAndAddInputConnectors" : "rb 6/1/2014 14:44",
 		"createAndAddOutputConnectors" : "rb 6/1/2014 14:44",
 		"createAndAddSensorConnectors" : "rb 6/1/2014 14:43",

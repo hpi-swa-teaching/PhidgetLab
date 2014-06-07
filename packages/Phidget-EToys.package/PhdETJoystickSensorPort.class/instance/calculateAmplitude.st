@@ -1,4 +1,4 @@
-as yet unclassified
+viewer values
 calculateAmplitude
 	| normedMasterValue normedSlaveValue strengthOfPush normedStrengthOfPush maxStrength normedStrength origin |
 	origin := 500.

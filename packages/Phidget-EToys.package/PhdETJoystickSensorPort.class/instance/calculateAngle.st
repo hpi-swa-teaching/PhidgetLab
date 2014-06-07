@@ -1,4 +1,4 @@
--- all --
+viewer values
 calculateAngle
 	| normedAdjacent normedOpposite angle radius |
 	
