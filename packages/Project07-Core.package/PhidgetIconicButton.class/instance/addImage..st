@@ -1,6 +1,6 @@
 initialization
 addImage: aLabel
 
-	image := ImageMorph new
-		image: (PhidgetImageLoader Instance load: name, '_off' asSymbol).
+	image := ImageMorph new.
+	self makeGray.
 	labeledItem addMorph: image.
