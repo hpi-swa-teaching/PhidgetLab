@@ -1,6 +1,6 @@
 running
 setUpForThumbnailCreation
 	thumbnail := Thumbnail new.
-	label :=  'IconicButton'.
+	label :=  'Joystick'.
 	phidget := PhdETAdvancedInterfaceKit newStandAlone.
-	receiver := PhdETInputPort.
+	receiver := PhdETSensorPort.

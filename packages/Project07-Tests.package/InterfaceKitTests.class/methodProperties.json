@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"sensorsList" : "ck 6/7/2014 18:15" },
+	"instance" : {
+		"interfaceKit" : "ck 6/7/2014 18:13",
+		"interfaceKit:" : "ck 6/7/2014 18:13",
+		"setUp" : "ck 6/7/2014 18:13",
+		"testCountOfPorts" : "ck 6/7/2014 18:20",
+		"testIfAllSensorsExist" : "ck 6/7/2014 18:18" } }

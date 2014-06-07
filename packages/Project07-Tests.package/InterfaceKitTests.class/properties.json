@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"demo" ],
-	"name" : "Project07DemoTest",
+		"interfaceKit" ],
+	"name" : "InterfaceKitTests",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
