@@ -16,13 +16,14 @@ initializeWith: aStatusMorph
 	lastValue := 0.
 	lastValueTime := Time now.
 	self
-		setColor;
-		height: 65;
-		width: 100;
 		createAndAddStatusMorphWith: aStatusMorph;
-		createAndAddVelocityMorph;
+		"createAndAddVelocityMorph"
+		"extent: self statusMorph extent;"
 		update: self class portType;
-		positionNumberString.
+		positionNumberString;
+		setColor;
+		height: self statusMorph height; "65;" 
+		width: self statusMorph width. "100; "
 		
 	(phidget sensorConnectors at: 1) ifNotNil:	
 		[self createPlug].

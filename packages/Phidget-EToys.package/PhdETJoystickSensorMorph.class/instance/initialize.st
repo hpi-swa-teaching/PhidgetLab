@@ -2,10 +2,10 @@ parts bin
 initialize
 
 	super initialize.
-	
-	value := self center.
+	"self image: (PhidgetImageLoader Instance load: self getName, '_off' asSymbol)."
+	"value := self center."
 	"speed := 0."
-	self 
+	"self 
 		color: Color white;
-		createAndAddIndicatorLine.
+		createAndAddIndicatorLine."
 		

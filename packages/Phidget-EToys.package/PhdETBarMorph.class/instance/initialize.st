@@ -6,6 +6,6 @@ initialize
 	max := 1000.
 	value := 0.
 	self
-		color: Color darkGray;
-		createAndAddStatusMorph;
-		createAndAddMiddleLine.
+		color: Color darkGray
+		"createAndAddStatusMorph;
+		createAndAddMiddleLine."

@@ -15,5 +15,5 @@
 	"name" : "PhdETBarMorph",
 	"pools" : [
 		 ],
-	"super" : "RectangleMorph",
+	"super" : "ImageMorph",
 	"type" : "normal" }

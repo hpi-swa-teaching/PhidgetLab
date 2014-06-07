@@ -14,5 +14,5 @@
 	"name" : "PhdETSliderSensorMorph",
 	"pools" : [
 		 ],
-	"super" : "RectangleMorph",
+	"super" : "ImageMorph",
 	"type" : "normal" }

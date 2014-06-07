@@ -1,7 +1,7 @@
 updating
 updateStatus
 
-	currentMorph 
+	"currentMorph 
 		bounds: (self position + ((self width/1000)*value - 2 @ 0) 
-		corner: self position + ((self width/1000)*value - 2 @ self height)).
+		corner: self position + ((self width/1000)*value - 2 @ self height))."
 		

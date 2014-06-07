@@ -11,5 +11,5 @@
 	"name" : "PhdETTemperatureSensorMorph",
 	"pools" : [
 		 ],
-	"super" : "CircleMorph",
+	"super" : "ImageMorph",
 	"type" : "normal" }

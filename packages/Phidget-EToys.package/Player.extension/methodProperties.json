@@ -29,7 +29,6 @@
 		"getServo1MotorMaxPosition" : "pt 7/3/2009 13:51",
 		"getServo1MotorMinPosition" : "pt 7/3/2009 13:51",
 		"getShowWire" : "pt 7/23/2009 17:16",
-		"getTextLCDScrollSeperator" : "pt 7/14/2009 16:09",
 		"openAnyConnection" : "pt 8/24/2009 17:10",
 		"openConnectionWithSerialNumber:" : "pt 8/24/2009 17:11",
 		"openLastConnection" : "pt 8/24/2009 17:10",

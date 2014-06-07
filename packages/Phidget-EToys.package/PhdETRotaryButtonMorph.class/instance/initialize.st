@@ -7,7 +7,7 @@ initialize
 	max := 300.
 	current := 90.
 	
-	self
+	"self
 		color: Color white;
 		createAndAddCurrentMorph;
-		updateCurrentMorph
+		updateCurrentMorph"

@@ -5,13 +5,13 @@ initialize
 	masterValue := 500.
 	super initializeWith: PhdETJoystickSensorMorph new.
 	
-	statusMorph 
+	"statusMorph 
 		extent: (self position + (40 @ 40));
 		position: statusMorph position - ((statusMorph width / 4) @ 3);
-		updateIndicatorLine.
+		updateIndicatorLine."
 	
 	self 
 		createAndAddSlave;
 		createAndAddSeparatorString.
 	
-	velocityMorph hide.
+	"velocityMorph hide."

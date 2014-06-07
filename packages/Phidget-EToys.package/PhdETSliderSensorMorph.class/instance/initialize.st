@@ -6,6 +6,6 @@ initialize
 	max := 1000.
 	value := 0.
 	speed := 0.
-	self 
+	"self 
 		color: Color darkGray;
-		createAndAddStatusMorph.
+		createAndAddStatusMorph."

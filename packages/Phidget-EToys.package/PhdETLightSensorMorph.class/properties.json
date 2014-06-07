@@ -11,5 +11,5 @@
 	"name" : "PhdETLightSensorMorph",
 	"pools" : [
 		 ],
-	"super" : "CircleMorph",
+	"super" : "ImageMorph",
 	"type" : "normal" }
