@@ -1,4 +1,4 @@
 accessing
 reset
 
-	Instance := nil
+	self Instance: nil
