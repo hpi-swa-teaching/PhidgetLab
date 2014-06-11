@@ -1,3 +1,3 @@
 running
 setUpPhidgetPolygonMorph 
-	polygonMorph ifNil: [polygonMorph := PhidgetPolygonMorph].
+	polygonMorph ifNil: [polygonMorph := PolygonMorph].

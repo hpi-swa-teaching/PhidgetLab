@@ -1,7 +1,7 @@
 submorphs-add/remove
 createAndAddIndicatorLine
 
-	indicatorLine := PhidgetPolygonMorph
+	indicatorLine := PolygonMorph
 		createLineFrom: self center
 		to: self center
 		color: Color black

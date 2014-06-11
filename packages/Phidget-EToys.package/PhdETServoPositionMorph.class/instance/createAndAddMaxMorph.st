@@ -2,7 +2,7 @@ initialization
 createAndAddMaxMorph
 	"The Morph representing a little pointer to visualize the maximal able position of the servo."
 	
-	maxMorph := PhidgetPolygonMorph 
+	maxMorph := PolygonMorph 
 		createLineFrom: self position
 		to: self position + (1 @ 1)
 		color: Color red

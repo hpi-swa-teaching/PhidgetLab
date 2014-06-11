@@ -1,7 +1,7 @@
 initialization
 createAndAddMiddleLine
 
-	lineMorph := PhidgetPolygonMorph
+	lineMorph := PolygonMorph
 		createLineFrom: statusMorph topCenter
 		to: statusMorph bottomCenter
 		color: Color black
