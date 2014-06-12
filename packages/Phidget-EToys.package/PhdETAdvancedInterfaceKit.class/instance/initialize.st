@@ -14,7 +14,7 @@ initialize
 	
 	self
 		setLabel: aLabel;
-		width: 355;
+		width: 305;
 		height: 150;
 		color: Color white.
 				
