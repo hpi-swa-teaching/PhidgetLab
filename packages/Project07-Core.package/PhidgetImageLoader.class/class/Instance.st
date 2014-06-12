@@ -1,5 +1,5 @@
 accessing
 Instance
 
-	^ Instance
-		ifNil: [Instance := super new]
+	^ super new "Instance
+		ifNil: [Instance := super new]"

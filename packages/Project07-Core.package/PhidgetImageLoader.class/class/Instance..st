@@ -1,4 +1,4 @@
 accessing
 Instance: anObject
 
-	Instance := anObject
+	"Instance := anObject"
