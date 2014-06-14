@@ -2,8 +2,10 @@
 	"class" : {
 		"sensorsList" : "ck 6/7/2014 18:15" },
 	"instance" : {
+		"allConnectors:areNotGray:" : "ck 6/11/2014 21:46",
 		"interfaceKit" : "ck 6/7/2014 18:13",
 		"interfaceKit:" : "ck 6/7/2014 18:13",
-		"setUp" : "ck 6/7/2014 18:13",
+		"setUp" : "ck 6/11/2014 21:53",
+		"testColorOfInterfaceKit" : "ck 6/12/2014 11:51",
 		"testCountOfPorts" : "ck 6/7/2014 18:20",
 		"testIfAllSensorsExist" : "ck 6/7/2014 18:18" } }

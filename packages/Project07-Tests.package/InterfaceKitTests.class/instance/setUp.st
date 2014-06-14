@@ -1,3 +1,3 @@
 running
 setUp
-	interfaceKit := PhdETAdvancedInterfaceKit newStandAlone.
+	self interfaceKit: PhdETAdvancedInterfaceKit newStandAlone.
