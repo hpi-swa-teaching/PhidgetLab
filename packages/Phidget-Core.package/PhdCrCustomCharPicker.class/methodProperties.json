@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"newWithChar:andIndex:" : "fs 8/13/2009 18:58" },
+	"instance" : {
+		"allClick" : "fs 8/13/2009 18:26",
+		"cancelClick" : "fs 8/13/2009 18:40",
+		"customChar:" : "fs 8/13/2009 18:20",
+		"drawButtons" : "fs 8/13/2009 12:11",
+		"drawPixel" : "fs 8/13/2009 11:50",
+		"extent:" : "fs 8/13/2009 11:10",
+		"getCustomChar" : "fs 8/13/2009 18:22",
+		"index:" : "fs 8/12/2009 20:45",
+		"initialCustomChar:" : "fs 8/13/2009 18:19",
+		"initialize" : "fs 8/13/2009 18:28",
+		"initializeAllButton" : "fs 8/13/2009 11:39",
+		"initializeButtons" : "fs 8/13/2009 12:09",
+		"initializeCancelButton" : "fs 8/13/2009 11:39",
+		"initializeNoneButton" : "fs 8/13/2009 11:39",
+		"initializeOkButton" : "fs 8/13/2009 11:39",
+		"initializePixel" : "fs 8/13/2009 10:35",
+		"initializeResetButton" : "fs 8/13/2009 12:09",
+		"minHeight" : "fs 8/13/2009 11:52",
+		"minWidth" : "fs 8/13/2009 10:54",
+		"noneClick" : "fs 8/13/2009 18:27",
+		"okClick" : "fs 8/13/2009 10:28",
+		"pixelChanged" : "fs 8/13/2009 18:39",
+		"resetClick" : "fs 8/13/2009 18:27",
+		"update" : "fs 8/13/2009 18:55" } }
