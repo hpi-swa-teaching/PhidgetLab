@@ -1,8 +1,10 @@
 accessing
 positionWire
 	"Positions the Wire so that it reaches from the origin Phidgits to me. If the Wire doenstn exists, create it."
-	| middleOfPlug leftConnector |
+
+	"Cannot create Wire while initialisation, because that ruins my Thumbnail. So I do it here."
+	| middleOfPlug middleOfLeftSide |
 	middleOfPlug := plug position + ((plug width) / 2 @ plug height).
-	leftConnector := self referencePositionInWorld + ((self width/2) @ (-1 * self height/2)).
+	middleOfLeftSide := self referencePositionInWorld + ((self width/2) @ 0).
 	self wire ifNil: [ self createWire ].
-	self wire setVertices: { middleOfPlug. leftConnector }.
+	self wire setVertices: { middleOfPlug. middleOfLeftSide }.
