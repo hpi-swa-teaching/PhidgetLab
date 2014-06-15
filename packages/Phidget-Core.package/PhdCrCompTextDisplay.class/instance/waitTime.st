@@ -1,0 +1,4 @@
+scrolling
+waitTime
+
+	^ waitTime

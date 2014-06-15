@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"knownCallbacks" : "lk 5/30/2009 20:03",
+		"primGetNewId" : "lk 8/24/2009 18:43",
+		"systemCallbacks" : "lk 8/13/2009 11:24" },
+	"instance" : {
+		"deleteComponents" : "lk 6/15/2009 20:31",
+		"initialize" : "lk 6/16/2009 21:11",
+		"initializeComponents" : "lk 8/6/2009 21:56",
+		"led" : "lk 6/15/2009 21:21",
+		"onOutputChange" : "lk 8/13/2009 11:46",
+		"onTagFound" : "lk 8/13/2009 11:46",
+		"onTagLost" : "lk 8/13/2009 11:46",
+		"outputChanged" : "lk 8/13/2009 11:33",
+		"outputs" : "lk 6/15/2009 16:15",
+		"registerSemaphores" : "lk 6/15/2009 17:31",
+		"resetState" : "lk 8/6/2009 22:18",
+		"rfidSensor" : "lk 6/15/2009 21:20",
+		"tagFound" : "lk 8/13/2009 11:33",
+		"tagLost" : "lk 8/13/2009 11:33" } }

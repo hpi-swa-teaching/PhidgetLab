@@ -1,0 +1,15 @@
+{
+	"category" : "Phidget-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "fs 8/13/2009 12:32",
+	"instvars" : [
+		"upper",
+		"lower" ],
+	"name" : "PhdCrCustomChar",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
