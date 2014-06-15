@@ -1,0 +1,4 @@
+mocking
+sensorPortAvailable: aNumber
+
+	^ true

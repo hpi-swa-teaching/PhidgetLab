@@ -1,0 +1,4 @@
+mocking
+findFirstFreeSensorConnector
+
+	^ 1

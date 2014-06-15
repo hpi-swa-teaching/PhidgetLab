@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"connectTo:" : "yb 6/3/2013 09:13",
+		"connectWith:" : "yb 6/3/2013 09:13",
+		"disconnectFrom:" : "AK 6/3/2013 12:06",
+		"done" : "AK 6/3/2013 12:01",
+		"done:" : "AK 6/3/2013 12:02",
+		"findFirstFreeInputConnector" : "fw 6/10/2013 11:24",
+		"findFirstFreeOutputConnector" : "fw 6/10/2013 11:24",
+		"findFirstFreeSensorConnector" : "fw 6/10/2013 11:24",
+		"getSensor:" : "ja 5/22/2013 23:19",
+		"initialize" : "FW 6/27/2013 16:02",
+		"invertedValue" : "FW 5/30/2013 15:52",
+		"nextValue" : "AK 6/3/2013 12:01",
+		"number" : "AK 6/3/2013 11:55",
+		"registerPort:" : "FW 6/27/2013 16:03",
+		"reset" : "AK 6/3/2013 11:59",
+		"sensorConnectors" : "yb 6/3/2013 09:11",
+		"sensorPortAvailable:" : "AK 6/3/2013 12:07",
+		"speed" : "FW 5/30/2013 16:50",
+		"unregisterPort:" : "AK 6/3/2013 12:09",
+		"updatePort" : "FW 6/27/2013 16:04",
+		"value" : "ja 5/22/2013 23:20",
+		"value:" : "FW 5/30/2013 16:06" } }

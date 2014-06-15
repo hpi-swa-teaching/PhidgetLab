@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "FW 6/27/2013 13:43",
+		"tearDown" : "FW 6/27/2013 13:36",
+		"testConnectDisconnect" : "FW 6/27/2013 13:56",
+		"testEventHandling" : "FW 6/27/2013 13:36" } }

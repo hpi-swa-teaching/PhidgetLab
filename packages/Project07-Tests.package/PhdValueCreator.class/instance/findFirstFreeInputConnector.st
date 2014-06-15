@@ -1,0 +1,4 @@
+mocking
+findFirstFreeInputConnector
+
+	^ 1

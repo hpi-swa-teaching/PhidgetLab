@@ -1,0 +1,14 @@
+{
+	"category" : "Project07-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"plug" ],
+	"name" : "SensorPlugMorphTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

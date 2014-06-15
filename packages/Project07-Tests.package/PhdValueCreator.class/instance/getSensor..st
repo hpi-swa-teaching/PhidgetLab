@@ -1,0 +1,4 @@
+mocking
+getSensor: aPortNumber
+
+	^ self

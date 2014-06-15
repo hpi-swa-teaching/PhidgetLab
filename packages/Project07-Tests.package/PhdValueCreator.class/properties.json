@@ -1,0 +1,17 @@
+{
+	"category" : "Project07-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"port",
+		"value",
+		"done",
+		"ports" ],
+	"name" : "PhdValueCreator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

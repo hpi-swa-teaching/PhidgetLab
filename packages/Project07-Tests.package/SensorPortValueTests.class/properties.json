@@ -1,0 +1,15 @@
+{
+	"category" : "Project07-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"kit",
+		"joystick" ],
+	"name" : "SensorPortValueTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
