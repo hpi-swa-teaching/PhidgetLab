@@ -1,5 +1,5 @@
 viewer values
 newton
-	| calibrationValue |
-	calibrationValue := 0.0392.
-	^ lastValue * calibrationValue.
+	| gravityAcceleration |
+	gravityAcceleration := 9.81.
+	^ self convertedValue * gravityAcceleration.
