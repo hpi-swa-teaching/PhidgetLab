@@ -1,4 +1,0 @@
-sizing
-minWidth
-
-	^ 155
