@@ -4,8 +4,10 @@ baseline: spec
 	spec
 		for: #'common' do: [
 			spec
+				package: 'Phidget-EToys';
 				package: 'Project07-Core';
-				package: 'Project07-Tests' with: [ spec requires: #('default')];
+				package: 'Phidget-Core' with: [ spec requires: #('Phidget-EToys' 'Project07-Core')];
+				package: 'Project07-Tests' with: [ spec requires: #('Phidget-Core')];
 				yourself.
 			spec
 				group: 'default' with: #('Project07-Core');
