@@ -10,7 +10,9 @@ baseline: spec
 				package: 'Project07-Tests' with: [ spec requires: #('default')];
 				yourself.
 			spec
-				group: 'default' with: #('Project07-Core', 'Project07-Core', 'Phidget-Core', 'Phidget-EToys');
+				group: 'default' with: #('Project07-Core');
+				group: 'phidgets' with: #('Phidget-Core');
+				group: 'etoys' with: #('Phidget-EToys');
 				group: 'Tests' with: #('Project07-Tests');
 				group: 'TravisCI' with: #('Tests');
 				yourself]
