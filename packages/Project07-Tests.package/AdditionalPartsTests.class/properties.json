@@ -11,7 +11,8 @@
 		"thumbnail",
 		"label",
 		"phidget",
-		"receiver" ],
+		"receiver",
+		"string" ],
 	"name" : "AdditionalPartsTests",
 	"pools" : [
 		 ],
