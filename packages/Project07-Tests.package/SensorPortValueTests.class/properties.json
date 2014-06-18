@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"kit",
-		"joystick" ],
+		"joystick",
+		"bar" ],
 	"name" : "SensorPortValueTests",
 	"pools" : [
 		 ],

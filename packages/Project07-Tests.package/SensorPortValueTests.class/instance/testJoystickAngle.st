@@ -1,4 +1,4 @@
-running
+testing
 testJoystickAngle
 	| iteration xValue yValue calculatedAngle expectedAngle|
 	iteration := 3.

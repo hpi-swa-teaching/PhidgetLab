@@ -2,9 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
+		"bar" : "ck 6/18/2014 08:46",
+		"bar:" : "ck 6/18/2014 08:46",
 		"joystick" : "rb 6/15/2014 16:37",
 		"joystick:" : "rb 6/15/2014 16:37",
 		"kit" : "rb 6/15/2014 16:37",
 		"kit:" : "rb 6/15/2014 16:37",
-		"setUp" : "rb 6/15/2014 16:36",
-		"testJoystickAngle" : "rb 6/15/2014 16:38" } }
+		"player" : "ck 6/18/2014 08:37",
+		"player:" : "ck 6/18/2014 08:37",
+		"setUp" : "ck 6/18/2014 08:47",
+		"tearDown" : "ck 6/18/2014 08:50",
+		"testBarValues" : "ck 6/18/2014 08:50",
+		"testJoystickAngle" : "ck 6/18/2014 08:39" } }
