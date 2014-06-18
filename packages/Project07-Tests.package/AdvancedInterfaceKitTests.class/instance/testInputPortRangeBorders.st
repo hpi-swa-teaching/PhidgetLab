@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testInputPortRangeBorders
 
 	[inputPort isInRange: 0] assert.

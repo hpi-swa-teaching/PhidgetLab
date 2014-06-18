@@ -1,4 +1,4 @@
-running
+testing
 testColorOfInterfaceKit
 	| interfaceKitParts attached |
 	attached := self interfaceKit getAttached.

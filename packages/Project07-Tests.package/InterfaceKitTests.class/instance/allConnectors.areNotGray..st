@@ -1,4 +1,4 @@
-running
+testing
 allConnectors: connectorList areNotGray: aBoolean
 	aBoolean 
 		ifTrue: [^ connectorList allSatisfy: 

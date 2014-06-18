@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testInputConnectorWantsPlug
 
 	| connector plug event |

@@ -1,4 +1,4 @@
-as yet unclassified
+running
 tearDown
 
 	"It is very important to delete the testing instances immediately, otherwise it can cause VM crashes!"

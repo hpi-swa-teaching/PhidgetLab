@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testPortUpdates
 
 	inputPort receivedUpdate: false.

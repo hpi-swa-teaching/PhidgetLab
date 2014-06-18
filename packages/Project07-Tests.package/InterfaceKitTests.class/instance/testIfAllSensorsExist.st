@@ -1,4 +1,4 @@
-running
+testing
 testIfAllSensorsExist
 	| sensorDescriptionsInterfaceKit sensorsInterfaceKit allSensors |
 	sensorDescriptionsInterfaceKit := interfaceKit collectPortDescriptorQuads.

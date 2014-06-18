@@ -1,4 +1,4 @@
-as yet unclassified
+running
 setupLightSensorPort
 
 	kit ifNotNil:
