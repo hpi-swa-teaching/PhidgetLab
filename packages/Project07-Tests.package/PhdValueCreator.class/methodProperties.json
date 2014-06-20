@@ -10,6 +10,7 @@
 		"findFirstFreeInputConnector" : "fw 6/10/2013 11:24",
 		"findFirstFreeOutputConnector" : "fw 6/10/2013 11:24",
 		"findFirstFreeSensorConnector" : "fw 6/10/2013 11:24",
+		"getAttached" : "ck 6/20/2014 21:38",
 		"getSensor:" : "ja 5/22/2013 23:19",
 		"initialize" : "FW 6/27/2013 16:02",
 		"invertedValue" : "FW 5/30/2013 15:52",
