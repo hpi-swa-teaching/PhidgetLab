@@ -1,7 +1,5 @@
 initialization
 initialize
 
-	super initializeWith: PhdETAssistentSensorMorph new.
-	statusMorph master: self master.
-	"velocityMorph hide."
+	super initialize.
 	numberString position: (numberString position)

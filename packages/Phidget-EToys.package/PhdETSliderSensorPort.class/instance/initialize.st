@@ -1,4 +1,4 @@
 initialization
 initialize
 
-	super initializeWith: PhdETSliderSensorMorph new
+	super initialize.

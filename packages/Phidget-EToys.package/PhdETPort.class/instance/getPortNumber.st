@@ -1,4 +1,4 @@
 accessing
 getPortNumber
 
-	^ portNumber
+	^ self portNumber

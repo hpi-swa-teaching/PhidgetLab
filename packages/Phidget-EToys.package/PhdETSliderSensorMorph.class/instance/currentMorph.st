@@ -1,4 +1,0 @@
-accessing
-currentMorph
-
-	^ currentMorph

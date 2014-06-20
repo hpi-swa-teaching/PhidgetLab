@@ -1,0 +1,4 @@
+accessing
+separatorString
+
+	^ separatorString

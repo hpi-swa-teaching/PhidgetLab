@@ -1,6 +1,6 @@
 initialization
 initialize
 
-	super initializeWith: PhdETRotaryButtonMorph new.
-	inverted := true.
+	super initialize.
+	self inverted: true.
 	

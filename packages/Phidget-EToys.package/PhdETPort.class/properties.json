@@ -15,5 +15,5 @@
 	"name" : "PhdETPort",
 	"pools" : [
 		 ],
-	"super" : "BorderedMorph",
+	"super" : "ImageMorph",
 	"type" : "normal" }

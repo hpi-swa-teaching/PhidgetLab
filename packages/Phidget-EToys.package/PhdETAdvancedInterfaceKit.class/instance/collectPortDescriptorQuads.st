@@ -12,4 +12,6 @@ collectPortDescriptorQuads
 	PhdETSliderSensorPort addPortDescriptorQuadsTo: quads.
 	PhdETJoystickSensorPort addPortDescriptorQuadsTo: quads.
 	PhdETTemperatureSensorPort addPortDescriptorQuadsTo: quads.
+	PhdETTouchSensorPort addPortDescriptorQuadsTo: quads.
+	PhdETVibrationSensorPort addPortDescriptorQuadsTo: quads.
 	^ quads

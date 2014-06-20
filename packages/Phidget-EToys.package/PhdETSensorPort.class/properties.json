@@ -6,8 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"statusMorph",
-		"velocityMorph",
+		"speed",
 		"inverted",
 		"lastValueTime",
 		"lastValue" ],

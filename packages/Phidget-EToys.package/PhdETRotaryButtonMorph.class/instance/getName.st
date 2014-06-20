@@ -1,4 +1,0 @@
-accessing
-getName
-
-	^ #Rotation

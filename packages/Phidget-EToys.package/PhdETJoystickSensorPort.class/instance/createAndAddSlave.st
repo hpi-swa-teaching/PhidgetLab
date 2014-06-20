@@ -1,6 +1,6 @@
 initialization
 createAndAddSlave
 
-	slave := PhdETAssistentSensorPort newStandAlone: self phidget.
-	slave master: self.
+	self slave: (PhdETAssistentSensorPort newStandAlone: self phidget).
+	self slave master: self.
 	self addMorph: slave.

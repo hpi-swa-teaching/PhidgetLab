@@ -3,5 +3,6 @@
 		"additionsToViewerCategoryPhidgetPort" : "ck 6/7/2014 13:37",
 		"portDescription" : "ck 5/6/2014 16:50" },
 	"instance" : {
-		"initialize" : "ck 5/9/2014 16:29",
-		"lux" : "ck 6/7/2014 13:41" } }
+		"initialize" : "rb 6/20/2014 15:21",
+		"lux" : "rb 6/20/2014 16:13",
+		"name" : "rb 6/20/2014 15:16" } }

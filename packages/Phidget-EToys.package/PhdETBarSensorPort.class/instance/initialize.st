@@ -1,4 +1,4 @@
 initialization
 initialize
 	
-	super initializeWith: PhdETPositiveBarMorph new.
+	super initialize.

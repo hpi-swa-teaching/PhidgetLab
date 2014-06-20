@@ -1,4 +1,0 @@
-accessing
-barColor
-
-	^ statusMorph color
