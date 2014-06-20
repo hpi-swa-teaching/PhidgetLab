@@ -1,0 +1,4 @@
+mocking
+getAttached 
+
+	^ true
