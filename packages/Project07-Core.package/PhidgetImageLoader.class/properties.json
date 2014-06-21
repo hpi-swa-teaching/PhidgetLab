@@ -6,8 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"imageLookUpDictionary",
-		"imageCache" ],
+		 ],
 	"name" : "PhidgetImageLoader",
 	"pools" : [
 		 ],

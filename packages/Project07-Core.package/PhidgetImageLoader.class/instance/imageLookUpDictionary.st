@@ -1,18 +1,17 @@
 accessing
 imageLookUpDictionary
 
-	^ imageLookUpDictionary
-		ifNil: [  imageLookUpDictionary := Dictionary newFrom:
+	^ Dictionary newFrom:
 			{ #'Bar' -> [ self bar ].
 			#'Bar_off' -> [ self barOff ].
 			#'Input' -> [ self input ].
 			#'Input_off' -> [ self inputOff ].
 			#'Joystick' -> [ self joystick ].
 			#'Joystick_off' -> [ self joystickOff ].
-			#'LED' -> [ self led ].
+			#'LED' -> [ self ledWhite ].
 			#'LED_off' -> [ self ledOff ].
-			#'LED_red' -> [ self ledRed ].
-			#'LED_red_off' -> [ self ledRedOff ].
+			#'LED_red' -> [ self ledYellow ].
+			#'LED_red_off' -> [ self ledOff ].
 			#'Light' -> [ self light ].
 			#'Light_off' -> [ self lightOff ].
 			#'Output' -> [ self output ].
@@ -27,4 +26,3 @@ imageLookUpDictionary
 			#'Touch_off' -> [ self touchOff ].
 			#'Vibration' -> [ self vibration ].
 			#'Vibration_off' -> [ self vibrationOff ]. }
-  ]
