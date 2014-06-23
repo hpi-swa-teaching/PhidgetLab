@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"additionsToViewerCategoryPhidgetPort" : "fw 5/27/2014 11:23",
-		"portDescription" : "ck 5/6/2014 16:49",
+		"portDescription" : "ck 6/23/2014 20:52",
 		"portType" : "ck 5/6/2014 16:49" },
 	"instance" : {
 		"connectPlug" : "ck 5/6/2014 16:49",
@@ -10,9 +10,9 @@
 		"getIfKitOutputValue" : "ck 5/6/2014 16:49",
 		"initialize" : "rb 6/20/2014 16:53",
 		"isInRange:" : "ck 5/6/2014 16:49",
+		"loadAppropriateColoredImage" : "ck 6/23/2014 20:51",
 		"name" : "rb 6/20/2014 16:51",
 		"positionWire" : "ck 5/6/2014 16:49",
-		"setColor" : "ck 6/1/2014 14:21",
 		"setIfKitOutputValue:" : "ck 5/6/2014 16:49",
 		"setStatus:" : "rb 6/20/2014 16:54",
 		"update" : "ck 5/6/2014 16:49" } }
