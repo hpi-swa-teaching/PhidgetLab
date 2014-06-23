@@ -14,8 +14,8 @@ initialize
 	
 	self
 		setLabel: aLabel;
-		width: 400;
-		height: 200;
+		width: 410;
+		height: 190;
 		color: Color white.
 				
 	"open the phidget, so that it's ready to be used.
