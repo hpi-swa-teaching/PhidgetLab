@@ -1,0 +1,14 @@
+{
+	"category" : "Project07-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhdETTool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
