@@ -11,7 +11,7 @@ initialize
 	self
 		update: self class portType;
 		positionNumberString;
-		loadAppropriateColoredImage. 
+		changeToAppropiateColor. 
 				
 	(phidget sensorConnectors at: 1) ifNotNil:	
 		[self createPlug].

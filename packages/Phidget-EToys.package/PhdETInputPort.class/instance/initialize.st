@@ -10,7 +10,7 @@ initialize
 			[portNumber := number].
 	
 	self
-		loadAppropriateColoredImage;
+		changeToAppropiateColor;
 		height: 70;
 		createAndAddStatusMorph;
 		update: self class portType.

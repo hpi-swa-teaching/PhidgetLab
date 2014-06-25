@@ -6,4 +6,5 @@ plugTo: aConnector
 		plugged: true;
 		connector: aConnector.
 	(self port) 
-		ifNotNil: [self port setPortNumber: (connector number)].
+		ifNotNil: [self port setPortNumber: (connector number);
+						   makeColored].
