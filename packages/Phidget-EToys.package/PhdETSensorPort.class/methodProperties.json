@@ -12,7 +12,7 @@
 		"getIfKitSensorInverted" : "ck 5/6/2014 16:57",
 		"getIfKitSensorSpeed" : "rb 6/20/2014 15:43",
 		"getIfKitSensorValue" : "ck 5/6/2014 16:57",
-		"initialize" : "ck 6/25/2014 17:01",
+		"initialize" : "rb 6/25/2014 17:19",
 		"inverted" : "ck 5/6/2014 16:57",
 		"inverted:" : "ck 5/6/2014 16:57",
 		"isInRange:" : "ck 5/6/2014 16:57",

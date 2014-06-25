@@ -1,4 +1,0 @@
-accessing
-numberString
-
-	^ numberString

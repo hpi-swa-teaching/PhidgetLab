@@ -10,7 +10,6 @@ initialize
 	
 	self
 		update: self class portType;
-		positionNumberString;
 		changeToAppropiateColor. 
 				
 	(phidget sensorConnectors at: 1) ifNotNil:	

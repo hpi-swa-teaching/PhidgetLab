@@ -4,7 +4,7 @@
 	"instance" : {
 		"drawOn:" : "ck 5/6/2014 16:52",
 		"getIfKitSensorSpeed" : "rb 6/20/2014 16:33",
-		"initialize" : "ck 6/23/2014 20:59",
+		"initialize" : "rb 6/25/2014 17:22",
 		"master" : "ck 5/6/2014 16:52",
 		"master:" : "rb 6/20/2014 16:33",
 		"name" : "rb 6/20/2014 16:41",
