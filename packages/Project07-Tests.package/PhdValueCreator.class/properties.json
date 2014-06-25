@@ -9,7 +9,10 @@
 		"port",
 		"value",
 		"done",
-		"ports" ],
+		"ports",
+		"attached",
+		"color",
+		"portNumber" ],
 	"name" : "PhdValueCreator",
 	"pools" : [
 		 ],

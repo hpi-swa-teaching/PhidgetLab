@@ -1,5 +1,7 @@
 running
 setUp
-
 	super setUp.
-	plug := PhdETSensorPlugMorph new
+	self kit: PhdETAdvancedInterfaceKit newStandAlone.
+	self plug: PhdETSensorPlugMorph new.
+	self plug connector: PhdETSensorConnectorMorph new.
+	self plug port: (PhdETLightSensorPort newStandAlone: self kit).

@@ -1,5 +1,5 @@
 testing
-testIfThumbnailInitalizesWithPhidget
+testThumbnailInitalizesWithPhidget
 
 	self setUpForThumbnailCreation.
 	self shouldnt: 

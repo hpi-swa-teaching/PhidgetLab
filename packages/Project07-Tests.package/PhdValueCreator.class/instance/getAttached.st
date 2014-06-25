@@ -1,4 +1,0 @@
-mocking
-getAttached 
-
-	^ true
