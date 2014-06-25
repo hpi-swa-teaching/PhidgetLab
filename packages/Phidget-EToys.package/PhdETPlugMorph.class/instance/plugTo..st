@@ -7,4 +7,4 @@ plugTo: aConnector
 		connector: aConnector.
 	(self port) 
 		ifNotNil: [self port setPortNumber: (connector number);
-						   makeColored].
+						   changeToAppropiateColor].
