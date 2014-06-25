@@ -1,4 +1,4 @@
 accessing
 getIfKitSensorYValue
 
-	^ slaveValue
+	^ self slaveValue

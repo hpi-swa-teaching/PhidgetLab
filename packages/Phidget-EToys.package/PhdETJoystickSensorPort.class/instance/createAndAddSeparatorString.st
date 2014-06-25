@@ -1,10 +1,10 @@
 initialization
 createAndAddSeparatorString
 
-	separatorString := (StringMorph new
+	self separatorString: (StringMorph new
 							contents: '|';
 							emphasis: 1;
 							yourself).
 	self 
-		addMorph: separatorString;
+		addMorph: self separatorString;
 		positionSeparatorString.

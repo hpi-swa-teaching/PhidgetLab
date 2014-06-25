@@ -2,5 +2,5 @@ updating
 setStatus: aNumber
 
 	
-	masterValue := aNumber.
+	self masterValue: aNumber.
 	self speed: (self calcSpeed: aNumber).

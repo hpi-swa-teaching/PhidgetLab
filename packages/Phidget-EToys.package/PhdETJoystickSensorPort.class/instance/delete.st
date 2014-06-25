@@ -1,5 +1,5 @@
 initialization
 delete
 
-	slave ifNotNil: [slave delete].
+	self slave ifNotNil: [self slave delete].
 	super delete.

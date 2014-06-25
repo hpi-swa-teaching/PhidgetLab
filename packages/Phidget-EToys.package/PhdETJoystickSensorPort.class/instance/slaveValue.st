@@ -1,4 +1,4 @@
 accessing
 slaveValue
 
-	^ slaveValue
+	^ self slave lastValue

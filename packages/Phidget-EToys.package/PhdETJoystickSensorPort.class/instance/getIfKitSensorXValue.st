@@ -1,4 +1,4 @@
 accessing
 getIfKitSensorXValue
 
-	^ masterValue
+	^ self masterValue

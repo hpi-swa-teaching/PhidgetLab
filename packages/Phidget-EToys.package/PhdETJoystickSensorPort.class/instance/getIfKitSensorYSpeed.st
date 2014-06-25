@@ -1,4 +1,4 @@
 accessing
 getIfKitSensorYSpeed
 
-	^ slave speed
+	^ self slave speed
