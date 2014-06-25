@@ -6,12 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"image",
-		"labeledItem",
-		"nonTranslucent",
-		"name" ],
-	"name" : "PhidgetIconicButton",
+		 ],
+	"name" : "PhdImageLoader",
 	"pools" : [
 		 ],
-	"super" : "IconicButton",
+	"super" : "Object",
 	"type" : "normal" }

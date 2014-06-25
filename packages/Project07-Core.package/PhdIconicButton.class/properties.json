@@ -6,9 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "PhidgetImageLoader",
+		"image",
+		"labeledItem",
+		"nonTranslucent",
+		"name" ],
+	"name" : "PhdIconicButton",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "IconicButton",
 	"type" : "normal" }
