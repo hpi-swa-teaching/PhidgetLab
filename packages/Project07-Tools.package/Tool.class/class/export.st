@@ -39,7 +39,7 @@ zip addString:  'self fileInMonticelloZipVersionNamed: ''' , packageA, '.mcz''.
  self fileInMonticelloZipVersionNamed: ''' , packageC, '.mcz''.
  self fileInMonticelloZipVersionNamed: ''' , packageD, '.mcz''.
 (FileDirectory new fileExists: ((FileDirectory default) containingDirectory fullName, FileDirectory slash, ''Etoys-To-Go 5.0.app'', FileDirectory slash, ''PhidgetPlugin.dll''))
-	ifTrue: [self extractMember: ''PhidgetPlugin.dll'' toFileNamed: (FileDirectory default) containingDirectory fullName, FileDirectory slash, ''Etoys-To-Go 5.0.app'', FileDirectory slash, ''PhidgetPlugin.dll''].'
+	ifFalse: [self extractMember: ''PhidgetPlugin.dll'' toFileNamed: (FileDirectory default) containingDirectory fullName, FileDirectory slash, ''Etoys-To-Go 5.0.app'', FileDirectory slash, ''PhidgetPlugin.dll''].'
  as: 'install/preamble'.
 
 zip writeToFileNamed: packageA , '.sar'.
