@@ -4,9 +4,9 @@
 	"instance" : {
 		"drawOn:" : "ck 5/6/2014 16:52",
 		"getIfKitSensorSpeed" : "rb 6/20/2014 16:33",
-		"initialize" : "rb 6/25/2014 17:22",
+		"initialize" : "rb 6/27/2014 16:01",
 		"master" : "ck 5/6/2014 16:52",
 		"master:" : "rb 6/20/2014 16:33",
-		"name" : "rb 6/20/2014 16:41",
+		"name" : "rb 6/27/2014 16:47",
 		"positionNumberString" : "ck 5/6/2014 16:52",
-		"positionWire" : "ck 6/23/2014 20:52" } }
+		"positionWire" : "rb 6/27/2014 17:03" } }
