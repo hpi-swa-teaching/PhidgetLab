@@ -2,5 +2,7 @@ initialization
 initialize
 
 	super initialize.
-	self borderWidth: 2.
-	self off.
+	self
+		extent: 40 @ 40;
+		borderWidth: 2;
+		off
