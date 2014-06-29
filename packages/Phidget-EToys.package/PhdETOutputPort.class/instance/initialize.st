@@ -11,7 +11,7 @@ initialize
 	self
 		changeToAppropiateColor;
 		height: 70;
-		"createAndAddStatusMorph;"
+		createAndAddStatusMorph;
 		update: self class portType.
 	(phidget outputConnectors at: 1) ifNotNil:	
 		[self createPlug].
