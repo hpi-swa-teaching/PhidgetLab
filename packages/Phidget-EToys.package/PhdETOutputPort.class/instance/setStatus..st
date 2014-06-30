@@ -1,4 +1,4 @@
 accessing
 setStatus: aBoolean
 
-	"statusMorph setStatus: aBoolean."
+	statusMorph setStatus: aBoolean.
