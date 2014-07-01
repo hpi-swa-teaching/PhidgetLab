@@ -8,8 +8,7 @@
 	"instvars" : [
 		"slave",
 		"slaveValue",
-		"masterValue",
-		"separatorString" ],
+		"masterValue" ],
 	"name" : "PhdETJoystickSensorPort",
 	"pools" : [
 		 ],
