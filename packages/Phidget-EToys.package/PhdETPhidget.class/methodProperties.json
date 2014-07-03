@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"additionsToViewerCategories" : "fw 5/27/2014 11:21",
+		"additionsToViewerCategories" : "ck 7/3/2014 17:02",
 		"clearSampleImages" : "ck 5/6/2014 13:40",
 		"descriptionForPartsBinAbstract" : "ck 5/6/2014 13:40",
 		"descriptionForPartsBinBasic" : "ck 5/6/2014 13:40",
@@ -26,6 +26,7 @@
 		"openLastConnection" : "ck 5/6/2014 13:40",
 		"positionLabel" : "ck 5/6/2014 13:40",
 		"reconnect" : "ck 5/6/2014 13:40",
+		"refresh" : "ck 7/3/2014 16:58",
 		"serialNumber" : "ck 5/6/2014 13:40",
 		"setLabel:" : "ck 5/6/2014 13:40",
 		"thumbnailCreation" : "ck 5/6/2014 13:40" } }

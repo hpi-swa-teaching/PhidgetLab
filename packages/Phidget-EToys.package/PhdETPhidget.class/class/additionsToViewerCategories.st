@@ -14,6 +14,7 @@ additionsToViewerCategories
 			(command openLastConnection 'Opens a connection to the (hardware) phidget with the last serial number.')
 			(command openAnyConnection 'Opens a connection to any (hardware) phidget that fits.')
 			(command openConnectionWithSerialNumber: 'Opens a connection to the (hardware) phidget with the given serial number. If the serial number is -1 a connection to any phidget will be opened.' Number)
+			(command refresh 'Checks if ID of phidget is still valid and opens any connection')
 		))
 	)
 
