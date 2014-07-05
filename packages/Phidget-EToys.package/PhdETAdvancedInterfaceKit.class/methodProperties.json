@@ -3,6 +3,7 @@
 		"descriptionForPartsBin" : "ck 5/6/2014 13:42",
 		"descriptionForPartsBinBasic" : "ck 6/7/2014 14:39" },
 	"instance" : {
+		"closeConnection" : "ck 7/5/2014 22:25",
 		"collectPortDescriptorQuads" : "rb 6/20/2014 16:24",
 		"createAndAddInputConnectors" : "rb 6/1/2014 14:44",
 		"createAndAddOutputConnectors" : "rb 6/1/2014 14:44",
@@ -15,11 +16,12 @@
 		"getInput:" : "ck 5/6/2014 13:42",
 		"getOutput:" : "ck 5/6/2014 13:42",
 		"getSensor:" : "ck 5/6/2014 13:42",
+		"goIntoDetachModeDisplaying:" : "ck 7/5/2014 22:26",
 		"initialize" : "fw 6/29/2014 02:49",
 		"inputChange" : "ck 5/6/2014 13:42",
 		"inputConnectors" : "ck 5/6/2014 13:42",
 		"inputPortAvailable:" : "ck 5/6/2014 13:42",
-		"makeButtonsColored" : "fw 6/3/2014 11:19",
+		"makeButtonsColored" : "ck 7/5/2014 21:35",
 		"makeButtonsGray" : "fw 6/3/2014 11:19",
 		"makePortsColored" : "ck 6/25/2014 17:00",
 		"makePortsGray" : "ck 6/25/2014 17:01",
@@ -30,4 +32,4 @@
 		"sensorConnectors" : "ck 5/6/2014 13:42",
 		"sensorPortAvailable:" : "ck 5/6/2014 13:42",
 		"setOutput:to:" : "ck 5/6/2014 13:42",
-		"setupEventsWith:" : "fw 6/3/2014 13:20" } }
+		"setupEventsWith:" : "ck 7/5/2014 21:38" } }
