@@ -1,11 +1,17 @@
 {
 	"class" : {
-		"Instance" : "fw 6/21/2014 01:27" },
+		"SoleInstance" : "fw 7/7/2014 22:21",
+		"SoleInstance:" : "fw 7/7/2014 21:44",
+		"default" : "fw 7/7/2014 22:21",
+		"new" : "fw 7/7/2014 21:41",
+		"reset" : "fw 7/7/2014 21:50" },
 	"instance" : {
 		"bar" : "fw 6/21/2014 01:03",
 		"barOff" : "fw 6/21/2014 01:04",
 		"getFullPathFrom:" : "fw 6/5/2014 11:34",
-		"imageLookUpDictionary" : "fw 6/21/2014 02:27",
+		"imageCache" : "fw 7/7/2014 22:19",
+		"imageCache:" : "fw 7/7/2014 22:15",
+		"imageLookUpDictionary" : "fw 7/7/2014 22:22",
 		"input" : "fw 6/26/2014 17:08",
 		"inputOff" : "fw 6/26/2014 17:05",
 		"joystick" : "fw 6/21/2014 01:04",
@@ -15,7 +21,7 @@
 		"ledYellow" : "fw 6/21/2014 01:10",
 		"light" : "fw 6/21/2014 01:12",
 		"lightOff" : "fw 6/21/2014 01:13",
-		"load:" : "fw 6/21/2014 01:26",
+		"load:" : "fw 7/7/2014 22:24",
 		"output" : "fw 6/26/2014 17:08",
 		"outputOff" : "fw 6/26/2014 17:04",
 		"rotation" : "fw 6/21/2014 01:13",

@@ -25,4 +25,4 @@ imageLookUpDictionary
 			#'Touch' -> [ self touch ].
 			#'Touch_off' -> [ self touchOff ].
 			#'Vibration' -> [ self vibration ].
-			#'Vibration_off' -> [ self vibrationOff ]. }
+			#'Vibration_off' -> [ self vibrationOff ] }

@@ -1,12 +1,12 @@
 {
 	"category" : "Project07-Core",
 	"classinstvars" : [
-		 ],
+		"SoleInstance" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"imageCache" ],
 	"name" : "PhdImageLoader",
 	"pools" : [
 		 ],
