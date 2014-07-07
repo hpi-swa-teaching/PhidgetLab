@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"adjustWidth:" : "fw 7/7/2014 21:25",
 		"initialize" : "ck 6/11/2014 11:01",
 		"pin" : "ck 6/1/2014 13:54",
 		"pin:" : "ck 6/1/2014 13:54",

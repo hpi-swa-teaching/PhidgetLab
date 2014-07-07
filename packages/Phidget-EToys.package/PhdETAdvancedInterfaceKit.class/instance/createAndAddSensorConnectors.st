@@ -5,7 +5,7 @@ createAndAddSensorConnectors
 		
 	(1 to: 8) do: 
 		[:i | connector := PhdETSensorConnectorMorph new.
-			connector width: self width / 8.
+			connector adjustWidth: self width / 8.
 			connector position: self position + (connector width * (i - 1) @ self height).
 			connector number: i.
 			connector setColorOnAttached: self getAttached.
