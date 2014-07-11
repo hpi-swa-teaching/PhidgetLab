@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "rb 7/10/2014 15:38",
 	"instvars" : [
 		"celciusValue" ],
 	"name" : "PhdETTemperatureSensorPort",
