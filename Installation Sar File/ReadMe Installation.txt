@@ -3,7 +3,7 @@ ReadMe
 
 Installation:
 
-To install the Phidget project in Etoys 5 drag the Phidget-EToys.sar file into your Etoys5 and click install SAR.
+To install the Phidget project in Etoys5 drag the Phidget-EToys.sar file into your Etoys5 and click install SAR.
 
 
 Compatibility:
