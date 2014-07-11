@@ -1,4 +1,0 @@
-private
-outputChanged
-
-	self onOutputChange.

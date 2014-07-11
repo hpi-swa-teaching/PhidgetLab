@@ -1,4 +1,0 @@
-private
-tagFound
-
-	self onTagFound.

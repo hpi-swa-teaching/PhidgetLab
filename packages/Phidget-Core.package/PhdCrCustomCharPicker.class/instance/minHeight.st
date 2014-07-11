@@ -1,4 +1,0 @@
-sizing
-minHeight
-
-	^ 305
