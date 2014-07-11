@@ -1,17 +1,24 @@
 export
 export
 
-| packageA packageB packageC packageD folder zip mczStreamA mczStreamB mczStreamC mczStreamD workingCopyA workingCopyB workingCopyC workingCopyD version |
+| packageA packageB packageC packageD packageE folder zip mczStreamA mczStreamB mczStreamC mczStreamD mczStreamE workingCopyA workingCopyB workingCopyC workingCopyD workingCopyE version |
 
 packageA := 'Phidget-EToys'.
 packageB := 'Phidget-Core'.
 packageC := 'MultiColumn Lists-Core'.
 packageD := 'Project07-Core'.
+packageE := 'Morphic-Basic-NewCurve'.
 folder := (FileDirectory uri: 'out_sar') fullName.
 
 FileDirectory deleteFilePath: packageA, '.sar'.
 
 zip := ZipArchive new.
+
+mczStreamE := RWBinaryOrTextStream on: (String new: 10000).
+workingCopyE := MCWorkingCopy forPackage: (MCPackage new name: packageE).
+version := workingCopyE newVersion fileOutOn: mczStreamE.
+(zip addString: mczStreamE contents as: packageE, '.mcz') desiredCompressionLevel: 0.
+
 mczStreamA := RWBinaryOrTextStream on: (String new: 10000).
 workingCopyA := MCWorkingCopy forPackage: (MCPackage new name: packageA).
 version := workingCopyA newVersion fileOutOn: mczStreamA.
@@ -34,7 +41,8 @@ version := workingCopyD newVersion fileOutOn: mczStreamD.
 
 zip addFile: ((FileDirectory default) containingDirectory containingDirectory fullName, FileDirectory slash, 'PhidgetPlugin.dll') as: 'PhidgetPlugin.dll'.
 
-zip addString:  'self fileInMonticelloZipVersionNamed: ''' , packageA, '.mcz''. 
+zip addString:  'self fileInMonticelloZipVersionNamed: ''' , packageE, '.mcz''. 
+ self fileInMonticelloZipVersionNamed: ''' , packageA, '.mcz''. 
   self fileInMonticelloZipVersionNamed: ''' , packageB, '.mcz''.
  self fileInMonticelloZipVersionNamed: ''' , packageC, '.mcz''.
  self fileInMonticelloZipVersionNamed: ''' , packageD, '.mcz''.
