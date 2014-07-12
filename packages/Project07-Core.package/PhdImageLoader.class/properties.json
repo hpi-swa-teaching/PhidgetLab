@@ -4,7 +4,7 @@
 		"SoleInstance" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "ck 7/12/2014 19:44",
 	"instvars" : [
 		"imageCache" ],
 	"name" : "PhdImageLoader",
