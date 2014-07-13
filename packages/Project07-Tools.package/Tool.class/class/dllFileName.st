@@ -1,0 +1,4 @@
+accessing
+dllFileName
+
+	^ 'PhidgetPlugin.dll'
