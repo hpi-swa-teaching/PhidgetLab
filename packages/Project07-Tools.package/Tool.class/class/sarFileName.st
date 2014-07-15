@@ -1,4 +1,4 @@
 accessing
 sarFileName
 
-	^ 'Phidget-EToys.sar'
+	^ 'PhidgetLab.sar'
