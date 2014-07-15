@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "rb 7/15/2014 11:47",
 	"instvars" : [
 		"controlingMorph" ],
 	"name" : "PhdETPartsBin",
