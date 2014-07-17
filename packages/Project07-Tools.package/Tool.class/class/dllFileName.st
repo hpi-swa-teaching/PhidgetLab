@@ -1,4 +1,4 @@
-accessing
+sarCreation
 dllFileName
 
 	^ 'PhidgetPlugin.dll'

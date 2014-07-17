@@ -1,0 +1,4 @@
+importImage
+imageFolder
+
+	^ 'phidget-pics'
