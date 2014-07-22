@@ -1,0 +1,17 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rb 7/10/2014 15:47",
+	"instvars" : [
+		"image",
+		"labeledItem",
+		"nonTranslucent",
+		"name" ],
+	"name" : "PhdIconicButton",
+	"pools" : [
+		 ],
+	"super" : "IconicButton",
+	"type" : "normal" }
