@@ -2,6 +2,6 @@ testing
 test03cannotBeCreatedWithNew
 
 	| aBlock |
-	aBlock := [ PhdImageLoader new ].
+	aBlock := [ PhdETImageLoader new ].
 	
 	self should: aBlock raise: Error

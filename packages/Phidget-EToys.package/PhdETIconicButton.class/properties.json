@@ -10,7 +10,7 @@
 		"labeledItem",
 		"nonTranslucent",
 		"name" ],
-	"name" : "PhdIconicButton",
+	"name" : "PhdETIconicButton",
 	"pools" : [
 		 ],
 	"super" : "IconicButton",

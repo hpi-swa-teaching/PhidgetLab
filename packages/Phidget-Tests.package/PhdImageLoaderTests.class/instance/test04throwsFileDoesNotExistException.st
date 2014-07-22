@@ -3,6 +3,6 @@ test04throwsFileDoesNotExistException
 
 	| aBlock notExistingImageIdentifier |
 	notExistingImageIdentifier := #dog.
-	aBlock := [ PhdImageLoader default load: notExistingImageIdentifier ].
+	aBlock := [ PhdETImageLoader default load: notExistingImageIdentifier ].
 	
 	self should: aBlock raise: FileDoesNotExistException

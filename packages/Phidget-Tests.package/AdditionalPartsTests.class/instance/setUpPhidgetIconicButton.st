@@ -1,4 +1,4 @@
 running
 setUpPhidgetIconicButton
 
-	iconicButton ifNil: [iconicButton := PhdIconicButton new].
+	iconicButton ifNil: [iconicButton := PhdETIconicButton new].

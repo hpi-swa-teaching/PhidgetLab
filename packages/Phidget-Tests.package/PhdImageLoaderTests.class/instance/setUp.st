@@ -1,4 +1,4 @@
 running
 setUp
 
-	PhdImageLoader default
+	PhdETImageLoader default

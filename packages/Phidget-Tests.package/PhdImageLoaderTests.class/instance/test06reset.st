@@ -1,7 +1,7 @@
 testing
 test06reset
 
-	PhdImageLoader default.
-	PhdImageLoader reset.
+	PhdETImageLoader default.
+	PhdETImageLoader reset.
 
-	self assert: PhdImageLoader SoleInstance isNil
+	self assert: PhdETImageLoader SoleInstance isNil

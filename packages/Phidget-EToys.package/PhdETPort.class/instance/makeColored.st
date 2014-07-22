@@ -1,5 +1,5 @@
 animation
 makeColored
 	| anImage |
-	anImage := (PhdImageLoader default load: self name asSymbol).
+	anImage := (PhdETImageLoader default load: self name asSymbol).
 	self image: anImage.

@@ -2,7 +2,7 @@ testing
 test01isSingleton
 
 	| anImageLoader sameImageLoader |
-	anImageLoader := PhdImageLoader default.
-	sameImageLoader := PhdImageLoader default.
+	anImageLoader := PhdETImageLoader default.
+	sameImageLoader := PhdETImageLoader default.
 	
 	self assert: anImageLoader equals: sameImageLoader

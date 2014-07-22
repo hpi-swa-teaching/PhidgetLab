@@ -1,6 +1,6 @@
 testing
 test02isNeverNil
 
-	PhdImageLoader reset.
+	PhdETImageLoader reset.
 
-	self assert: PhdImageLoader default notNil
+	self assert: PhdETImageLoader default notNil

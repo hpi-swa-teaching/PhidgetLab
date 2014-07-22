@@ -1,4 +1,4 @@
 running
 tearDown
 
-	PhdImageLoader reset
+	PhdETImageLoader reset
