@@ -1,0 +1,4 @@
+sarCreation
+dllFileName
+
+	^ 'PhidgetPlugin.dll'

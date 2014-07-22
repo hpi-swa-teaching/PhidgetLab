@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ck 7/11/2014 14:57",
+	"instvars" : [
+		 ],
+	"name" : "Tool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
