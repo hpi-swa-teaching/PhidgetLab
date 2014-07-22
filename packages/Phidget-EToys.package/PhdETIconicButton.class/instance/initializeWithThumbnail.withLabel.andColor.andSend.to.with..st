@@ -16,6 +16,10 @@ initializeWithThumbnail: aThumbnail withLabel: aLabel andColor: aColor andSend: 
 	
 	self
 		beTransparent;
+		labelGraphic: ((self labeledItem imageForm: 32
+									backgroundColor: self nonTranslucent
+									forRectangle: self labeledItem fullBounds)
+						replaceColor: self nonTranslucent withColor: Color transparent);
 		borderWidth: 0;
 		target: aReceiver;
 		actionSelector: #launchPartVia:label:phidget:;
