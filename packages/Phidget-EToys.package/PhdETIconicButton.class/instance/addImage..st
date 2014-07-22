@@ -1,6 +1,6 @@
 initialization
 addImage: aLabel
 
-	image := ImageMorph new.
-	self makeGray.
-	labeledItem addMorph: image.
+	self image: ImageMorph new.
+	self loadGrayImage.
+	self labeledItem addMorph: self image.

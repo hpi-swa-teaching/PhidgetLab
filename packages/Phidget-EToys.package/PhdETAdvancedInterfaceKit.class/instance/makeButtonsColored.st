@@ -1,4 +1,4 @@
 events
 makeButtonsColored
 
-		bin submorphs do: [ :button | button makeColored].
+		bin submorphs do: [:button | button loadColoredImage].
