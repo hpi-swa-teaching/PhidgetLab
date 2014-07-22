@@ -1,0 +1,20 @@
+{
+	"category" : "Phidget-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"iconicButton",
+		"polygonMorph",
+		"thumbnail",
+		"label",
+		"phidget",
+		"receiver",
+		"string" ],
+	"name" : "AdditionalPartsTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

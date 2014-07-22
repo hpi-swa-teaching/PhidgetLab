@@ -1,0 +1,17 @@
+{
+	"category" : "Phidget-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"kit",
+		"lsPort",
+		"inputPort",
+		"outputPort" ],
+	"name" : "AdvancedInterfaceKitTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

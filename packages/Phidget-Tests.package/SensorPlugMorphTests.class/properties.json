@@ -1,0 +1,15 @@
+{
+	"category" : "Phidget-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"plug",
+		"kit" ],
+	"name" : "SensorPlugMorphTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

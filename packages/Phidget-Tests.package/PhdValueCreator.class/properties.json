@@ -1,0 +1,20 @@
+{
+	"category" : "Phidget-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"port",
+		"value",
+		"done",
+		"ports",
+		"attached",
+		"color",
+		"portNumber" ],
+	"name" : "PhdValueCreator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

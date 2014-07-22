@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"iconicButton" : "ck 6/3/2014 21:57",
+		"iconicButton:" : "ck 6/3/2014 21:57",
+		"label" : "ck 6/4/2014 08:22",
+		"label:" : "ck 6/4/2014 08:22",
+		"phidget" : "ck 6/4/2014 08:22",
+		"phidget:" : "ck 6/4/2014 08:22",
+		"polygonMorph" : "ck 6/3/2014 21:57",
+		"polygonMorph:" : "ck 6/3/2014 21:57",
+		"receiver" : "ck 6/4/2014 08:24",
+		"receiver:" : "ck 6/4/2014 08:24",
+		"setUp" : "ck 6/18/2014 08:22",
+		"setUpForThumbnailCreation" : "ck 6/18/2014 08:21",
+		"setUpPhidgetIconicButton" : "ck 6/25/2014 21:14",
+		"setUpPolygonMorph" : "ck 6/18/2014 08:21",
+		"setUpString" : "ck 6/18/2014 08:25",
+		"tearDown" : "ck 6/18/2014 08:21",
+		"testIfLauchPartFromClickExists" : "ck 6/25/2014 21:16",
+		"testIfPolygonMorphExits" : "ck 6/25/2014 21:16",
+		"testIfStringKommaMethodExits" : "ck 6/25/2014 21:15",
+		"testThumbnailInitalizesWithPhidget" : "ck 6/25/2014 21:15",
+		"thumbnail" : "ck 6/4/2014 08:22",
+		"thumbnail:" : "ck 6/4/2014 08:22" } }

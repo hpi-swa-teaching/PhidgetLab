@@ -1,0 +1,4 @@
+evaluating
+speed
+
+	^ 0
