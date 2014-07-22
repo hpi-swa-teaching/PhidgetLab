@@ -1,4 +1,0 @@
-accessing
-outputPort
-
-	^ outputPort

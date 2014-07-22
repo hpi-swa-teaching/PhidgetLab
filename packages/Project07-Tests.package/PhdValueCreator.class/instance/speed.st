@@ -1,4 +1,0 @@
-evaluating
-speed
-
-	^ 0

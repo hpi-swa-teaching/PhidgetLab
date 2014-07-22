@@ -1,2 +1,0 @@
-mocking
-connectTo: aConnector

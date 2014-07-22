@@ -1,4 +1,0 @@
-mocking
-sensorConnectors
-
-	^{self}

@@ -1,3 +1,0 @@
-mocking
-color
-	^ color

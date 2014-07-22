@@ -1,4 +1,0 @@
-sarCreation
-sarFileName
-
-	^ 'PhidgetLab.sar'

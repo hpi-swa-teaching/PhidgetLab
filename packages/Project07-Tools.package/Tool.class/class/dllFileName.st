@@ -1,4 +1,0 @@
-sarCreation
-dllFileName
-
-	^ 'PhidgetPlugin.dll'

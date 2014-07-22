@@ -1,4 +1,0 @@
-mocking
-findFirstFreeSensorConnector
-
-	^ 1

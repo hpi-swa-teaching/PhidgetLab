@@ -1,4 +1,0 @@
-mocking
-getSensor: aPortNumber
-
-	^ self

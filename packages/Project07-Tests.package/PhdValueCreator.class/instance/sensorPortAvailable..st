@@ -1,4 +1,0 @@
-mocking
-sensorPortAvailable: aNumber
-
-	^ true

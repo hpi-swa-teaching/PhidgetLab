@@ -1,4 +1,0 @@
-mocking
-findFirstFreeOutputConnector
-
-	^ 1
