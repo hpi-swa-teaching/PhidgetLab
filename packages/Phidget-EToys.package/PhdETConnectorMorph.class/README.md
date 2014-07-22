@@ -1,4 +1,4 @@
-I represent all connector morphs on the AdvancedInterfaceKit.
+I'm an abstract representation of all connector morphs displayed on the AdvancedInterfaceKit.
 
 Instance Variables
 	connected:		<Boolean>

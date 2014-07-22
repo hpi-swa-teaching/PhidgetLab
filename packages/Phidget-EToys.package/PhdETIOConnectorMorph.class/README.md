@@ -1,3 +1,2 @@
-I am a morph that represents the connector for output and input ports.
+I'm an abstract representation of all connector morphs for output and input ports.
 
-Instance Variables

@@ -1,7 +1,7 @@
-I'm part of the AdvancedInterfaceKit. I'm responsible for displaying and creating the thumbnails of the sensorsPorts inside the AdvancedInterfaceKit.
+I'm part of the AdvancedInterfaceKit. I'm responsible for displaying and creating the thumbnails of the sensor ports inside the AdvancedInterfaceKit.
 
 Instance Variables
-	controlingMorph:		<PortBasedPhidget>
+	controlingMorph:		<PhdETAdvancedInterfaceKit(PhdETPortBasedPhidget)>
 
 controlingMorph
 	- reference to the AdvancedInterfaceKit I belong to 

@@ -1,4 +1,4 @@
-I represent any kind of phidget. I offer functionalities concerning my hardware connection.
+I'm an abstract representation of any kind of phidget. I offer functionalities concerning my hardware connection.
 
 Instance Variables
 	labelMorph:		<StringMorph>

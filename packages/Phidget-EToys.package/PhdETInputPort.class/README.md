@@ -1,6 +1,5 @@
-I am a representation of all Phidgets which could work as input.
+I am a representation of all Phidgets which could work as input ports.
 You can drag me out of the AdvancedInterface-Kit.
-
 
 Instance Variables
 	statusMorph:		<PhdETOnOffStatusMorph>

@@ -1,7 +1,7 @@
-I'm a Morph which could change color from gray to yellow according to my status. 
+I'm a Morph which changes color from gray to yellow according to my status. I'm part of the input and output ports to visualize their status. 
 
 Instance Variables
-	status:		<Object>
+	status:		<Boolean>
 
 status
-	- could be on or off and according to this value, my color is different. Is my status on, my color is yellow. Is my status off, my color ist gray.
+	- if status is true, my color is yellow; if my status is off, my color is gray.

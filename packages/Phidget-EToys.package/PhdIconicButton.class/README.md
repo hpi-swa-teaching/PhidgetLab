@@ -2,19 +2,19 @@ I'm an IconicButton which can represent a Phidget and don't react on the method 
 
 
 Instance Variables
-	image:		<Object>
-	labeledItem:		<Object>
-	name:		<Object>
-	nonTranslucent:		<Object>
+	image:		<ImageMorph>
+	labeledItem:		<AlignmentMorph>
+	name:		<String>
+	nonTranslucent:		<Color>
 
 image
-	- xxxxx
+	- The image I display.
 
 labeledItem
-	- xxxxx
+	- is the frame for displaying name
 
 name
-	- xxxxx
+	- name of the displayed Phidget
 
 nonTranslucent
-	- xxxxx
+	- characteristic of the image color

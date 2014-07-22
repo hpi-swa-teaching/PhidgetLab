@@ -10,7 +10,7 @@ initializeWithThumbnail: aThumbnail withLabel: aLabel andColor: aColor andSend: 
 				layoutInset: 4@0;
 				cellPositioning: #center.
 	
-	self addImage: aLabel. "früher: labeledItem addMorph: aThumbnail."
+	self addImage: aLabel. 
 	self addText: aLabel.
 	
 	self

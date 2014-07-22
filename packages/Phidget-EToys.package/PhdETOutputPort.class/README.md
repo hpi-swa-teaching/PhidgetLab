@@ -1,4 +1,4 @@
-I am a representation of all Phidgets which could work as output (for example a LED).
+I am a representation of all Phidgets which could work as output port (for example a LED).
 You can drag me out of the AdvancedInterface-Kit.
 
 Instance Variables

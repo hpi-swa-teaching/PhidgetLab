@@ -1,4 +1,4 @@
-I am a representation of all Phidgets which could work as a sensor (for example a touch sensor). You can drag me out of the AdvancedInterfaceKit.
+I am an abstract representation of all Phidgets which could work as sensor ports (for example a touch sensor). You can drag my subclasses out of the AdvancedInterfaceKit.
 
 Instance Variables
 	inverted:		<Integer>

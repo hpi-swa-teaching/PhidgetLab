@@ -1,6 +1,6 @@
 I am a representation of a Phidget called 'Interface-Kit'.
 You can drag me out of the objects tool in the category Phidgets.
-If you want to use a sensor, you have to drag it out of the middle of my representation.
+If you want to use a sensor, you have to drag it out of the middle of me.
 
 
 Instance Variables
