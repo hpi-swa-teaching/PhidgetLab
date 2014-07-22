@@ -1,6 +1,6 @@
 accessing
 on
 
-	status := true.
+	self status: true.
 	self borderColor: Color yellow muchDarker.
 	self color: Color yellow.

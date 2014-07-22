@@ -1,8 +1,6 @@
 events
 goIntoDetachModeDisplaying: aLabel
 	
-	
 	self setLabel: aLabel;
 		detach;
-		makePortsGray;
-		makeButtonsGray
+		changeColorAccordingTo: false. 

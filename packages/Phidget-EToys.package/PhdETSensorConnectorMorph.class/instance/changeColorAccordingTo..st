@@ -1,5 +1,5 @@
 initialization
-setColorOnAttached: isAttached 
+changeColorAccordingTo: isAttached 
 
 	isAttached 
 		ifTrue: [self pin borderColor: Color yellow]

@@ -20,7 +20,7 @@ initialize
 				
 	"open the phidget, so that it's ready to be used.
 	Do NOT do this if we are just creating a dummy instance for thumbnail creation."
-	thumbnailCreation ifFalse: [ phidHandle openAny ].
+	thumbnailCreation ifFalse: [phidHandle openAny].
 	
 	bin color: self color lighter lighter.
 	self createAndAddSubmorphs.

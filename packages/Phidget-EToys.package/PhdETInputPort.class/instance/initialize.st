@@ -10,7 +10,7 @@ initialize
 			[portNumber := number].
 	
 	self
-		changeToAppropiateColor;
+		changeColorAccordingTo: phidget getAttached;
 		height: 70;
 		createAndAddStatusMorph;
 		update: self class portType.

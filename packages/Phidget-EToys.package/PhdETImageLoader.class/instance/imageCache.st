@@ -2,4 +2,4 @@ accessing
 imageCache
 
 	^ imageCache
-		ifNil: [ imageCache := Dictionary new ]
+		ifNil: [imageCache := Dictionary new]

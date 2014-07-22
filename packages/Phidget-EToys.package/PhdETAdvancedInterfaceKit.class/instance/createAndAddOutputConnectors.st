@@ -8,6 +8,6 @@ createAndAddOutputConnectors
 			connector height: self height / 8.
 			connector position: self position + (self width @ (connector height * (i-1))).
 			connector number: i.
-			connector setColorOnAttached: self getAttached.
+			connector changeColorAccordingTo: self getAttached.
 			self addMorph: connector.
 			self outputConnectors at: i put: connector].
