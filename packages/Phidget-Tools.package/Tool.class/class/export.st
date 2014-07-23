@@ -1,4 +1,0 @@
-sarCreation
-export
-
-	self createSar

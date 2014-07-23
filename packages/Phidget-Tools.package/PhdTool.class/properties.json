@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rb 7/22/2014 18:16",
+	"instvars" : [
+		 ],
+	"name" : "PhdTool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

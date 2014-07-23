@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"addPackagesTo:" : "fw 7/23/2014 04:50",
+		"additionalPackages" : "fw 7/23/2014 04:02",
+		"createSar" : "fw 7/23/2014 03:36",
+		"deleteSar" : "fw 7/23/2014 03:36",
+		"dllFileName" : "fw 7/13/2014 03:02",
+		"dllPathForEtoys" : "fw 7/23/2014 03:12",
+		"dllPathForSqueak" : "fw 7/13/2014 03:55",
+		"getFullPathFrom:" : "fw 7/23/2014 01:41",
+		"getString:" : "fw 7/23/2014 02:51",
+		"imageIsEtoys" : "fw 7/23/2014 04:58",
+		"installationInstructions" : "fw 7/23/2014 05:11",
+		"packagesForSar" : "fw 7/23/2014 04:52",
+		"sarFileName" : "fw 7/15/2014 10:53" },
+	"instance" : {
+		 } }

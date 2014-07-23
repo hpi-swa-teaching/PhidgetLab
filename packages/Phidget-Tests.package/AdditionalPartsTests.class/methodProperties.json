@@ -18,9 +18,9 @@
 		"setUpPolygonMorph" : "ck 6/18/2014 08:21",
 		"setUpString" : "ck 6/18/2014 08:25",
 		"tearDown" : "ck 6/18/2014 08:21",
-		"testIfLauchPartFromClickExists" : "ck 6/25/2014 21:16",
-		"testIfPolygonMorphExits" : "ck 6/25/2014 21:16",
-		"testIfStringKommaMethodExits" : "ck 6/25/2014 21:15",
-		"testThumbnailInitalizesWithPhidget" : "ck 6/25/2014 21:15",
+		"test01ifLauchPartFromClickExists" : "fw 7/23/2014 05:23",
+		"test02ifPolygonMorphExits" : "fw 7/23/2014 05:24",
+		"test03ifStringKommaMethodExits" : "fw 7/23/2014 05:24",
+		"test04thumbnailInitalizesWithPhidget" : "fw 7/23/2014 05:25",
 		"thumbnail" : "ck 6/4/2014 08:22",
 		"thumbnail:" : "ck 6/4/2014 08:22" } }
