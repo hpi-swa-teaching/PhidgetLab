@@ -7,12 +7,14 @@ initialize
 	super initialize.
 	
 	semaphores := Dictionary new.
+	mutexes := Dictionary new.
 	userProcessBlocks := Dictionary new.
 	opened := false.
 	serialNumber := -1.
 	
 	self class knownCallbacks do: [ :name | 
 		semaphores add: name -> Semaphore new.
+		mutexes add: name -> Monitor new.	
 		userProcessBlocks add: name -> [] ].
 	
 	id := self getNewId.

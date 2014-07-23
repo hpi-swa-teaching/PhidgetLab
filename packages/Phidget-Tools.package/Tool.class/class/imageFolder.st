@@ -1,4 +1,0 @@
-importImage
-imageFolder
-
-	^ 'phidget-pics'

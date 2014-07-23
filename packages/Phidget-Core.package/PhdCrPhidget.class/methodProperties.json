@@ -19,7 +19,7 @@
 		"systemCallbacks" : "lk 8/13/2009 11:17" },
 	"instance" : {
 		"attached" : "yb 5/6/2013 10:02",
-		"callbackProcess:" : "pt 7/14/2009 17:03",
+		"callbackProcess:" : "fw 7/23/2014 01:50",
 		"checkValid" : "lk 8/24/2009 18:38",
 		"close" : "lk 8/6/2009 21:48",
 		"createCallbackProcessBlock:" : "lk 6/1/2009 00:47",
@@ -36,7 +36,7 @@
 		"infoStringArray" : "lk 8/12/2009 15:15",
 		"initialSerialNumber" : "lk 8/13/2009 12:12",
 		"initialSerialNumber:" : "lk 8/13/2009 12:22",
-		"initialize" : "lk 8/24/2009 18:21",
+		"initialize" : "fw 7/23/2014 01:47",
 		"initializeComponents" : "lk 8/7/2009 12:30",
 		"isAttached" : "lk 6/15/2009 20:34",
 		"isOpen" : "lk 6/16/2009 21:09",

@@ -8,6 +8,7 @@
 	"instvars" : [
 		"serialNumber",
 		"opened",
+		"mutexes",
 		"semaphores",
 		"userProcessBlocks",
 		"id",
