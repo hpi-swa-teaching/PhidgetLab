@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "rb 7/22/2014 18:16",
+	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "PhdTool",
+	"name" : "PhdImageImporter",
 	"pools" : [
 		 ],
 	"super" : "Object",

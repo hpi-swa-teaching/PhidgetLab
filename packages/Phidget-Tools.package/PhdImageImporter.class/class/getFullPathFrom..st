@@ -1,4 +1,4 @@
-importImage
+accessing
 getFullPathFrom: aName
 
 	| aPath |

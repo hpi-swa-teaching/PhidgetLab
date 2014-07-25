@@ -1,4 +1,4 @@
-importImage
+accessing
 getString: aName
 
 	| aForm stream |
