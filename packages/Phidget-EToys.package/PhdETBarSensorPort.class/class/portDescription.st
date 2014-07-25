@@ -1,4 +1,4 @@
-as yet unclassified
+Port handling
 portDescription
 
 	^  self

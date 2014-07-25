@@ -1,4 +1,4 @@
 accessing
 reset
 
-	self SoleInstance: nil
+	self SoleInstance: nil.

@@ -1,4 +1,4 @@
 accessing
 new
 
-	self error: 'cannot create new object'
+	self error: 'cannot create new object'.
