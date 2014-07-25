@@ -2,5 +2,6 @@ accessing
 currentDllPath
 
 	^ (FileDirectory on: SmalltalkImage current imagePath)
-													containingDirectory containingDirectory,
-		self dllFileName
+													containingDirectory containingDirectory fullName,
+		FileDirectory slash,
+		self dllFileName.
