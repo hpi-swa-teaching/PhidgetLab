@@ -10,7 +10,7 @@ initialize
 	
 	self
 		update: self class portType;
-		changeColorAccordingTo: phidget getAttached. 
+		changeColorAccordingTo: (self phidget getAttached). 
 				
 	(phidget sensorConnectors at: 1) 
 		ifNotNil:	[self createPlug].
