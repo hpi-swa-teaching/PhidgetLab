@@ -1,0 +1,51 @@
+﻿Etoys5-Dokumentation
+----------------------
+
+Wir empfehlen die Verwendung einer portablen Etoysversion. Diese hat bei uns oft besser funktioniert, als die installierte Version.
+
+
+Warum erhalte ich keine Fehlermeldungen?
+----------------------------------------
+Etoys5 ist für Kinder gedacht und unterdrückt deshalb standardmäßig alle Fehlermeldungen.
+Jedoch lässt sich dieser Modus ausschalten. Dazu muss durch einen Rechtsklick in der Welt das Menü-Smartie aufgerufen werden. Dort gibt es den Eintrag “Einstellungen…”. In der Suche eToyFriendly eingeben und das entsprechende Haken in der Option rausnehmen. Nun verhält sich das Etoys5-Image ähnlich zu einem Squeak-Image (Linksklick öffnet das Weltmenü, usw.) Unter der Option “Öffnen…” im Weltmenü findet sich auch ein System-Browser und der Workspace.
+
+
+Wie kann das Etoys5-Image gespeichert werden, so dass nicht alle Änderungen verloren gehen?
+-------------------------------------------------------------------------------------------
+Mit einem einfachen Rechts-Klick werden die Smarties der Welt aufgerufen. Auf dem Menü-Smartie findet sich die Option “Einstellungen…”. In diesem Fenster kann unter dem Tab “menus” die Option “escapeKeyProducesMenu” und “simpleMenus” ausgewählt werden. Dadurch wird durch das Drücken der Esc-Taste das Weltmenü aufgerufen, in dem es auch die Option “Speichern” gibt.
+Außerdem kann man natürlich den Etoys-Friendly-Modus ausschalten und dann wie in Squeak auch, über einen Linksklick in die Welt das Image speichern. 
+
+
+Wie kann ich Werte zu der Seitenleiste (Viewer) hinzufügen?
+-----------------------------------------------------------
+Dazu muss in der Klasse, die einen Wert anzeigen will, auf Klassenseite die Methode “addtionsToViewerCategories” bzw. “additionsToViewerCategoriesPhidgetPort” hinzugefügt werden. Über slots lassen sich dort neue Einträge hinzufügen:
+^ #(phidgetport ((slot PortNumber 'The index of this Port.' Number readWrite Player setPortNumber Player setPortNumber:)
+phidgetport bezeichnet dabei die Kategorie, in der der Eintrag “PortNumber” angezeigt werden soll. Hierbei ist wichtig zu beachten, dass in Etoys5 die Groß- und Kleinschreibung eine Rolle spielt, da beim Öffnen der Seitenleiste automatisch versucht wird, die Begriffe zu übersetzen. Findet er keine passende Übersetzung, so entfernt Etoys5 trotzdem CamelCase und Großschreibung. Danach stimmen “phidgetport” und “PhidgetPort” nicht mehr überein und die Kategorie bleibt leer.
+“Number” und “readWrite” sind dann Eigenschaften über das Feld: Der dargestellte Wert ist eine Zahl und soll Lese- und Schreiberechte besitzen.
+Player>>setPortNumber: gibt dann die Methode an, die im Player aufgerufen werden muss, um den Wert zu erhalten. Das heißt, dass in dem Player eine neue Methode “setPortNumber:” hinzugefügt werden muss, die den gewünschten Wert bei der Klasse abfragt:
+        ^ self targetMorph setPortNumber: aNumber
+
+
+Wie kann ich eine Zahl mit Nachkommastellen in der Seitenleiste (Viewer) anzeigen?
+----------------------------------------------------------------------------------
+In der Methode additionsToViewerCategories können auch reelle Zahlen angegeben werden. Jedoch werden diese standardmäßig nicht angezeigt, da die Kacheln Nachkommastellen unterdrücken. Dies lässt sich für eine einzelne Kachel wie folgt ändern:
+Auf der Kachel die Smarties aufrufen (und zwar nicht auf Kachel, sondern auf UpdatingString bzw. “Zeichenkette auslesen”). Im Menü-Smartie befindet sich nun relativ weit unten die Option “Dezimalstellen…”. Hier lassen sich die angezeigten Nachkommastellen ändern.
+
+
+Wie können eigene Projekte zur Projektgalerie hinzugefügt werden?
+-----------------------------------------------------------------
+Zunächst muss dazu das gewünschte Projekt gespeichert werden. Anschließend das Projekt verlassen und in die Projektgalerie wechseln. Nun auf dem Rechner die vorher abgespeicherte Projektdatei suchen und per Drag&Drop in die Projektgalerie ziehen. Daraufhin öffnet sich das gespeicherte Projekt. Wenn nun mittels der Pfeiltasten auf das vorherige Projekt gegangen wird, öffnet sich wieder die Projektgalerie und in der oberen linken Ecke befindet sich nun das Fenster für das neue Projekt. Dies kann nun beliebig in der Projektgalerie angeordnet werden.
+Abschließend noch die gespeicherte Projektdatei in den Ordner “..\Ressources\ExampleEtoys” verschieben, damit sie im Falle eines rebuilds vorhanden ist.
+Durch Speichern des Images ist die neue Projektgalerie auch beim nächsten Öffnen noch vorhanden.
+Hinweis: Aus bisher nicht geklärten Gründen funktioniert das Speichern nach dem Hinzufügen von Projekten nur, wenn das geöffnete Projekt nicht in einem anderen Etoys5-Image erstellt wurde.
+
+
+Shortcuts
+---------
+Strg+b → Systembrowser
+Strg+k → Workspace (Transcript)
+Strg+o → Objektmenü
+Strg+f → Nach Klassen suchen (im Systembrowser)
+
+
+Link zur Etoys Dokumentation http://booki.flossmanuals.net/etoys-reference-manual-vol-ii/implementation-of-etoys/
