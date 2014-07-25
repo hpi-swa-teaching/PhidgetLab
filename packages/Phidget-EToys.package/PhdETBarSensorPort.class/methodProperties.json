@@ -3,8 +3,8 @@
 		"additionsToViewerCategoryPhidgetPort" : "ck 6/7/2014 14:25",
 		"portDescription" : "ck 5/6/2014 16:50" },
 	"instance" : {
-		"convertedValue" : "ck 6/20/2014 21:36",
 		"initialize" : "rb 6/20/2014 15:39",
+		"kilogramm" : "ck 7/25/2014 14:33",
 		"name" : "rb 6/20/2014 15:15",
-		"newton" : "ck 6/15/2014 20:34",
-		"pascal" : "ck 6/15/2014 20:34" } }
+		"newton" : "ck 7/25/2014 14:34",
+		"pascal" : "ck 7/25/2014 14:34" } }

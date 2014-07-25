@@ -1,4 +1,4 @@
-as yet unclassified
+plug
 connected
 
 	^ plug plugged.

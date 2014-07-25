@@ -1,7 +1,7 @@
 viewer values
 calculateAngle
-	| normedAdjacent normedOpposite angle radius |
-	
+
+	| normedAdjacent normedOpposite angle radius |	
 	radius := 1.
 	angle := 0.
 	normedAdjacent := radius / 1000 * (self slaveValue - 500 ).

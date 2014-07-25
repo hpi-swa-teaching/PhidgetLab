@@ -1,4 +1,4 @@
-as yet unclassified
+plug
 connectPlug
 
 	^ self subclassResponsibility

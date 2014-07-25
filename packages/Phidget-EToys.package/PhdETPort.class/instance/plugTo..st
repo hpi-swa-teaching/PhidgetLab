@@ -1,4 +1,4 @@
-as yet unclassified
+plug
 plugTo: aConnector
 
 	plug plugTo: aConnector.

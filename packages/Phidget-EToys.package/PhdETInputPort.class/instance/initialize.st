@@ -5,9 +5,9 @@ initialize
 	super initialize.
 	
 	number := phidget findFirstFreeInputConnector.
-	(number = -1) ifTrue:
-		[portNumber := 1] ifFalse:
-			[portNumber := number].
+	(number = -1) 
+		ifTrue: [portNumber := 1] 
+		ifFalse: [portNumber := number].
 	
 	self
 		changeColorAccordingTo: phidget getAttached;
@@ -15,5 +15,5 @@ initialize
 		createAndAddStatusMorph;
 		update: self class portType.
 	
-	(phidget inputConnectors at: 1)	 ifNotNil:
-		[self createPlug].
+	(phidget inputConnectors at: 1)	 
+		ifNotNil: [self createPlug].

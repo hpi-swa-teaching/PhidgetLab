@@ -1,4 +1,4 @@
-as yet unclassified
+plug
 positionWire
 	"Positions the Wire so that it reaches from the origin Phidgits to me. If the Wire doenstn exists, create it."
 

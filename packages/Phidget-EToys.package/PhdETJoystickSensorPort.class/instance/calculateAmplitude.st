@@ -1,6 +1,8 @@
 viewer values
 calculateAmplitude
-	| normedMasterValue normedSlaveValue strengthOfPush normedStrengthOfPush maxStrength normedStrength origin |
+
+	| normedMasterValue normedSlaveValue strengthOfPush normedStrengthOfPush
+	maxStrength normedStrength origin |
 	origin := 500.
 	maxStrength := 550.
 	normedStrength := 1000.

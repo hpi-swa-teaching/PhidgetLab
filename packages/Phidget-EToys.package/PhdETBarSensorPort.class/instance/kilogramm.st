@@ -1,6 +1,7 @@
 viewer values
-convertedValue
-	"Converts the sensor values into kilogramms using a cubic function"
+kilogramm
+	"Converts the sensor values into kilogramms using a cubic function. The function is generated from measured sensor values."
+	
 	| a b c kilogramms |
 	a := 4.58 * (10 raisedTo: (-9)).
 	b := -5.18 * (10 raisedTo: (-6)).
