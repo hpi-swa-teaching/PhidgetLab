@@ -1,0 +1,34 @@
+Treffen SWT 08.05.:
+
+User Stories:
+kurz halten; nicht jedes Detail, muss aber alles für Funktionalität notwendige umfassen
+-> Warum?
+-> Akzeptanzkriterien [Liste an Punkten, zum Abhaken]
+-> Aufwand schätzen [Fibonacci-Zahlen wählen]
+-> mögliche Testkriterien/-fälle vorher überlegen
+-> Paperprototyping / Zeichnungen [anstatt Text]
+
+Aufgaben: 
+
+1.(besonders wichtig!). Darstellung soll den physk. Änderungen angepasst werden [z.B. bei Motor] --> graphische Darstellung der gemessenen Daten 
+-> User Story für einzelne Bauteile
+
+2. Teilweise schlechte Kalibrierung 
+-> 1.Schritt: Specs der Sensoren rausfinden [Temperatur etc.]
+-> 2.Schritt: Welche Auflösung wird durch phidget zur Verfügung gestellt
+--> Entspricht das einander?
+-> 3. Schritt: Anpassen
+
+3. Fehler, wenn Projekte gespeichert und neu geladen werden
+-> 1. Schritt: Wie macht man das?; geht evtl. in Squeak nicht [daher in squeak programmieren und in Etoys testen; Code kann evtl. über Monticello hochgeladen werden]
+-> Der Fehler: 
+	Morph kann Modell haben [Objekt, dass Events bekommt] --> in Phidget: 			"PhidgetPortObject"
+	beim Laden werden manchmal PhidgetPortObjects ohne graph. Interface erstellt, 			die Port belegen --> nicht sichtbar, können nicht gelöscht werden
+-> Lösung: Alle Boards /InterfaceKitObjekte [nicht die Morphs selbst!] anzeigen; 			Möglichkeit zum Löschen bieten [im PhidgetManager, z.B. unter "Opened Phidgets"] 
+	bzw. Objektverwaltung implementieren 
+
+4. Welches Objekt im Vordergrund ist, passt nicht immer
+
+5. analoge In- und Output-Ports durchnummerieren --> damit klar ist, was was ist
+
+Vormerken (zu 2.): Gerät erkennt nicht, ob die in Squeak angeschlossenen Bauteile auch tatsächlich angezeigt werden. 
