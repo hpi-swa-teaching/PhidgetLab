@@ -9,7 +9,8 @@
 		"image",
 		"labeledItem",
 		"nonTranslucent",
-		"name" ],
+		"name",
+		"portType" ],
 	"name" : "PhdETIconicButton",
 	"pools" : [
 		 ],

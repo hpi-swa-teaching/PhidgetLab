@@ -4,6 +4,7 @@
 		"descriptionForPartsBinBasic" : "ck 6/7/2014 14:39" },
 	"instance" : {
 		"changeColorAccordingTo:" : "ck 7/25/2014 16:13",
+		"checkForFreeConnectorsWith:" : "JN 5/25/2015 18:37",
 		"closeConnection" : "ck 7/5/2014 22:25",
 		"collectPortDescriptorQuads" : "rb 6/20/2014 16:24",
 		"createAndAddInputConnectors" : "rb 7/22/2014 19:39",
