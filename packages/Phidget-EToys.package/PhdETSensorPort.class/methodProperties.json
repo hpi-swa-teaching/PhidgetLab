@@ -7,7 +7,7 @@
 		"calcSpeed:" : "rb 6/20/2014 16:10",
 		"connectPlug" : "ck 5/6/2014 16:57",
 		"createPlug" : "ck 5/9/2014 16:27",
-		"determinePortNumber" : "rb 6/20/2014 15:50",
+		"determinePortNumber" : "JN 5/26/2015 22:53",
 		"getIfKitSensorChangeTrigger" : "ck 5/6/2014 16:57",
 		"getIfKitSensorInverted" : "ck 5/6/2014 16:57",
 		"getIfKitSensorSpeed" : "rb 6/20/2014 15:43",

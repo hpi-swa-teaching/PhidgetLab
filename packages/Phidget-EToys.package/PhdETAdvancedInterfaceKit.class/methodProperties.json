@@ -4,7 +4,7 @@
 		"descriptionForPartsBinBasic" : "ck 6/7/2014 14:39" },
 	"instance" : {
 		"changeColorAccordingTo:" : "ck 7/25/2014 16:13",
-		"checkForFreeConnectors" : "JN 5/26/2015 12:14",
+		"checkForFreeConnectors" : "JN 5/26/2015 23:39",
 		"closeConnection" : "ck 7/5/2014 22:25",
 		"collectPortDescriptorQuads" : "rb 6/20/2014 16:24",
 		"createAndAddInputConnectors" : "rb 7/22/2014 19:39",
@@ -19,6 +19,7 @@
 		"getOutput:" : "ck 5/6/2014 13:42",
 		"getSensor:" : "ck 5/6/2014 13:42",
 		"goIntoDetachModeDisplaying:" : "rb 7/22/2014 19:36",
+		"handleMultiPortsWith:" : "JN 5/26/2015 23:03",
 		"initialize" : "rb 7/22/2014 19:20",
 		"inputChange" : "ck 5/6/2014 13:42",
 		"inputConnectors" : "ck 5/6/2014 13:42",

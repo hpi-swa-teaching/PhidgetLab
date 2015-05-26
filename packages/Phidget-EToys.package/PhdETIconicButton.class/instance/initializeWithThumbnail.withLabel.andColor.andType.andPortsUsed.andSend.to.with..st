@@ -1,9 +1,10 @@
 initialization
-initializeWithThumbnail: aThumbnail withLabel: aLabel andColor: aColor andType: aType andSend: aSelector to: aReceiver with: aPhidget
+initializeWithThumbnail: aThumbnail withLabel: aLabel andColor: aColor andType: aType andPortsUsed: aNumberOfPorts andSend: aSelector to: aReceiver with: aPhidget
 	"Initialize the receiver to show aThumbnail on its face, giving it the label supplied and arranging for it, when the button goes down on it, to obtain a new morph by sending the supplied selector to the supplied receiver"
 
 	self name: aLabel.
 	self portType: aType.
+	self portsUsed: aNumberOfPorts.
 	self nonTranslucent: aColor asNontranslucentColor.
 	self labeledItem: AlignmentMorph newColumn.
 	self labeledItem
