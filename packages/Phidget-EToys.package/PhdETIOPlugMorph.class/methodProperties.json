@@ -2,7 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"drawNumber:" : "st 5/19/2015 14:55",
-		"drawOn:" : "st 5/19/2015 15:04",
+		"drawOn:" : "JN 5/28/2015 22:03",
 		"initialize" : "ck 5/6/2014 13:48",
 		"wantsDroppedMorph:event:" : "ck 6/25/2014 16:48" } }
