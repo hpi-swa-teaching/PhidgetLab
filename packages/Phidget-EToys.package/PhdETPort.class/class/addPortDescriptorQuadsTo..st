@@ -10,4 +10,5 @@ addPortDescriptorQuadsTo: aList
 		info formalName.
 		info documentation.
 		info sampleImageFormOrNil.
-		self portType}.
+		self portType.
+		self portsUsed}.

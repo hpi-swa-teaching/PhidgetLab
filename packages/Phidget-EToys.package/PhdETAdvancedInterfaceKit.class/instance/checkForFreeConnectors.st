@@ -7,13 +7,6 @@ checkForFreeConnectors
 	outputCount := (self ports select: [:p | p class portType == #outputPort]) size.
 	(self bin respondsTo: #submorphs)
 		ifTrue: [
-			(inputCount < self inputConnectors size)
-				ifTrue: [self bin submorphs do: [:e| (e portType == #inputPort) ifTrue: [e show]]]
-				ifFalse: [self bin submorphs do: [:e| (e portType == #inputPort) ifTrue: [e hide]]].
-			(sensorCount < self sensorConnectors  size)
-				ifTrue: [self bin submorphs do: [:e| (e portType == #sensorPort) ifTrue: [e show]]]
-				ifFalse: [self bin submorphs do: [:e| (e portType == #sensorPort) ifTrue: [e hide]]].
-			(outputCount < self outputConnectors size)
-				ifTrue: [self bin submorphs do: [:e| (e portType == #outputPort) ifTrue: [e show]]]
-				ifFalse: [self bin submorphs do: [:e| (e portType == #outputPort) ifTrue: [e hide]]]].
-	
+			self bin submorphs do: [:e| (e portType == #inputPort) ifTrue: [(inputCount + e portsUsed <= self inputConnectors size) ifTrue: [e show] ifFalse: [e hide]].
+										(e portType == #sensorPort) ifTrue: [(sensorCount + e portsUsed <= self sensorConnectors size) ifTrue: [e show] ifFalse: [e hide]].
+										(e portType == #outputPort) ifTrue: [(outputCount + e portsUsed <= self outputConnectors size) ifTrue: [e show] ifFalse: [e hide]]]].

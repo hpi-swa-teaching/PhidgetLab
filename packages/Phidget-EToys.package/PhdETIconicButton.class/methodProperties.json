@@ -6,7 +6,7 @@
 		"addText:" : "rb 7/22/2014 18:41",
 		"image" : "rb 7/22/2014 18:38",
 		"image:" : "rb 7/22/2014 18:38",
-		"initializeWithThumbnail:withLabel:andColor:andType:andSend:to:with:" : "JN 5/25/2015 18:22",
+		"initializeWithThumbnail:withLabel:andColor:andType:andPortsUsed:andSend:to:with:" : "JN 5/26/2015 23:23",
 		"labeledItem" : "rb 7/22/2014 18:38",
 		"labeledItem:" : "rb 7/22/2014 18:38",
 		"launchPartFromClick" : "rb 7/22/2014 18:39",
@@ -18,4 +18,6 @@
 		"nonTranslucent" : "rb 7/22/2014 18:38",
 		"nonTranslucent:" : "rb 7/22/2014 18:38",
 		"portType" : "JN 5/25/2015 18:22",
-		"portType:" : "JN 5/25/2015 18:22" } }
+		"portType:" : "JN 5/25/2015 18:22",
+		"portsUsed" : "JN 5/26/2015 23:22",
+		"portsUsed:" : "JN 5/26/2015 23:22" } }
