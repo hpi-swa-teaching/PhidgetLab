@@ -8,6 +8,7 @@ initialize
 	ports := OrderedCollection new.
 	self createConnectorArrays.
 	phidHandle := PhdCrInterfaceKit new.
+	phidHandle ETHandle: self.
 	bin := self createBin.
 	serialNumber := nil.
 	labelMorph := StringMorph new font: (TextStyle default fontAt: 2) emphasis: 1.
