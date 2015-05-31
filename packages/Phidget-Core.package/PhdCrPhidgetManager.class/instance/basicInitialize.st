@@ -4,6 +4,7 @@ basicInitialize
 	super initialize.
 	
 	openedPhidgets := #().
+	removeButtons := #().
 	
 	self
 		width: 350;

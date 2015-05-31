@@ -1,4 +1,4 @@
-accessing
+private
 ETHandle
 
-	^ETHandle.
+	^ETHandle

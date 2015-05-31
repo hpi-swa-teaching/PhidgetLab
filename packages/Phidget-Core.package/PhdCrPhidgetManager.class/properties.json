@@ -15,7 +15,8 @@
 		"openedList",
 		"openedLabel",
 		"label",
-		"openedPhidgets" ],
+		"openedPhidgets",
+		"removeButtons" ],
 	"name" : "PhdCrPhidgetManager",
 	"pools" : [
 		 ],

@@ -1,4 +1,4 @@
-accessing
+private
 ETHandle: anObject
 
-	ETHandle := anObject.
+	ETHandle := anObject

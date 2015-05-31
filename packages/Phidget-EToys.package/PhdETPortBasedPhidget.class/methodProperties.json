@@ -3,9 +3,6 @@
 		 },
 	"instance" : {
 		"adaptSize" : "ck 5/6/2014 13:41",
-		"bin" : "JN 5/25/2015 16:43",
-		"checkForFreeConnectors" : "JN 5/26/2015 13:38",
-		"checkForFreeConnectorsWith:" : "JN 5/26/2015 15:44:03.839",
 		"createAndAddSubmorphs" : "ck 5/6/2014 13:41",
 		"createBin" : "RB 5/11/2014 15:30",
 		"delete" : "ck 5/6/2014 13:41",
@@ -13,5 +10,5 @@
 		"initPhidget:withLabel:" : "fw 7/23/2014 01:51",
 		"ports" : "ck 5/6/2014 13:41",
 		"positionBin" : "ck 5/6/2014 13:41",
-		"registerPort:" : "JN 5/26/2015 12:14",
-		"unregisterPort:" : "JN 5/26/2015 12:14" } }
+		"registerPort:" : "ck 5/6/2014 13:41",
+		"unregisterPort:" : "ck 5/6/2014 13:41" } }

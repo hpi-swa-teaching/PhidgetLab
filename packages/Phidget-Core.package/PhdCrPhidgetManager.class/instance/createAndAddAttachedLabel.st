@@ -1,5 +1,5 @@
 private
 createAndAddAttachedLabel
-	"changed Attached Phidgets: to Attached Sensors: for consistency"
-	attachedLabel := StringMorph contents: 'Attached Sensors:'.
+
+	attachedLabel := StringMorph contents: 'Attached Phidgets:'.
 	self addMorph: attachedLabel.

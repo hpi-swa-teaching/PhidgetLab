@@ -3,9 +3,6 @@
 		 },
 	"instance" : {
 		"changeColorAccordingTo:" : "rb 7/22/2014 19:39",
-		"drawNumber:" : "JN 5/28/2015 22:00",
-		"drawOn:" : "st 5/19/2015 15:04",
-		"initialize" : "st 5/19/2015 14:41",
-		"portLabelNumber" : "JN 5/28/2015 21:58",
-		"portLabelOffset" : "JN 5/28/2015 22:00",
+		"drawOn:" : "ck 6/1/2014 13:39",
+		"initialize" : "rb 7/22/2014 18:35",
 		"wantsDroppedMorph:event:" : "ck 5/6/2014 13:43" } }
