@@ -11,5 +11,4 @@ createAndAddOpenedList
 		backgroundColor: Color gray muchLighter;
 		changed.
 
-	openedList header sizes: #( 100 100 100 100 100 100).
 	self addMorph: openedList.

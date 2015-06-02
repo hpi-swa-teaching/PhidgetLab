@@ -9,8 +9,8 @@ createAndAddRemoveButtonFor: aPhidgetNumber
 		actionSelector: #closeAndDeleteETPhidget;
 		setBalloonText: 'Remove opened Phidget - e.g. if a Phidget is not shown';
 		useRoundedCorners;
-		position: openedList position + ((openedList width - 20) @ (aPhidgetNumber * 20));
+		position: openedList position + ((openedList width + 5) @ (aPhidgetNumber * 20));
 		yourself.
 
 	removeButtons at: aPhidgetNumber put: removeButton.
-	openedList addMorph: removeButton.
+	self addMorph: removeButton.

@@ -4,5 +4,5 @@ repositionRefreshButton
 	refreshButton ifNotNil: [
 		refreshButton position:
 			self topRight -
-			( (refreshButton width + self paddingLeftRight) @ (self paddingTopBottom negated) ).
+			( (refreshButton width + self paddingLeft) @ (self paddingTopBottom negated) ).
 	].

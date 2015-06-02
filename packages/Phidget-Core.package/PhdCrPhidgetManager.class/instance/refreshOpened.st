@@ -11,3 +11,5 @@ refreshOpened
 	].
 
 	openedList list: openedArray.
+	self resizeOpenedList.
+	(openedList header) sizes: self headerSizes.

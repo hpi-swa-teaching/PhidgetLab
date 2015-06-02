@@ -9,4 +9,5 @@ refreshOpenedOnAttachDetach
 		openedArray at: i put: phidget infoStringArray.
 	].
 	openedList list: openedArray.
+	self resizeOpenedList.
 	self reloadOpenedPhidgets.
