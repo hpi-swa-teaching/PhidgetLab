@@ -6,6 +6,7 @@ initPhidget: aPhidHandle withLabel: aLabel
 	
 	super initialize.
 	phidHandle := aPhidHandle.
+	phidHandle ETHandle: self.
 	serialNumber := nil.
 	labelMorph := StringMorph new font: (TextStyle default fontAt: 2) emphasis: 1.
 	self createAndAddSubmorphs.

@@ -1,5 +1,5 @@
 private
-listSizes
+openedListSizes
 
 	| listSizes firstElemSize|
 	listSizes := self openedHeaderSizes copy.

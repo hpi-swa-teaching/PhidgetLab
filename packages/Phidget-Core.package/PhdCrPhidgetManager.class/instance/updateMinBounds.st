@@ -2,11 +2,13 @@ private
 updateMinBounds
 
 	({ label. refreshButton. attachedLabel. openedList. openedLabel } allSatisfy: [ :item | item notNil ]) ifTrue: [
-		self minHeight: 2 * self paddingTopBottom + ( openedList bottom - label top ).
+		self minHeight: 2 * self paddingTopBottom + (openedList bottom - label top).
+		self vResizeToFit: true.
 		self minWidth:
-			self paddingLeft + self paddingRight +
-			{ label width + self paddingLeft + refreshButton width.
+			self paddingRight + self paddingLeft + 
+			{ refreshButton width.
 			  attachedLabel width.
 			  openedLabel  width.
-			  openedList width } max
+			  openedList width.
+			  attachedList width } max
 	].

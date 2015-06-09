@@ -3,8 +3,8 @@ repositionOpenedList
 
 	| sum |
 	(openedList notNil and: [openedLabel notNil]) ifTrue: [
-		sum := 0. self headerSizes do: [ :size | sum := sum + size]. sum.
+		sum := 0. self openedHeaderSizes do: [ :size | sum := sum + size]. sum.
 		openedList
-			width: sum;
+			width: sum + self class cutoffPrevention;
 			position: openedLabel bottomLeft + ( 0 @ self paddingTopBottom ).
 	].

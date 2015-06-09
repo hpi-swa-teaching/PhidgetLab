@@ -16,6 +16,7 @@
 		"openedLabel",
 		"label",
 		"openedPhidgets",
+		"attachedSensors",
 		"removeButtons" ],
 	"name" : "PhdCrPhidgetManager",
 	"pools" : [
