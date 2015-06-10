@@ -5,6 +5,7 @@
 		"drawOn:" : "ck 5/6/2014 16:52",
 		"getIfKitSensorSpeed" : "rb 6/20/2014 16:33",
 		"initialize" : "rb 6/27/2014 16:01",
+		"loadImage:" : "KU 6/9/2015 14:12",
 		"master" : "ck 5/6/2014 16:52",
 		"master:" : "rb 6/20/2014 16:33",
 		"name" : "rb 6/27/2014 16:47",

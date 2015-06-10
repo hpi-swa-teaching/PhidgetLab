@@ -1,4 +1,4 @@
 accessing
 slaveValue
-
-	^ self slave lastValue
+	(self slave = nil) ifTrue: [^500].
+	^ self slave lastValue  
