@@ -1,0 +1,1 @@
+This is used to report on the sender of #triggerScript:

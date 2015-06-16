@@ -1,0 +1,4 @@
+accessing
+isInWorld
+
+	^ world isInWorld.

@@ -1,0 +1,1 @@
+A SearchingViewer is a custom Viewer which has a type-in 'search' pane; the user types a word or fragment into the search pane and hits the 'search' button (or hits Return or Enter) and the pane gets populated with all the phrases that match (in the currently-installed language) the search-string.

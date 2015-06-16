@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"soundSystemBackup" ],
+	"name" : "TileMorphTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

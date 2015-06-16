@@ -1,0 +1,18 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"associatedMorph",
+		"standardPlayer",
+		"standardPlayfield",
+		"standardPalette",
+		"playerList" ],
+	"name" : "EtoysPresenter",
+	"pools" : [
+		 ],
+	"super" : "Presenter",
+	"type" : "normal" }

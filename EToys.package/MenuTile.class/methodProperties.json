@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"arrowAction:" : "sw 11/22/1999 11:54",
+		"handlerForMouseDown:" : "ar 9/12/2000 23:05",
+		"handlesMouseDown:" : "sw 11/22/1999 12:15",
+		"initialize" : "dgd 9/6/2003 17:36",
+		"mouseDown:" : "ar 8/6/2009 18:54",
+		"mouseDownPriority" : "ar 10/9/2000 21:16",
+		"resultType" : "sw 9/27/2001 17:28" } }

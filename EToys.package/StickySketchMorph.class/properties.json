@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StickySketchMorph",
+	"pools" : [
+		 ],
+	"super" : "SketchMorph",
+	"type" : "normal" }

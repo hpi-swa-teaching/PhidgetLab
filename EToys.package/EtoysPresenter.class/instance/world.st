@@ -1,0 +1,3 @@
+access
+world
+	^ associatedMorph world

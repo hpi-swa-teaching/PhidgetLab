@@ -1,0 +1,19 @@
+{
+	"category" : "Etoys-Tile Scriptors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AllSpecs",
+		"ContrastFactor",
+		"DownRightArrow",
+		"SelfTile",
+		"SizeScaleFactor" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parseNode",
+		"markerMorph" ],
+	"name" : "SyntaxMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

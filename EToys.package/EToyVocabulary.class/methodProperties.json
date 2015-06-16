@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"masterOrderingOfCategorySymbols" : "nk 10/8/2004 16:21",
+		"morphClassesDeclaringViewerAdditions" : "nice 1/5/2010 14:09",
+		"vocabularySummary" : "ar 1/3/2010 22:15" },
+	"instance" : {
+		"addCustomCategoriesTo:" : "sw 9/13/2001 16:36",
+		"allMethodsInCategory:forInstance:ofClass:" : "fbs 11/29/2013 17:53",
+		"categoryListForInstance:ofClass:limitClass:" : "nk 8/29/2004 17:17",
+		"encompassesAPriori:" : "sw 12/12/2000 06:06",
+		"includesSelector:forInstance:ofClass:limitClass:" : "fbs 11/29/2013 17:42",
+		"initialize" : "ar 1/3/2010 22:11",
+		"isEToyVocabulary" : "nk 8/29/2004 17:20",
+		"masterOrderingOfPhraseSymbols" : "sw 8/3/2005 14:03",
+		"methodInterfaceFrom:" : "sw 9/13/2001 16:39",
+		"objectForDataStream:" : "RAA 6/4/2001 19:12",
+		"phraseSymbolsToSuppress" : "sw 7/14/2004 18:24",
+		"setCategoryDocumentationStrings" : "nk 10/6/2004 11:56" } }

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"includeInNewMorphMenu" : "RAA 8/8/2000 14:36",
+		"newNode" : "RAA 7/30/2000 11:11" },
+	"instance" : {
+		"addChild:" : "RAA 7/30/2000 01:12",
+		"addNewChildAfter:" : "ul 11/15/2010 11:39",
+		"children" : "RAA 7/30/2000 01:13",
+		"clipToOwner:" : "RAA 7/30/2000 13:09",
+		"firstDisplay" : "RAA 7/30/2000 19:52",
+		"firstDisplayedOnLevel:" : "RAA 7/31/2000 10:33",
+		"initialize" : "RAA 7/30/2000 17:09",
+		"keyStroke:" : "RAA 7/30/2000 15:08",
+		"keyboardFocusChange:" : "RAA 7/30/2000 10:07",
+		"removeChild:" : "RAA 7/30/2000 16:43",
+		"showInOpenedState" : "RAA 7/31/2000 09:53",
+		"withAllChildrenDo:" : "RAA 7/31/2000 09:55" } }

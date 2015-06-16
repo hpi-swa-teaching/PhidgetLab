@@ -1,0 +1,15 @@
+{
+	"category" : "Etoys-Experimental",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"actionBlock",
+		"theProject" ],
+	"name" : "EToyProjectRenamerMorph",
+	"pools" : [
+		 ],
+	"super" : "EToyGenericDialogMorph",
+	"type" : "normal" }

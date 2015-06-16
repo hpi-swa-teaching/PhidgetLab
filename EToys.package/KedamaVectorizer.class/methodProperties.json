@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkFirstPairFor:in:" : "yo 9/24/2004 11:47",
+		"checkRequireVectorIn:for:" : "nice 12/16/2013 15:44",
+		"getAllPlayersIn:for:" : "yo 9/24/2004 11:13",
+		"getAllPlayersInMethodNode:for:" : "yo 10/8/2004 05:23",
+		"getPlayersBlock:for:into:" : "yo 9/24/2004 11:08",
+		"getPlayersMessage:for:into:" : "nice 12/16/2013 15:44",
+		"getSelectorFor:fromBlockNode:for:ifFoundDo:ignoreSelectors:" : "yo 2/14/2005 15:22",
+		"getSelectorFor:fromMessageNode:for:ifFoundDo:ignoreSelectors:" : "nice 12/16/2013 15:44",
+		"getSelectorRootFor:fromMessageNode:for:ignoreSelectors:" : "yo 2/14/2005 15:25",
+		"includesTurtlePlayer:for:" : "nice 12/16/2013 15:44",
+		"initialize" : "yo 8/28/2004 00:47",
+		"insertTurtleCommandAt:in:variableNode:from:firstReceiverName:" : "yo 9/18/2004 12:08",
+		"isScalarizable:andSelector:" : "yo 9/16/2004 10:20",
+		"isVectorizationRequiredWithPlayer:andSelector:" : "yo 9/29/2004 09:44",
+		"replace:with:inBlockNode:" : "yo 8/31/2004 18:34",
+		"replace:with:inMessageNode:" : "yo 10/9/2004 15:56",
+		"replaceRoot:with:inMessageNode:" : "yo 9/24/2004 09:30",
+		"traverseBlock:in:firstPlayer:inCondition:" : "nice 12/26/2009 01:10",
+		"traverseMessage:in:firstPlayer:inCondition:" : "nice 12/16/2013 15:47",
+		"traverseMessageRoot:in:firstPlayer:" : "yo 9/24/2004 09:20",
+		"vectorize:object:" : "yo 2/14/2005 10:55",
+		"vectorizeAt:inMethodNode:" : "yo 9/24/2004 12:11" } }

@@ -1,0 +1,4 @@
+all
+inputQueueEmpty
+
+	^ inputQueue isEmpty

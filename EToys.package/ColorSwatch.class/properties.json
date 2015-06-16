@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"argument" ],
+	"name" : "ColorSwatch",
+	"pools" : [
+		 ],
+	"super" : "UpdatingRectangleMorph",
+	"type" : "normal" }

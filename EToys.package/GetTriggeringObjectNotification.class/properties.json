@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-CustomEvents",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "GetTriggeringObjectNotification",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

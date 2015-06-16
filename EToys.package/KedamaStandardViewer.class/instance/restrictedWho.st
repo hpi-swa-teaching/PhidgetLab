@@ -1,0 +1,4 @@
+turtle view
+restrictedWho
+
+	^ restrictedWho.

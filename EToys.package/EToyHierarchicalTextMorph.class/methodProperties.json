@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"new" : "RAA 8/8/2000 14:34",
+		"on:list:selected:changeSelected:menu:keystroke:" : "md 7/13/2005 16:33" },
+	"instance" : {
+		"adjustSubmorphPositions" : "nice 12/27/2009 03:10",
+		"defaultColor" : "dgd 2/14/2003 22:25",
+		"extent:" : "RAA 7/30/2000 01:50",
+		"indentingItemClass" : "RAA 7/29/2000 22:20",
+		"initialize" : "dgd 2/14/2003 18:27",
+		"keyStroke:" : "RAA 7/30/2000 15:05",
+		"selectedMorph:" : "RAA 7/30/2000 10:05" } }

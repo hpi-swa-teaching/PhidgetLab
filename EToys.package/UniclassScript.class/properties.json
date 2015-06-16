@@ -1,0 +1,17 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"currentScriptEditor",
+		"formerScriptingTiles",
+		"isTextuallyCoded",
+		"lastSourceString" ],
+	"name" : "UniclassScript",
+	"pools" : [
+		 ],
+	"super" : "MethodWithInterface",
+	"type" : "normal" }

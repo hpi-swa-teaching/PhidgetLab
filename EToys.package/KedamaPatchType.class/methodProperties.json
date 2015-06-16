@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultArgumentTile" : "yo 10/13/2004 04:16",
+		"defaultArgumentTileFor:" : "yo 10/13/2004 01:53",
+		"initialValueForASlotFor:" : "yo 6/17/2004 19:44",
+		"initialize" : "yo 6/5/2004 16:18",
+		"typeColor" : "yo 6/5/2004 16:19",
+		"updatingTileForTarget:partName:getter:setter:" : "ul 11/15/2010 11:50" } }

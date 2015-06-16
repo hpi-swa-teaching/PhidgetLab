@@ -1,0 +1,35 @@
+{
+	"category" : "Etoys-Scripting Tiles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DownPicture",
+		"RetractPicture",
+		"SuffixArrowAllowance",
+		"SuffixPicture",
+		"UpArrowAllowance",
+		"UpPicture",
+		"UpdatingOperators" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"type",
+		"slotName",
+		"literal",
+		"operatorOrExpression",
+		"actualObject",
+		"downArrow",
+		"upArrow",
+		"suffixArrow",
+		"typeColor",
+		"lastArrowTick",
+		"nArrowTicks",
+		"operatorReadoutString",
+		"possessive",
+		"retractArrow",
+		"vocabulary",
+		"vocabularySymbol" ],
+	"name" : "TileMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

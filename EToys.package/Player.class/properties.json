@@ -1,0 +1,17 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		"scripts",
+		"slotInfo" ],
+	"classvars" : [
+		"BiggestSubclassNumber",
+		"TimeOfError" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"costume",
+		"costumes" ],
+	"name" : "Player",
+	"pools" : [
+		"References" ],
+	"super" : "Model",
+	"type" : "normal" }

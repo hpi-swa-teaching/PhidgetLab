@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Stacks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"cards" ],
+	"name" : "StackMorph",
+	"pools" : [
+		 ],
+	"super" : "BookMorph",
+	"type" : "normal" }

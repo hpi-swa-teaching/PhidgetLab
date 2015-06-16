@@ -1,0 +1,19 @@
+{
+	"category" : "Etoys-Scripting Tiles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"resultType",
+		"brightenedOnEnter",
+		"userScriptSelector",
+		"justGrabbedFromViewer",
+		"vocabulary",
+		"vocabularySymbol" ],
+	"name" : "PhraseTileMorph",
+	"pools" : [
+		 ],
+	"super" : "TileLikeMorph",
+	"type" : "normal" }

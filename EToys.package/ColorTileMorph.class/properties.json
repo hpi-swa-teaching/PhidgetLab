@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting Tiles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"colorSwatch" ],
+	"name" : "ColorTileMorph",
+	"pools" : [
+		 ],
+	"super" : "TileMorph",
+	"type" : "normal" }

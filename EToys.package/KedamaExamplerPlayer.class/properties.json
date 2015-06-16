@@ -1,0 +1,16 @@
+{
+	"category" : "Etoys-StarSqueak",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"kedamaWorld",
+		"turtles",
+		"sequentialStub" ],
+	"name" : "KedamaExamplerPlayer",
+	"pools" : [
+		 ],
+	"super" : "Player",
+	"type" : "normal" }

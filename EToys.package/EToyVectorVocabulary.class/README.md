@@ -1,0 +1,1 @@
+An extension of the etoy vocabulary in support of an experiment Alan Kay requested in summer 2001 for allowing any morph/player to be thought of as a vector.  In effect, adds a category #vector to the viewer for such all morphs.  Consult Ted Kaehler and Alan Kay for more information on this track.

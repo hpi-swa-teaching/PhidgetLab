@@ -1,0 +1,17 @@
+{
+	"category" : "Etoys-StarSqueak",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"who",
+		"index",
+		"arrays",
+		"exampler" ],
+	"name" : "KedamaSequenceExecutionStub",
+	"pools" : [
+		 ],
+	"super" : "KedamaExamplerPlayer",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"WritingUniversalTiles" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"scriptName",
+		"firstTileRow",
+		"timeStamp",
+		"playerScripted",
+		"handWithTile",
+		"showingMethodPane",
+		"threadPolygon" ],
+	"name" : "ScriptEditorMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

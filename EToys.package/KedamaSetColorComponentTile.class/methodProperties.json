@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addPatchTile" : "yo 1/30/2005 11:20",
+		"componentName:" : "yo 10/12/2004 22:38",
+		"initialize" : "yo 10/12/2004 22:36",
+		"line1:" : "yo 1/30/2005 11:20",
+		"setAssignmentSuffix:" : "yo 10/12/2004 22:39",
+		"setPatchDefaultTo:" : "yo 10/12/2004 22:39",
+		"storeCodeOn:indent:" : "yo 10/12/2004 23:33",
+		"updateLiteralLabel" : "yo 10/12/2004 22:40" } }

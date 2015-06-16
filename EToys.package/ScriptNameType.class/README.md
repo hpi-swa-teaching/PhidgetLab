@@ -1,0 +1,1 @@
+ScriptNameType is a data type representing selectors of user-written scripts.  The choices offered as values for data of this type are all the symbols that are implemented as names of user-written scripts in the current project.

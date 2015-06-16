@@ -1,0 +1,4 @@
+accessing
+rightEdgeMode
+
+	^ rightEdgeMode.

@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-CustomEvents",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nk 6/12/2004 14:09",
+	"instvars" : [
+		 ],
+	"name" : "UserCustomEventNameType",
+	"pools" : [
+		 ],
+	"super" : "SymbolListType",
+	"type" : "normal" }

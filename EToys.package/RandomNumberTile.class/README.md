@@ -1,0 +1,1 @@
+Disused; retained "temporarily" for backward compatibility.  The duties formerly served by the RandomNumberTile are now handled by the generic FunctionTile.

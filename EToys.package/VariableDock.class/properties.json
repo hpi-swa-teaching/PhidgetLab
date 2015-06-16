@@ -1,0 +1,21 @@
+{
+	"category" : "Etoys-Stacks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"variableName",
+		"type",
+		"definingMorph",
+		"morphGetSelector",
+		"morphPutSelector",
+		"playerGetSelector",
+		"playerPutSelector",
+		"defaultValue" ],
+	"name" : "VariableDock",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

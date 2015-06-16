@@ -1,0 +1,4 @@
+slot-kedama
+isSequentialStub
+
+	^ false.

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"eToyBaseFolderSpecForFileDirectory:" : "ar 9/5/2001 16:10",
+		"eToyBaseFolderSpecForFileDirectory:put:" : "ar 9/5/2001 16:30",
+		"eToyUserListForFileDirectory:" : "ar 9/5/2001 16:38",
+		"eToyUserListUrlForFileDirectory:" : "ar 9/5/2001 15:46",
+		"eToyUserListUrlForFileDirectory:put:" : "ar 9/5/2001 15:48",
+		"localEToyBaseFolderSpecs" : "ar 9/5/2001 16:11",
+		"localEToyUserListUrls" : "ar 9/5/2001 15:47",
+		"parseEToyUserListFrom:" : "nice 6/11/2010 21:58" },
+	"instance" : {
+		"eToyUserList" : "ar 9/5/2001 15:45",
+		"eToyUserList:" : "ar 8/24/2001 14:31",
+		"eToyUserListUrl" : "ar 8/24/2001 14:29",
+		"eToyUserListUrl:" : "ar 8/24/2001 14:31",
+		"eToyUserName:" : "ar 9/5/2001 16:05",
+		"hasEToyUserList" : "ar 9/5/2001 16:12" } }

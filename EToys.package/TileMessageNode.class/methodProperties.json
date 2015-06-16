@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"printIfNilNotNil:indent:" : "RAA 6/9/2000 18:25",
+		"printIfOn:indent:" : "BJP 6/9/2000 12:37",
+		"printKeywords:arguments:on:indent:" : "RAA 8/15/1999 16:23",
+		"printReceiver:on:indent:" : "RAA 6/9/2000 15:32",
+		"printToDoOn:indent:" : "dgd 2/21/2003 22:52",
+		"printWhileOn:indent:" : "RAA 6/9/2000 17:15",
+		"printWithClosureAnalysisIfOn:indent:" : "eem 6/2/2008 11:47",
+		"printWithClosureAnalysisReceiver:on:indent:" : "eem 6/2/2008 11:47",
+		"printWithClosureAnalysisToDoOn:indent:" : "eem 6/2/2008 11:47",
+		"printWithClosureAnalysisWhileOn:indent:" : "eem 6/2/2008 11:47" } }

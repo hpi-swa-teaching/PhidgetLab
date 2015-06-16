@@ -1,0 +1,1 @@
+A tile that offers a list of supported data types.

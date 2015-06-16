@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"cleanUp:" : "cmm 1/29/2014 14:48",
+		"cleanupsForRelease" : "ul 6/17/2011 12:20",
+		"fixComicCharacters" : "sw 1/21/98 15:07",
+		"loadJanForms" : "sd 5/11/2003 22:13",
+		"methodsToStripForExternalRelease" : "tk 4/10/2001 13:08",
+		"prepareRelease" : "di 1/15/1999 11:29",
+		"previewEToysOn:" : "di 1/15/1999 11:29" },
+	"instance" : {
+		 } }

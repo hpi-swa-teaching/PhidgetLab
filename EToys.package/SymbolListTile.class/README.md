@@ -1,0 +1,1 @@
+Instances of SymbolListTile are literal tiles whose literals are choosable from a finite list.

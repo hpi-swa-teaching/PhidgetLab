@@ -1,0 +1,1 @@
+Adds inst vars layoutPolicy and layoutParameters to vanilla MorphExtension, for greater speed and to reduce the need for use of the otherProperties dictionary.

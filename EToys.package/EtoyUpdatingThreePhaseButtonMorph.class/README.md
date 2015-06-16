@@ -1,0 +1,1 @@
+A slight variation wherein the actionSelector and getSelector both take argument(s).

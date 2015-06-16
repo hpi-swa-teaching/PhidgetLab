@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		"ephemeralPlayerRef" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "UnscriptedPlayer",
+	"pools" : [
+		 ],
+	"super" : "Player",
+	"type" : "normal" }

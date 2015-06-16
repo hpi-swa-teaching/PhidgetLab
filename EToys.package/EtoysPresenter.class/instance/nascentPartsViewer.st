@@ -1,0 +1,3 @@
+viewer
+nascentPartsViewer
+	^ StandardViewer new

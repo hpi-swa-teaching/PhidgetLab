@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "sw 9/26/2001 04:26" },
+	"instance" : {
+		"addCustomMenuItems:hand:" : "sw 3/2/2004 20:58",
+		"bringUpToDate" : "sw 3/11/2003 00:35",
+		"establishLabelWording" : "yo 11/30/2005 14:14",
+		"initializeForPlayer:uniclassScript:" : "sw 3/11/2003 00:31",
+		"isTileScriptingElement" : "sw 10/1/1999 21:42",
+		"localeChanged" : "nk 9/3/2004 16:06",
+		"setLabel" : "ar 8/6/2009 20:44",
+		"uniclassScript" : "sw 3/10/2003 23:57" } }

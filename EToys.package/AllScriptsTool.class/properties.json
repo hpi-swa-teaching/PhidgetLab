@@ -1,0 +1,16 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"showingOnlyActiveScripts",
+		"showingAllInstances",
+		"showingOnlyTopControls" ],
+	"name" : "AllScriptsTool",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

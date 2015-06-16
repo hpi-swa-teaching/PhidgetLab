@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testGetterSelectorForReturnsAccessorName" : "fbs 11/29/2013 17:40",
+		"testInherentSelectorForGetterReturnsBaseName" : "fbs 11/29/2013 18:02",
+		"testSetterSelectorForReturnsMutatorName" : "fbs 11/29/2013 08:56" } }

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "yo 6/7/2004 13:56",
+		"resultType" : "yo 6/5/2004 16:12",
+		"setLiteral:" : "yo 6/5/2004 16:11",
+		"storeCodeOn:indent:" : "yo 6/5/2004 16:11",
+		"usePatch:" : "yo 6/18/2004 16:02" } }

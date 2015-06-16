@@ -1,0 +1,15 @@
+{
+	"category" : "Etoys-Outliner",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"children",
+		"firstDisplay" ],
+	"name" : "EToyTextNode",
+	"pools" : [
+		 ],
+	"super" : "TextMorph",
+	"type" : "normal" }

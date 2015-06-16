@@ -1,0 +1,15 @@
+{
+	"category" : "Etoys-Experimental",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"EToyVersion",
+		"EToyVersionDate" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "EToySystem",
+	"pools" : [
+		 ],
+	"super" : "StandardScriptingSystem",
+	"type" : "normal" }

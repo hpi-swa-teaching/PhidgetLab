@@ -1,0 +1,3 @@
+*Etoys-support
+isCandidateForAutomaticViewing
+	^ false

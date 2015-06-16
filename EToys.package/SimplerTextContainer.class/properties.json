@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Outliner",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SimplerTextContainer",
+	"pools" : [
+		 ],
+	"super" : "TextContainer",
+	"type" : "normal" }

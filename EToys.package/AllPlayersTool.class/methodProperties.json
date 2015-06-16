@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"defaultNameStemForInstances" : "sw 7/19/2004 10:38",
+		"descriptionForPartsBin" : "sw 7/19/2004 10:37" },
+	"instance" : {
+		"addCustomMenuItems:hand:" : "sw 7/28/2004 18:32",
+		"addHeaderRow" : "sw 12/8/2004 11:12",
+		"initializeFor:" : "sw 7/28/2004 20:48",
+		"initializeToStandAlone" : "ul 1/11/2010 07:16",
+		"invigorateButton" : "sw 7/19/2004 16:37",
+		"menuButton" : "sw 7/19/2004 16:17",
+		"presentHelp" : "sw 7/28/2004 22:58",
+		"reinvigorate" : "sw 7/28/2004 18:08" } }

@@ -1,0 +1,4 @@
+player viewer
+updateLiteralLabel
+	self computeOperatorOrExpression.
+	super updateLiteralLabel

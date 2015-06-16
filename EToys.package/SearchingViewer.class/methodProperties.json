@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addNamePaneTo:" : "tak 8/8/2005 11:31",
+		"categoryRestorationInfo" : "sw 8/17/2002 01:13",
+		"categoryWording:" : "sw 12/11/2001 15:52",
+		"currentCategory" : "sw 12/11/2001 19:13",
+		"doSearchFrom:" : "sw 4/10/2003 21:36",
+		"doSearchFrom:interactive:" : "nice 12/27/2009 20:29",
+		"establishContents" : "sw 10/15/2004 02:34",
+		"initializeFor:categoryChoice:" : "sw 8/3/2005 11:16",
+		"maybeAddArrowsTo:" : "sw 12/11/2001 19:12",
+		"rawSearchString:" : "sw 8/22/2002 15:14",
+		"searchString" : "sw 8/11/2002 02:14",
+		"searchString:notifying:" : "sw 8/22/2002 20:30",
+		"setCategorySymbolFrom:" : "sw 8/22/2002 23:09",
+		"updateCategoryNameTo:" : "tak 8/8/2005 11:31",
+		"updateSearchButtonLabel" : "tak 8/8/2005 11:30" } }

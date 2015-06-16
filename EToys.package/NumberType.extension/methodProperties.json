@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addExtraItemsToMenu:forSlotSymbol:" : "dgd 9/6/2003 20:30",
+		"addUserSlotItemsTo:slotSymbol:" : "sw 9/15/2002 16:50",
+		"comparatorForSampleBoolean" : "sw 9/27/2001 02:53",
+		"defaultArgumentTile" : "sw 9/27/2001 17:30",
+		"newReadoutTile" : "sw 9/27/2001 17:37",
+		"typeColor" : "sw 9/27/2001 17:21",
+		"wantsAssignmentTileVariants" : "sw 9/26/2001 03:11",
+		"wantsSuffixArrow" : "sw 9/26/2001 03:18" } }

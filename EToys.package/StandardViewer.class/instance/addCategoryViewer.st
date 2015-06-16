@@ -1,0 +1,3 @@
+categories
+addCategoryViewer	
+	self addCategoryViewerFor: self likelyCategoryToShow

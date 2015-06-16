@@ -1,0 +1,16 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tickPauseWrapper",
+		"tickPauseButtonsShowing",
+		"scriptInstantiation" ],
+	"name" : "ScriptStatusControl",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

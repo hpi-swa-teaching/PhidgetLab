@@ -1,0 +1,1 @@
+A scripting tile consisting of a function-name and an argument pad, and representing a call to a numeric function of a single argument.

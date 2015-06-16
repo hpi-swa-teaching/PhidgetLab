@@ -1,0 +1,17 @@
+{
+	"category" : "Etoys-Experimental",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"theName",
+		"theNameMorph",
+		"actionBlock",
+		"cancelBlock" ],
+	"name" : "EtoyLoginMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorphBob1",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+playerList
+flushPlayerListCache
+	playerList := nil

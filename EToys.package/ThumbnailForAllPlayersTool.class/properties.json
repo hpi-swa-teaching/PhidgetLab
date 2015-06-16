@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ThumbnailForAllPlayersTool",
+	"pools" : [
+		 ],
+	"super" : "ThumbnailMorph",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+slot-accessing
+setNormal: degree
+

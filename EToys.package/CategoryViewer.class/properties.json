@@ -1,0 +1,15 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"namePane",
+		"chosenCategorySymbol" ],
+	"name" : "CategoryViewer",
+	"pools" : [
+		 ],
+	"super" : "Viewer",
+	"type" : "normal" }

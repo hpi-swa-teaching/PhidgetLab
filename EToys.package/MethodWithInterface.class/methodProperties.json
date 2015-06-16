@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allScriptActivationButtons" : "sw 3/10/2003 23:58",
+		"allScriptEditors" : "sw 3/28/2001 16:26",
+		"bringUpToDate" : "sw 3/28/2001 16:26",
+		"convertFromUserScript:" : "sw 1/30/2001 11:37",
+		"currentScriptEditor:" : "sw 2/17/2001 03:28",
+		"initialize" : "sw 1/26/2001 16:44",
+		"instantiatedScriptEditorForPlayer:" : "sw 3/28/2001 16:26",
+		"isTextuallyCoded" : "sw 2/20/2001 03:29",
+		"okayToRename" : "sw 2/17/2001 04:10",
+		"playerClass" : "sw 3/28/2001 16:25",
+		"playerClass:selector:" : "sw 9/12/2001 11:59",
+		"recompileScriptFromTilesUnlessTextuallyCoded" : "sw 7/28/2001 01:00",
+		"renameScript:fromPlayer:" : "sw 3/11/2003 00:01",
+		"revertToLastSavedTileVersionFor:" : "sw 2/20/2001 03:43",
+		"saveScriptVersion:" : "sw 2/20/2001 03:41",
+		"status" : "nk 7/2/2004 07:18" } }

@@ -1,0 +1,3 @@
+scripting
+isTileScriptingElement
+	^ true

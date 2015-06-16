@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Experimental",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"projectDetails" ],
+	"name" : "EToyProjectDetailsMorph",
+	"pools" : [
+		 ],
+	"super" : "EToyProjectRenamerMorph",
+	"type" : "normal" }
