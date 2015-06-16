@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"allScriptsToolForActiveWorld" : "sw 6/12/2001 11:52",
+		"defaultNameStemForInstances" : "sw 11/13/2001 19:44",
+		"descriptionForPartsBin" : "sw 11/13/2001 18:31",
+		"initialize" : "asm 4/11/2003 10:28",
+		"launchAllScriptsToolFor:" : "sw 1/30/2001 23:06",
+		"registerInFlapsRegistry" : "asm 4/11/2003 10:30",
+		"unload" : "asm 4/11/2003 12:30" },
+	"instance" : {
+		"addSecondLineOfControls" : "dgd 9/19/2003 14:34",
+		"dismissButton" : "dgd 8/31/2003 19:43",
+		"initializeFor:" : "sw 12/8/2004 11:26",
+		"initializeToStandAlone" : "dgd 2/22/2003 19:37",
+		"openUpButton" : "sw 12/8/2004 11:28",
+		"presentHelp" : "dgd 9/19/2003 14:35",
+		"showingAllInstances" : "sw 1/30/2001 23:18",
+		"showingOnlyActiveScripts" : "sw 1/30/2001 23:18",
+		"showingOnlyTopControls" : "sw 11/13/2001 19:43",
+		"step" : "sw 11/14/2001 00:31",
+		"stepTime" : "sw 1/31/2001 23:12",
+		"toggleWhetherShowingAllInstances" : "sw 11/14/2001 00:32",
+		"toggleWhetherShowingOnlyActiveScripts" : "sw 11/14/2001 00:32",
+		"toggleWhetherShowingOnlyTopControls" : "sw 11/14/2001 00:32",
+		"wantsSteps" : "sw 1/31/2001 23:12" } }

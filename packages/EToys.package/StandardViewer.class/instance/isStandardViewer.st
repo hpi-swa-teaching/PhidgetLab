@@ -1,0 +1,3 @@
+classification
+isStandardViewer
+	^true

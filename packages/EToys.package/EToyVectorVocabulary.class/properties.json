@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Protocols",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "EToyVectorVocabulary",
+	"pools" : [
+		 ],
+	"super" : "EToyVocabulary",
+	"type" : "normal" }

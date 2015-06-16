@@ -1,0 +1,3 @@
+*Etoys-control
+isCandidateForAutomaticViewing
+	^ false

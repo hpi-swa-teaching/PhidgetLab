@@ -1,0 +1,3 @@
+access
+isBoolean
+	^ true

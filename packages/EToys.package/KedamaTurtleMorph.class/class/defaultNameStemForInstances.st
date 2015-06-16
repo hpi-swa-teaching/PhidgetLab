@@ -1,0 +1,4 @@
+scripting
+defaultNameStemForInstances
+
+	^ 'turtle' translated.

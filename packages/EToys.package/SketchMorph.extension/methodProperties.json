@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "sw 7/14/2004 21:11",
+		"exampleBackgroundSketch" : "sw 6/13/2001 22:50" },
+	"instance" : {
+		"acquirePlayerSimilarTo:" : "nk 6/12/2004 10:04",
+		"appearsToBeSameCostumeAs:" : "RAA 1/13/2001 11:38",
+		"asWearableCostume" : "nk 6/12/2004 10:04",
+		"basicType" : "tk 11/1/2001 12:42",
+		"couldHoldSeparateDataForEachInstance" : "sw 10/30/2000 10:29",
+		"currentDataValue" : "sw 10/30/2000 10:28",
+		"heading:" : "ar 9/22/2000 21:19",
+		"variableDocks" : "sw 10/25/2000 07:01",
+		"wearCostume:" : "RAA 3/15/2001 09:11" } }

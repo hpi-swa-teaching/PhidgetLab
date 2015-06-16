@@ -1,0 +1,33 @@
+initialization
+setCategoryDocumentationStrings
+	"Initialize the documentation strings associated with the old etoy categories, in English"
+
+	self setCategoryStrings: #(
+(basic					'basic'					'a few important things')
+(#'book navigation'		'book navigation'		'relating to book, stacks, etc')
+(button					'button'					'for thinking of this object as a push-button control')
+(collections				'collections'				'for thinking of this object as a collection')
+(fog					'fog'					'3D fog')
+(geometry				'geometry' 				'measurements and coordinates')
+(#'color & border'		'color & border'			'matters concerning the colors and borders of objects')
+(graphics				'graphics'				'for thinking of this object as a picture')
+(variables				'variables'				'variables added by this object')
+(joystick				'joystick'				'the object as a Joystick')
+(miscellaneous			'miscellaneous' 			'various commands')
+(motion					'motion' 				'matters relating to moving and turning')
+(paintbox				'paintbox'				'the painting palette')
+(#'pen trails'			'pen trails'				'relating to trails put down by pens')
+(#'pen use'				'pen use' 				'use of an object''s "pen"')
+(playfield				'playfield'				'the object as a container for other visible objects')
+(sampling				'sampling'				'sampling')
+(scripting				'scripting'				'commands to start and stop scripts')
+(scripts					'scripts'					'methods added by this object')
+(slider					'slider'					'functions useful to sliders')
+(speaker				'speaker'				'the object as an audio Speaker')
+(#'stack navigation'		'stack navigation'		'navigation within a stck')
+(storyboard				'storyboard'				'storyboard')
+(tests					'tests'					'yes/no tests, to use in "Test" panes of scripts')
+(text					'text'					'The object as text')
+(vector					'vector'					'The object as a vector')
+(viewing				'viewing'				'matters relating to viewing')
+ ) 

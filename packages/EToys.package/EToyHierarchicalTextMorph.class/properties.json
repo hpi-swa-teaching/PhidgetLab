@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Outliner",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EToyHierarchicalTextMorph",
+	"pools" : [
+		 ],
+	"super" : "SimpleHierarchicalListMorph",
+	"type" : "normal" }

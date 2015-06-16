@@ -1,0 +1,3 @@
+categories
+downArrowHit
+	self previousCategory

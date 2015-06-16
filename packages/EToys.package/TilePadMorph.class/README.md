@@ -1,0 +1,1 @@
+The drop target for colored tiles.  Landing pad.  In the hierarchy, but not a tile itself.  Would like to eliminate this, but an attempt at it failed. 

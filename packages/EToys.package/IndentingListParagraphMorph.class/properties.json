@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Outliner",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IndentingListParagraphMorph",
+	"pools" : [
+		 ],
+	"super" : "IndentingListItemMorph",
+	"type" : "normal" }

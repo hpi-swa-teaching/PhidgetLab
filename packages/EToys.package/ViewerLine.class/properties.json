@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting Tiles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sw 8/28/2004 20:32",
+	"instvars" : [
+		"elementSymbol" ],
+	"name" : "ViewerLine",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

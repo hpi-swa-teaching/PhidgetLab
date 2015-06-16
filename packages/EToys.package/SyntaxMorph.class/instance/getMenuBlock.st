@@ -1,0 +1,4 @@
+menus
+getMenuBlock
+
+	^ nil

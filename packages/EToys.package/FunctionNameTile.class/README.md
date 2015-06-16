@@ -1,0 +1,1 @@
+An operator tile holding the name of a function; used in conjunction with a FunctionTile which is always its owner.

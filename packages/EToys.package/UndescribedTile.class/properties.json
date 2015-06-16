@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting Tiles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "UndescribedTile",
+	"pools" : [
+		 ],
+	"super" : "TileMorph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-StarSqueak",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "yo 6/18/2004 18:29",
+	"instvars" : [
+		"turtleTile" ],
+	"name" : "KedamaAngleToTile",
+	"pools" : [
+		 ],
+	"super" : "TileMorph",
+	"type" : "normal" }

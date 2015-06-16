@@ -1,0 +1,15 @@
+{
+	"category" : "Etoys-StarSqueak",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"attributes",
+		"root" ],
+	"name" : "KedamaVectorizer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

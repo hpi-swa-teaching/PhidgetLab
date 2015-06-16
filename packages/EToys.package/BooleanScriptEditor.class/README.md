@@ -1,0 +1,1 @@
+A ScriptEditor required to hold a Boolean

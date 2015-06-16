@@ -1,0 +1,20 @@
+{
+	"category" : "Etoys-StarSqueak",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"world",
+		"who",
+		"x",
+		"y",
+		"headingRadians",
+		"color",
+		"visible" ],
+	"name" : "KedamaTurtlePlayer",
+	"pools" : [
+		 ],
+	"super" : "Player",
+	"type" : "normal" }

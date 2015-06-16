@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting Tiles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sw 11/24/2003 15:25",
+	"instvars" : [
+		 ],
+	"name" : "SoundReadoutTile",
+	"pools" : [
+		 ],
+	"super" : "StringReadoutTile",
+	"type" : "normal" }

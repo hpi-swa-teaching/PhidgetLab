@@ -1,0 +1,3 @@
+initialization
+actualObject
+	^ actualObject

@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"associatedPlayer" : "sw 1/12/2005 09:33",
+		"bringUpToDate" : "sw 1/6/2005 00:11",
+		"buildForPlayer:getter:" : "fbs 11/29/2013 18:05",
+		"buildReadout:" : "tak 4/6/2005 12:14",
+		"fancyForPlayer:getter:" : "tak 4/6/2005 13:25",
+		"getterTilesForDrop" : "fbs 11/29/2013 17:52",
+		"isTileLike" : "sw 1/6/2005 03:49",
+		"isTileScriptingElement" : "sw 1/6/2005 03:44",
+		"justGrabbedFrom:" : "sw 1/6/2005 04:00",
+		"localeChanged" : "tak 8/5/2005 01:14",
+		"player:variableName:" : "tak 4/6/2005 13:07",
+		"readoutInformation:" : "fbs 11/29/2013 18:05",
+		"readoutMorph" : "sw 1/6/2005 02:47",
+		"reconstituteName" : "ul 12/12/2009 14:04",
+		"resultType" : "fbs 11/29/2013 17:52",
+		"tileRows" : "sw 1/12/2005 09:32",
+		"unlabeledForPlayer:getter:" : "tak 4/6/2005 13:47" } }

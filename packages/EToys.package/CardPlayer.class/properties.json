@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Stacks",
+	"classinstvars" : [
+		"variableDocks" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"privateMorphs" ],
+	"name" : "CardPlayer",
+	"pools" : [
+		 ],
+	"super" : "Player",
+	"type" : "normal" }

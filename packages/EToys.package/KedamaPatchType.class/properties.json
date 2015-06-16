@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-StarSqueak",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "yo 6/18/2004 18:32",
+	"instvars" : [
+		 ],
+	"name" : "KedamaPatchType",
+	"pools" : [
+		 ],
+	"super" : "PlayerType",
+	"type" : "normal" }

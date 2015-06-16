@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addPatchTile" : "yo 1/30/2005 11:03",
+		"initialize" : "yo 10/8/2004 07:45",
+		"line1:" : "yo 1/30/2005 11:04",
+		"setPatchDefaultTo:" : "yo 6/7/2004 21:19",
+		"storeCodeOn:indent:" : "yo 10/7/2004 21:58" } }

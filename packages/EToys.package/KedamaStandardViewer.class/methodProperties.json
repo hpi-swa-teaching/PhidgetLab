@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"categoryViewerFor:" : "yo 4/4/2005 15:19",
+		"initializeFor:barHeight:includeDismissButton:showCategories:" : "yo 4/4/2005 18:14",
+		"providePossibleRestrictedView:" : "yo 4/4/2005 18:05",
+		"replaceTargetsWithExampler" : "yo 4/4/2005 10:53",
+		"replaceTargetsWithStub" : "yo 4/3/2005 17:25",
+		"resetWhoIfNecessary" : "yo 4/4/2005 17:48",
+		"restrictedIndex" : "yo 4/4/2005 18:15",
+		"restrictedWho" : "yo 4/4/2005 18:01",
+		"searchingViewerMorphs" : "yo 4/4/2005 18:00" } }

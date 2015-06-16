@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"*" : "yo 10/25/2004 15:52",
+		"+" : "yo 10/25/2004 14:58",
+		"-" : "yo 10/25/2004 15:52",
+		"/" : "yo 10/25/2004 15:53",
+		"primAddArray:and:into:" : "yo 10/25/2004 15:50",
+		"primAddScalar:and:into:" : "yo 10/25/2004 15:10",
+		"primDivArray:and:into:" : "yo 10/25/2004 15:51",
+		"primDivScalar:and:into:" : "yo 10/25/2004 15:49",
+		"primMulArray:and:into:" : "yo 10/25/2004 15:51",
+		"primMulScalar:and:into:" : "yo 10/25/2004 15:49",
+		"primSubArray:and:into:" : "yo 10/25/2004 15:50",
+		"primSubScalar:and:into:" : "yo 10/25/2004 15:49" } }

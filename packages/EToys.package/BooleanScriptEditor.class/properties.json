@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BooleanScriptEditor",
+	"pools" : [
+		 ],
+	"super" : "ScriptEditorMorph",
+	"type" : "normal" }

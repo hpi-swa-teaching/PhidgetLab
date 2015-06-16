@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Outliner",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"topNode" ],
+	"name" : "EToyHierarchicalTextGizmo",
+	"pools" : [
+		 ],
+	"super" : "AbstractHierarchicalList",
+	"type" : "normal" }

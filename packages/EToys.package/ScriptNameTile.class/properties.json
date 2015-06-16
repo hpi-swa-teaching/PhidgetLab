@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting Tiles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ScriptNameTile",
+	"pools" : [
+		 ],
+	"super" : "SymbolListTile",
+	"type" : "normal" }

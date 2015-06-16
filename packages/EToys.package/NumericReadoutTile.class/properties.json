@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting Tiles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sw 2/8/2012 18:22",
+	"instvars" : [
+		 ],
+	"name" : "NumericReadoutTile",
+	"pools" : [
+		 ],
+	"super" : "TileMorph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Protocols-Type Vocabularies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PlayerType",
+	"pools" : [
+		 ],
+	"super" : "DataType",
+	"type" : "normal" }

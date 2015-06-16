@@ -1,0 +1,25 @@
+{
+	"category" : "Etoys-StarSqueak",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"exampler",
+		"info",
+		"types",
+		"arrays",
+		"deletingIndex",
+		"whoTable",
+		"whoTableBase",
+		"whoTableValid",
+		"turtlesMap",
+		"turtleMapValid",
+		"lastWho",
+		"lastWhoStub" ],
+	"name" : "KedamaTurtleVectorPlayer",
+	"pools" : [
+		 ],
+	"super" : "KedamaExamplerPlayer",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sw 3/11/2003 00:24",
+	"instvars" : [
+		"uniclassScript" ],
+	"name" : "ScriptActivationButton",
+	"pools" : [
+		 ],
+	"super" : "SimpleButtonMorph",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"initialize" : "asm 4/11/2003 10:50",
+		"registerInFlapsRegistry" : "asm 4/11/2003 10:51",
+		"unload" : "asm 4/11/2003 12:39" },
+	"instance" : {
+		"basicStoreCodeOn:indent:" : "yo 9/3/2004 00:45",
+		"handlesMouseDown:" : "RAA 7/31/2001 12:02",
+		"initialize" : "dgd 9/20/2003 19:11",
+		"kedamaStoreCodeOn:indent:actualObject:" : "yo 9/3/2004 00:54",
+		"labelMorph" : "sw 3/24/2000 00:43",
+		"numericValue" : "sw 6/25/1998 17:44",
+		"storeCodeOn:indent:" : "yo 9/16/2004 18:50",
+		"updateLiteralLabel" : "tk 8/14/2000 23:23",
+		"updateWordingToMatchVocabulary" : "yo 7/2/2004 20:59" } }

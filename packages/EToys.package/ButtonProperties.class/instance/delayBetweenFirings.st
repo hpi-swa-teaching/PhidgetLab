@@ -1,0 +1,4 @@
+events
+delayBetweenFirings
+
+	^delayBetweenFirings

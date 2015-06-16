@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"loginAndDo:ifCanceled:" : "ar 8/23/2001 21:37" },
+	"instance" : {
+		"buttonColor" : "gm 3/11/2003 21:51",
+		"buttonNamed:action:color:help:" : "dgd 11/2/2004 21:26",
+		"cancelButton" : "dgd 11/2/2004 21:24",
+		"defaultBorderColor" : "gm 3/11/2003 21:53",
+		"defaultBorderWidth" : "dgd 2/14/2003 22:37",
+		"defaultColor" : "dgd 3/7/2003 16:01",
+		"doCancel" : "ar 9/24/2000 00:08",
+		"doOK" : "dgd 10/8/2003 18:58",
+		"initialize" : "dgd 3/7/2003 15:28",
+		"myFont" : "nk 7/12/2003 08:40",
+		"name:actionBlock:cancelBlock:" : "ar 9/24/2000 00:09",
+		"okButton" : "dgd 11/2/2004 21:23",
+		"openInWorld:" : "ar 9/23/2000 14:13",
+		"rebuild" : "ar 9/23/2000 23:52" } }

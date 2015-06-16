@@ -1,0 +1,3 @@
+*etoys
+remainingContents
+	^ self contents

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCommandFeedback" : "sw 6/6/2003 21:47",
+		"addGetterFeedback" : "nice 12/29/2010 15:02",
+		"addSetterFeedback" : "sw 5/22/2003 04:30",
+		"defaultColor" : "dgd 2/14/2003 22:32",
+		"elementSymbol" : "sw 10/30/2001 12:43",
+		"elementSymbol:" : "sw 10/30/2001 12:43",
+		"entryType" : "sw 5/25/2001 10:36",
+		"firstMorphBearingKedamaPlayer" : "yo 4/6/2005 14:59",
+		"initialize" : "sw 8/28/2004 20:30",
+		"morphBearingPlayer" : "yo 4/1/2005 09:39",
+		"morphsBearingPlayers" : "yo 4/1/2005 10:55",
+		"playerBearingCode" : "yo 4/1/2005 09:57",
+		"removeGetterFeedback" : "sw 6/4/2003 02:36",
+		"removeHighlightFeedback" : "sw 6/4/2003 02:30",
+		"removeSetterFeedback" : "sw 6/4/2003 02:37",
+		"replacePlayerInReadoutWith:" : "yo 4/6/2005 14:59",
+		"replacePlayerWith:" : "yo 4/6/2005 14:59",
+		"slotName" : "sw 10/30/2001 11:46" } }

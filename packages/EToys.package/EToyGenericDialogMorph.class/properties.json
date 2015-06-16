@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Experimental",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"namedFields" ],
+	"name" : "EToyGenericDialogMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorphBob1",
+	"type" : "normal" }

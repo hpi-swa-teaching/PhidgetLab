@@ -1,0 +1,15 @@
+{
+	"category" : "Etoys-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sw 10/24/2006 05:28",
+	"instvars" : [
+		"layoutProperties",
+		"layoutPolicy" ],
+	"name" : "MorphExtensionPlus",
+	"pools" : [
+		 ],
+	"super" : "MorphExtension",
+	"type" : "normal" }

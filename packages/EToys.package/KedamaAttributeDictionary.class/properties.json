@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-StarSqueak",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dictionaries" ],
+	"name" : "KedamaAttributeDictionary",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

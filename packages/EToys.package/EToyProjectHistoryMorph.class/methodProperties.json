@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"descriptionForPartsBin" : "sw 8/19/2001 21:15" },
+	"instance" : {
+		"closeMyFlapIfAny" : "ar 9/28/2000 13:53",
+		"defaultBorderColor" : "dgd 2/14/2003 22:34",
+		"defaultBorderWidth" : "dgd 2/14/2003 22:37",
+		"defaultColor" : "dgd 2/14/2003 22:25",
+		"initialize" : "dgd 2/14/2003 19:46",
+		"jumpToProject" : "ul 1/11/2010 07:26",
+		"mouseDown:in:" : "RAA 7/12/2000 07:25",
+		"mouseLeave:in:" : "RAA 7/12/2000 07:28",
+		"mouseMove:in:" : "RAA 9/27/2000 22:47",
+		"mouseUp:in:" : "nb 6/17/2003 12:25",
+		"rebuild" : "dgd 9/20/2003 18:52",
+		"step" : "RAA 7/10/2000 23:07" } }

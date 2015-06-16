@@ -1,0 +1,2 @@
+slot-kedama
+getRedComponentIn: aPatch

@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sw 8/17/2002 02:04",
+	"instvars" : [
+		"firstPanel" ],
+	"name" : "StandardViewer",
+	"pools" : [
+		 ],
+	"super" : "Viewer",
+	"type" : "normal" }

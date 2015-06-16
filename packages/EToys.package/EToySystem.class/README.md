@@ -1,0 +1,1 @@
+A global object holding onto properties and code of the overall E-toy system of the moment.  Its code is entirely held on the class side; the class is never instantiated.

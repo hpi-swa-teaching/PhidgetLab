@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sw 9/6/2002 13:14",
+	"instvars" : [
+		"scriptedPlayer" ],
+	"name" : "Viewer",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

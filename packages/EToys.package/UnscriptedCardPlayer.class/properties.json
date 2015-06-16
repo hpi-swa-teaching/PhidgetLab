@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "UnscriptedCardPlayer",
+	"pools" : [
+		 ],
+	"super" : "UnscriptedPlayer",
+	"type" : "normal" }

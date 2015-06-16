@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addExtraItemsToMenu:forSlotSymbol:" : "tak 1/18/2005 13:13",
+		"defaultArgumentTile" : "sw 9/27/2001 17:30",
+		"initialValueForASlotFor:" : "sw 9/27/2001 17:29",
+		"initialize" : "sw 9/27/2001 17:24",
+		"typeColor" : "sw 9/27/2001 17:21",
+		"updatingTileForTarget:partName:getter:setter:" : "sw 9/25/2001 21:04",
+		"wantsArrowsOnTiles" : "sw 9/27/2001 17:33" } }

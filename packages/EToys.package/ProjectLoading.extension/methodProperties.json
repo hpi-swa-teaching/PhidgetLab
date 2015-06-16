@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"checkSecurity:preStream:projStream:" : "tak 9/3/2006 11:00",
+		"checkStream:" : "tak 9/3/2006 00:17",
+		"fileInName:archive:morphOrList:" : "fbs 11/28/2013 18:40",
+		"loadFromImagePath:" : "yo 1/10/2007 20:43",
+		"loadImageSegment:fromDirectory:withProjectView:numberOfFontSubstitutes:substituteFont:mgr:" : "bf 4/9/2013 16:23",
+		"loadName:stream:fromDirectory:withProjectView:" : "yo 9/8/2009 13:45",
+		"loadName:stream:fromDirectory:withProjectView:clearOriginFlag:" : "bf 4/10/2013 16:34",
+		"makeExistingView:project:projectsToBeDeleted:" : "dtl 6/4/2013 06:50",
+		"morphOrList:stream:fromDirectory:archive:" : "cmm 10/23/2013 16:24",
+		"parseManifest:" : "yo 2/5/2008 17:15",
+		"showProgressBarDuring:" : "yo 9/18/2006 21:42" },
+	"instance" : {
+		 } }
