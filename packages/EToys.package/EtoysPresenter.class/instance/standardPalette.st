@@ -1,0 +1,4 @@
+accessing
+standardPalette
+
+	^ standardPalette

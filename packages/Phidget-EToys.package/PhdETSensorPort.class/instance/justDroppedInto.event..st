@@ -1,5 +1,8 @@
-updating
+event handling
 justDroppedInto: aMorph event: anEvent
 
-	self topRendererOrSelf assuredPlayer allOpenViewers isEmpty 
-		ifTrue: [(self presenter viewMorph: self) hideFlap].
+    	self topRendererOrSelf assuredPlayer allOpenViewers isEmpty 
+      	ifTrue: [
+			|flap|
+            	flap := (self presenter viewMorph: self showFlap: false).
+            	self highlightFlapThumbnail: flap].
