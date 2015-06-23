@@ -7,6 +7,7 @@
 		"image" : "rb 7/22/2014 18:38",
 		"image:" : "rb 7/22/2014 18:38",
 		"initializeWithThumbnail:withLabel:andColor:andSend:to:with:" : "rb 7/22/2014 19:04",
+		"initializeWithThumbnail:withLabel:andColor:andType:andPortsUsed:andSend:to:with:" : "JN 6/23/2015 10:44",
 		"labeledItem" : "rb 7/22/2014 18:38",
 		"labeledItem:" : "rb 7/22/2014 18:38",
 		"launchPartFromClick" : "rb 7/22/2014 18:39",
@@ -16,4 +17,8 @@
 		"name" : "rb 7/22/2014 18:48",
 		"name:" : "rb 7/22/2014 18:48",
 		"nonTranslucent" : "rb 7/22/2014 18:38",
-		"nonTranslucent:" : "rb 7/22/2014 18:38" } }
+		"nonTranslucent:" : "rb 7/22/2014 18:38",
+		"portType" : "JN 6/23/2015 10:55",
+		"portType:" : "JN 6/23/2015 10:55",
+		"portsUsed" : "JN 6/23/2015 10:46",
+		"portsUsed:" : "JN 6/23/2015 10:46" } }

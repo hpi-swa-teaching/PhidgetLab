@@ -1,12 +1,13 @@
 {
 	"class" : {
-		"addPortDescriptorQuadsTo:" : "ck 5/6/2014 17:00",
+		"addPortDescriptorQuadsTo:" : "JN 6/23/2015 10:51",
 		"additionsToViewerCategoryPhidgetPort" : "ck 7/25/2014 14:59",
 		"launchPartVia:label:phidget:" : "ck 5/6/2014 17:00",
 		"newStandAlone:" : "ck 5/6/2014 17:00",
 		"partName:categories:documentation:" : "ck 5/6/2014 17:00",
 		"portDescription" : "ck 5/6/2014 17:00",
-		"portType" : "ck 5/6/2014 17:00" },
+		"portType" : "ck 5/6/2014 17:00",
+		"portsUsed" : "JN 6/23/2015 10:50" },
 	"instance" : {
 		"changeColorAccordingTo:" : "rb 7/22/2014 19:50",
 		"connectPlug" : "ck 5/6/2014 17:00",

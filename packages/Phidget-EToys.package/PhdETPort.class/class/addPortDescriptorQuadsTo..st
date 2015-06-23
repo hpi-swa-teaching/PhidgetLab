@@ -9,4 +9,6 @@ addPortDescriptorQuadsTo: aList
 		info nativitySelector.
 		info formalName.
 		info documentation.
-		info sampleImageFormOrNil}.
+		info sampleImageFormOrNil.
+		self portType.
+		self portsUsed}.
