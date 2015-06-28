@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-MTF-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "InterfaceDeleteButtonTest",
+	"pools" : [
+		 ],
+	"super" : "MTFTestCase",
+	"type" : "normal" }

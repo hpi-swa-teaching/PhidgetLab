@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-MTF-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "InterfacePartsBinTest",
+	"pools" : [
+		 ],
+	"super" : "MTFTestCase",
+	"type" : "normal" }
