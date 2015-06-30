@@ -1,6 +1,5 @@
 animation
 loadImage: aColor
 
-	(aColor = #gray)
-		ifTrue: [super loadImage: aColor]
-		ifFalse: [super loadImage: ''].
+	aColor == #gray ifTrue: [^super loadImage: aColor].
+	super loadImage: ''.

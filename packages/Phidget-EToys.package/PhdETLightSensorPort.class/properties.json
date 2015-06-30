@@ -10,5 +10,5 @@
 	"name" : "PhdETLightSensorPort",
 	"pools" : [
 		 ],
-	"super" : "PhdETScalableSensorPort",
+	"super" : "PhdETScalingSensorPort",
 	"type" : "normal" }

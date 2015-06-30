@@ -1,10 +1,10 @@
 animation
-loadImage: aColor
+loadImage: aValue
 
 	| value |
-	aColor == #gray ifTrue: [^super loadImage: aColor].
+	aValue == #gray ifTrue: [^super loadImage: aValue].
 
 	value := self lastValue.
 	(value = 1000) ifTrue: [value := value - 1].
-	value := (value - (value \\\ 500)).
+	value := (value - (value \\\ 125)).
 	super loadImage: value.
