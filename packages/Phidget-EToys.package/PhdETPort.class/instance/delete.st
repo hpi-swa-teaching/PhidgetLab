@@ -5,4 +5,4 @@ delete
 	self wire ifNotNil: [self wire delete].
 	self plug ifNotNil: [self plug delete].
 	self phidget unregisterPort: self.
-	super delete.
+	"super delete." "not needed, handled by outOfWorld:"
