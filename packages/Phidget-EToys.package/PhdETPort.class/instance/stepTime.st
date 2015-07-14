@@ -1,4 +1,0 @@
-animation
-stepTime
-
-	^ 10

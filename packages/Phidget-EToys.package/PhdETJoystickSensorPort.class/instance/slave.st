@@ -1,4 +1,0 @@
-accessing
-slave
-
-	^ slave

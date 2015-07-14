@@ -1,4 +1,0 @@
-plug
-connected
-
-	^ plug plugged.

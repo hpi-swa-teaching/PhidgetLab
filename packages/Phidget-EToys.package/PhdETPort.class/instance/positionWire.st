@@ -1,4 +1,0 @@
-animation
-positionWire
-
-	^ self subclassResponsibility

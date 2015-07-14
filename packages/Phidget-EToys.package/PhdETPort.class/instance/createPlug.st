@@ -1,4 +1,0 @@
-plug
-createPlug
-
-	^ self subclassResponsibility

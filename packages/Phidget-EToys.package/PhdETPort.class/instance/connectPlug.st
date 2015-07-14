@@ -1,4 +1,0 @@
-plug
-connectPlug
-
-	^ self subclassResponsibility

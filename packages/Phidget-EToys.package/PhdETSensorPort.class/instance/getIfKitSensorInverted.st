@@ -1,4 +1,0 @@
-accessing
-getIfKitSensorInverted
-
-	^ self inverted

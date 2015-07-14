@@ -1,4 +1,0 @@
-accessing
-getIfKitSensorYValue
-
-	^ self slaveValue

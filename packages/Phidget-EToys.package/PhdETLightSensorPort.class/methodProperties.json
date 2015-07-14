@@ -1,8 +1,0 @@
-{
-	"class" : {
-		"additionsToViewerCategoryPhidgetPort" : "ck 7/25/2014 15:04",
-		"portDescription" : "ck 5/6/2014 16:50" },
-	"instance" : {
-		"initialize" : "rb 6/20/2014 15:21",
-		"lux" : "ck 7/25/2014 14:40",
-		"name" : "rb 6/20/2014 15:16" } }

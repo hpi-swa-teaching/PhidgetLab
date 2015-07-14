@@ -1,4 +1,0 @@
-accessing
-labeledItem
-
-	^ labeledItem

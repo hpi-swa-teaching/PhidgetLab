@@ -1,3 +1,0 @@
-accessing
-getIfKitSensorXValue
-	^ self masterValue

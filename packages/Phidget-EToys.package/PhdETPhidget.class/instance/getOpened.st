@@ -1,4 +1,0 @@
-accessing
-getOpened
-
-	^ phidHandle isOpen
