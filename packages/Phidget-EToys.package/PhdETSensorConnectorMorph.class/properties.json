@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ck 7/12/2014 19:31",
+	"instvars" : [
+		"pin" ],
+	"name" : "PhdETSensorConnectorMorph",
+	"pools" : [
+		 ],
+	"super" : "PhdETConnectorMorph",
+	"type" : "normal" }

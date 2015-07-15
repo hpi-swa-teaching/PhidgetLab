@@ -1,0 +1,1 @@
+I am a morph that forms the characteristic T-shape of the sensor connector.

@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rb 7/22/2014 17:17",
+	"instvars" : [
+		 ],
+	"name" : "PhdETIOConnectorMorph",
+	"pools" : [
+		 ],
+	"super" : "PhdETConnectorMorph",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rb 7/22/2014 17:15",
+	"instvars" : [
+		"number",
+		"plug",
+		"overlay",
+		"connected" ],
+	"name" : "PhdETConnectorMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

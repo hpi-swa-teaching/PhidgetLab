@@ -1,0 +1,4 @@
+accessing
+getIfKitSensorInverted
+
+	^ self inverted

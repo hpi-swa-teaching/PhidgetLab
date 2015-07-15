@@ -1,0 +1,16 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rb 7/22/2014 17:59",
+	"instvars" : [
+		"slave",
+		"slaveValue",
+		"masterValue" ],
+	"name" : "PhdETJoystickSensorPort",
+	"pools" : [
+		 ],
+	"super" : "PhdETSensorPort",
+	"type" : "normal" }

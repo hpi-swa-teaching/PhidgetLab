@@ -1,0 +1,4 @@
+plug
+createPlug
+
+	^ self subclassResponsibility

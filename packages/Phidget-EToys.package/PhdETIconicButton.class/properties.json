@@ -1,0 +1,19 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rb 7/22/2014 18:15",
+	"instvars" : [
+		"image",
+		"labeledItem",
+		"nonTranslucent",
+		"name",
+		"portsUsed",
+		"portType" ],
+	"name" : "PhdETIconicButton",
+	"pools" : [
+		 ],
+	"super" : "IconicButton",
+	"type" : "normal" }

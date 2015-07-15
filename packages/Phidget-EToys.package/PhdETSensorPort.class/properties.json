@@ -1,0 +1,17 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rb 7/22/2014 17:52",
+	"instvars" : [
+		"speed",
+		"inverted",
+		"lastValueTime",
+		"lastValue" ],
+	"name" : "PhdETSensorPort",
+	"pools" : [
+		 ],
+	"super" : "PhdETPort",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I'm an abstract representation of all input and output plugs. I connect the input and output ports via a connector to the AdvancedInterfaceKit. Furthermore I make sure that the plugs can only be plugged into the right connector.

@@ -1,0 +1,4 @@
+accessing
+getIfKitSensorSpeed
+
+	^ self speed

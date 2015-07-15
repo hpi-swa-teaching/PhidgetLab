@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adjustWidth:" : "fw 7/7/2014 21:25",
+		"changeColorAccordingTo:" : "rb 7/22/2014 19:40",
+		"initialize" : "ck 6/11/2014 11:01",
+		"pin" : "ck 6/1/2014 13:54",
+		"pin:" : "ck 6/1/2014 13:54",
+		"positionPlug" : "fw 7/7/2014 22:29",
+		"wantsDroppedMorph:event:" : "ck 5/9/2014 16:27" } }

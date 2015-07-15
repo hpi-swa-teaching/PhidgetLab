@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"drawOn:" : "st 6/30/2015 12:10",
+		"initialize" : "ck 5/6/2014 13:48",
+		"wantsDroppedMorph:event:" : "ck 6/25/2014 16:48" } }

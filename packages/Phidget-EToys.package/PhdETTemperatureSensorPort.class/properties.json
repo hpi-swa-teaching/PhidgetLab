@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rb 7/22/2014 18:02",
+	"instvars" : [
+		"celciusValue" ],
+	"name" : "PhdETTemperatureSensorPort",
+	"pools" : [
+		 ],
+	"super" : "PhdETScalingSensorPort",
+	"type" : "normal" }

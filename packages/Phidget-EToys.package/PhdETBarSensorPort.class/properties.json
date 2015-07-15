@@ -1,0 +1,14 @@
+{
+	"category" : "Phidget-EToys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rb 7/22/2014 17:54",
+	"instvars" : [
+		 ],
+	"name" : "PhdETBarSensorPort",
+	"pools" : [
+		 ],
+	"super" : "PhdETScalingSensorPort",
+	"type" : "normal" }
