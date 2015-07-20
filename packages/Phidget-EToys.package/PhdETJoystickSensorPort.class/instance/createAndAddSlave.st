@@ -2,6 +2,9 @@ initialization
 createAndAddSlave
 
 	self slave: (PhdETAssistentSensorPort newStandAlone: self phidget).
-	self slave master: self.
-	self slave extent: self image extent.
-	self addMorph: slave.
+	self slave 
+		master: self;
+		image: self image;
+		hide.
+
+	self addMorph: self slave.

@@ -4,10 +4,10 @@ positionWire
 	"Cannot create Wire while initialisation, because that ruins my Thumbnail. So I do it here."
 	
 	| middleOfPlug rightConnector halfPlugWidth halfHeight halfWidth |
-	halfPlugWidth := plug width / 2.
+	halfPlugWidth := self plug width / 2.
 	halfHeight := self height / 2.
 	halfWidth := self width / 2.
-	middleOfPlug := plug position + (halfPlugWidth@plug height).
+	middleOfPlug := self plug position + (halfPlugWidth@self plug height).
 	rightConnector := self referencePositionInWorld - (halfWidth@halfHeight).
 	self wire ifNil: [self createWire].
 	self wire setVertices: {middleOfPlug. rightConnector}.
