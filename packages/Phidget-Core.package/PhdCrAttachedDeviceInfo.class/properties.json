@@ -9,7 +9,7 @@
 		"DeviceTypeIdEtoysMap",
 		"DeviceTypeIdMap",
 		"DeviceTypeIdNameMap" ],
-	"commentStamp" : "",
+	"commentStamp" : "JN 7/25/2015 12:57",
 	"instvars" : [
 		"name",
 		"serialNumber",

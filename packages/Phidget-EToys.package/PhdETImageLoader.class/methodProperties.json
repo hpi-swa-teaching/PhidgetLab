@@ -2,7 +2,7 @@
 	"class" : {
 		"SoleInstance" : "fw 7/7/2014 22:56",
 		"SoleInstance:" : "fw 7/7/2014 21:44",
-		"default" : "ck 7/25/2014 14:46",
+		"default" : "JN 7/25/2015 14:06",
 		"new" : "ck 7/25/2014 14:47",
 		"reset" : "ck 7/25/2014 14:47" },
 	"instance" : {
@@ -17,7 +17,7 @@
 		"bar875" : "KU 6/7/2015 11:20",
 		"barOff" : "fw 6/21/2014 01:04",
 		"getFullPathFrom:" : "fw 6/5/2014 11:34",
-		"imageCache" : "rb 7/22/2014 19:06",
+		"imageCache" : "JN 7/25/2015 14:06",
 		"imageCache:" : "fw 7/7/2014 22:15",
 		"imageLookUpDictionary" : "KU 6/9/2015 18:34",
 		"input" : "fw 6/26/2014 17:08",

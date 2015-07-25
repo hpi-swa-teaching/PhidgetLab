@@ -1,5 +1,4 @@
 accessing
 default
 
-	^ self SoleInstance
-		ifNil: [SoleInstance := super new]
+	^ self SoleInstance ifNil: [SoleInstance := super new]

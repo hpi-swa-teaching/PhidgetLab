@@ -17,7 +17,7 @@
 		"delete" : "JB 7/2/2015 13:20",
 		"getPortNumber" : "rb 6/20/2014 15:52",
 		"getShowWire" : "ck 5/6/2014 17:00",
-		"initialize" : "rb 6/25/2014 17:17",
+		"initialize" : "JN 7/25/2015 14:35",
 		"initializeToStandAlone:" : "ck 5/6/2014 17:00",
 		"isInRange:" : "ck 5/6/2014 17:00",
 		"loadImage:" : "KU 6/16/2015 10:11",

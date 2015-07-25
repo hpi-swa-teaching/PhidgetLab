@@ -4,7 +4,7 @@ positionWire
 	
 	| middleOfPlug leftConnector halfPlugWidth halfWidth invertedHalfHeight |
 	halfPlugWidth := self plug width / 2.
-	invertedHalfHeight := -1 * self height / 2.
+	invertedHalfHeight := self height / 2 negated.
 	halfWidth := self width / 2.
 	middleOfPlug := self plug position + (halfPlugWidth@self plug height).
 	leftConnector := self referencePositionInWorld + (halfWidth@invertedHalfHeight).

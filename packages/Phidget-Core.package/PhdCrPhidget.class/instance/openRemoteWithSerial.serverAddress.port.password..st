@@ -8,7 +8,7 @@ openRemoteWithSerial: serialNumber serverAddress: serverAddress port: port passw
 	
 	serialNumber isInteger & serverAddress isString & port isInteger
 		ifFalse: [ ^ self ].
-	passwordString := [password isNil not and: [ password isString ]]
+	passwordString := [password notNil and: [ password isString ]]
 		ifTrue: [ password ]
 		ifFalse: [ '' ].
 	

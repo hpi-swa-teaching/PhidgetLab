@@ -1,5 +1,5 @@
 connectors
-checkForFreeConnectorsOfType: aPortSymbol inConnectors: connectors
+checkForFreeConnectorsOfType: aPortSymbol in: connectors
 
 	| usedPorts |
 	usedPorts := (self ports select: [:p | p class portType == aPortSymbol]) size.

@@ -5,8 +5,8 @@
 		"setUp" : "rb 7/22/2014 18:22",
 		"tearDown" : "rb 7/22/2014 18:22",
 		"test01isSingleton" : "rb 7/22/2014 18:22",
-		"test02isNeverNil" : "rb 7/22/2014 18:22",
+		"test02isNeverNil" : "JN 7/25/2015 14:41",
 		"test03cannotBeCreatedWithNew" : "rb 7/22/2014 18:23",
 		"test04throwsFileDoesNotExistException" : "rb 7/22/2014 18:23",
 		"test05returnsImages" : "rb 7/22/2014 18:23",
-		"test06reset" : "rb 7/22/2014 18:23" } }
+		"test06reset" : "JN 7/25/2015 14:41" } }

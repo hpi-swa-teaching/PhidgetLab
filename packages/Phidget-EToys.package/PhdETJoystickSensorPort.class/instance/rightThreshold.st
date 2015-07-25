@@ -1,0 +1,3 @@
+animation
+rightThreshold 
+	^ 330.

@@ -1,0 +1,3 @@
+animation
+leftThreshold
+	^ 660.

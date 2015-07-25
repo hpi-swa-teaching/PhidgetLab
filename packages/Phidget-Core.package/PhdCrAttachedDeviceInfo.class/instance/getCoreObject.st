@@ -8,12 +8,10 @@ getCoreObject
 	"get class"
 	classId := self class deviceClassIdMap
 		at: self deviceClassId
-		ifAbsent: [ nil ].
-	classId ifNil: [ ^ nil ].
+		ifAbsent: [ ^ nil ].
 	classObject := self class deviceClassIdCoreMap
 		at: classId
-		ifAbsent: [ nil ].
-	classObject ifNil: [ ^ nil ].
+		ifAbsent: [ ^ nil ].
 	
 	"instantiate the class with my serial number"
 	object := classObject new.

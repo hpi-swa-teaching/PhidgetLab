@@ -6,6 +6,7 @@
 	"instance" : {
 		"amplitude" : "ck 7/25/2014 14:34",
 		"angle" : "ck 7/25/2014 14:34",
+		"bottomThreshold" : "JN 7/25/2015 14:12",
 		"calculateAmplitude" : "ck 7/25/2014 14:35",
 		"calculateAngle" : "ck 7/25/2014 14:35",
 		"createAndAddSlave" : "JB 7/19/2015 14:12",
@@ -14,14 +15,17 @@
 		"getIfKitSensorYSpeed" : "KU 6/30/2015 10:46",
 		"getIfKitSensorYValue" : "ck 6/25/2014 16:26",
 		"initialize" : "rb 7/1/2014 11:10",
-		"loadImage:" : "KU 6/16/2015 10:13",
+		"leftThreshold" : "JN 7/25/2015 14:11",
+		"loadImage:" : "JN 7/25/2015 14:12",
 		"masterValue" : "rb 6/20/2014 16:37",
 		"masterValue:" : "ck 6/17/2014 11:09",
 		"name" : "rb 6/20/2014 15:15",
 		"outOfWorld:" : "JB 7/2/2015 13:23",
 		"positionWire" : "JB 7/19/2015 14:14",
+		"rightThreshold" : "JN 7/25/2015 14:12",
 		"setStatus:" : "ck 6/25/2014 16:33",
 		"slave" : "rb 6/20/2014 16:37",
 		"slave:" : "rb 6/20/2014 16:37",
 		"slaveValue" : "KU 6/29/2015 09:28",
-		"slaveValue:" : "rb 6/25/2014 17:40" } }
+		"slaveValue:" : "rb 6/25/2014 17:40",
+		"topThreshold" : "JN 7/25/2015 14:12" } }
