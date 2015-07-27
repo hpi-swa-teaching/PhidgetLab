@@ -2,6 +2,7 @@
 	"class" : {
 		"addPackagesTo:" : "fw 7/23/2014 04:50",
 		"additionalPackages" : "fw 7/25/2014 15:21",
+		"compileEtoysPresenterMethod" : "JB 7/27/2015 20:41",
 		"copyDll" : "fw 7/25/2014 15:30",
 		"createSar" : "fw 7/25/2014 15:03",
 		"currentDllPath" : "fw 7/25/2014 15:49",
@@ -10,7 +11,7 @@
 		"imageIsNotEtoys" : "fw 7/25/2014 15:11",
 		"installAdditionalPackages" : "fw 7/25/2014 15:29",
 		"installPackages" : "fw 7/25/2014 15:28",
-		"installationInstructions" : "fw 7/25/2014 15:31",
+		"installationInstructions" : "JB 7/23/2015 17:02",
 		"newDllPath" : "fw 7/25/2014 15:49",
 		"packagesForSar" : "fw 7/23/2014 04:52",
 		"sarFileName" : "fw 7/15/2014 10:53" },
