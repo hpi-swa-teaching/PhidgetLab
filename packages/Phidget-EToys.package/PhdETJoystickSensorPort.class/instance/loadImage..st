@@ -2,7 +2,7 @@ animation
 loadImage: aValue
 
 	| xValue yValue value xPos yPos|
-	aValue == #gray  ifTrue: [^super loadImage: aValue].
+	aValue = 'gray'  ifTrue: [^super loadImage: aValue].
 
 	xValue := self masterValue ifNil: [500].
 	yValue := self slaveValue.

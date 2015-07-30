@@ -10,5 +10,5 @@
 	"name" : "PhdETTouchSensorPort",
 	"pools" : [
 		 ],
-	"super" : "PhdETSensorPort",
+	"super" : "PhdETScalingSensorPort",
 	"type" : "normal" }

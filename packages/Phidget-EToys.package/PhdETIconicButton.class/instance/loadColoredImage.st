@@ -1,4 +1,4 @@
 changing
 loadColoredImage
 
-	self loadImage: #colored
+	self loadImage: 'colored'

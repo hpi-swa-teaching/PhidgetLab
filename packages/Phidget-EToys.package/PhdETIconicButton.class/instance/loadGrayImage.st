@@ -1,4 +1,4 @@
 changing
 loadGrayImage 
 
-	self loadImage: #gray
+	self loadImage: 'gray'

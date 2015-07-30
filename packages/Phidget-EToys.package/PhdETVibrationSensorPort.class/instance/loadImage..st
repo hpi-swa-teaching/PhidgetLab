@@ -1,5 +1,5 @@
 animation
-loadImage: aColor
+loadImage: aValue
 
-	aColor == #gray ifTrue: [^super loadImage: aColor].
+	aValue == 'gray' ifTrue: [^super loadImage: aValue].
 	super loadImage: ''.

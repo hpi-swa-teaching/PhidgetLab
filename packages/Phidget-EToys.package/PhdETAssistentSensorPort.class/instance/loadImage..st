@@ -1,4 +1,4 @@
 animation
-loadImage: aColor
+loadImage: aValue
 
 "I don't load an Image, because I am invisible"

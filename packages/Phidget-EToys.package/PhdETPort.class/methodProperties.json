@@ -9,7 +9,7 @@
 		"portType" : "ck 5/6/2014 17:00",
 		"portsUsed" : "JN 6/23/2015 10:50" },
 	"instance" : {
-		"changeColorAccordingTo:" : "rb 7/22/2014 19:50",
+		"changeColorAccordingTo:" : "KU 7/27/2015 10:38",
 		"connectPlug" : "ck 5/6/2014 17:00",
 		"connected" : "ck 5/6/2014 17:00",
 		"createPlug" : "ck 5/6/2014 17:00",
@@ -20,7 +20,7 @@
 		"initialize" : "JN 7/25/2015 14:35",
 		"initializeToStandAlone:" : "ck 5/6/2014 17:00",
 		"isInRange:" : "ck 5/6/2014 17:00",
-		"loadImage:" : "KU 6/16/2015 10:11",
+		"loadImage:" : "KU 7/27/2015 10:44",
 		"outOfWorld:" : "JB 7/2/2015 13:20",
 		"phidget" : "ck 5/6/2014 17:00",
 		"phidget:" : "rb 6/20/2014 15:52",
