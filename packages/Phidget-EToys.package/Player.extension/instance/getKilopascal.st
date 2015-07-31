@@ -1,5 +1,5 @@
 *Phidget-EToys
-getPascal
+getKilopascal
 	"Answers wether an Interface Kit is opened or not."
 
-	^ self targetMorph pascal
+	^ self targetMorph kilopascal
