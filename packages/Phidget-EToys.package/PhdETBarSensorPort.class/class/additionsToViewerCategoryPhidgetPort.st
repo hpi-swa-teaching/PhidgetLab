@@ -5,5 +5,5 @@ additionsToViewerCategoryPhidgetPort
 	^ #(phidgetport 
 			((slot newton 'The value at the Bar Sensor in newton.' Number readOnly 
 				Player getNewton unused unused)
-			(slot pascal 'The value at the Bar Sensor in newton per square meter.' 
+			(slot kilopascal 'The value at the Bar Sensor in newton per square meter.' 
 				Number readOnly Player getKilopascal unused unused)))
