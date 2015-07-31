@@ -12,8 +12,11 @@
 		"light:" : "ck 6/25/2014 21:59",
 		"player" : "ck 6/18/2014 08:37",
 		"player:" : "ck 6/18/2014 08:37",
-		"setUp" : "ck 6/25/2014 21:57",
+		"setUp" : "st 7/31/2015 14:17",
 		"tearDown" : "ck 6/18/2014 08:50",
+		"temperature" : "st 7/31/2015 13:37",
+		"temperature:" : "st 7/31/2015 13:37",
 		"test01barValues" : "SE 7/31/2015 13:42",
 		"test02joystickAngle" : "fw 7/23/2014 05:20",
-		"test03lightValues" : "fw 7/23/2014 05:20" } }
+		"test03lightValues" : "fw 7/23/2014 05:20",
+		"test04temperatureValues" : "st 7/31/2015 14:18" } }

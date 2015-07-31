@@ -9,7 +9,8 @@
 		"kit",
 		"joystick",
 		"bar",
-		"light" ],
+		"light",
+		"temperature" ],
 	"name" : "SensorPortValueTests",
 	"pools" : [
 		 ],
