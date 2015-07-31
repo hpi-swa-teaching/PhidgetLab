@@ -10,6 +10,7 @@
 		"getIfKitOutputValue" : "ck 5/6/2014 16:49",
 		"initialize" : "JN 7/25/2015 14:36",
 		"isInRange:" : "ck 5/6/2014 16:49",
+		"loadImage:" : "KU 7/31/2015 16:45",
 		"name" : "fw 6/26/2014 16:30",
 		"positionWire" : "ck 5/6/2014 16:49",
 		"setIfKitOutputValue:" : "ck 5/6/2014 16:49",
