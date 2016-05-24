@@ -1,3 +1,0 @@
-mouse
-handlesMouseMove: evt
-	^true

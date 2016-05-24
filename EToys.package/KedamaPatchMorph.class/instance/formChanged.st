@@ -1,4 +1,0 @@
-drawing
-formChanged
-
-	formChanged := true.

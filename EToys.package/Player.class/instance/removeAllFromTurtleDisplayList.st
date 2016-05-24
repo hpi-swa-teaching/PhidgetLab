@@ -1,4 +1,0 @@
-slot-kedama
-removeAllFromTurtleDisplayList
-
-	costume renderedMorph removeAllFromTurtleDisplayList.

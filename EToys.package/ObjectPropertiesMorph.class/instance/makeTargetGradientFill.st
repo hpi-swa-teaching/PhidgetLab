@@ -1,4 +1,0 @@
-as yet unclassified
-makeTargetGradientFill
-
-	myTarget useGradientFill

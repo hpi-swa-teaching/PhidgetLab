@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"addTile" : "yo 1/30/2005 10:57",
-		"initialize" : "yo 6/17/2004 10:03",
-		"line1:" : "yo 1/30/2005 11:19",
-		"setTurtleDefaultTo:" : "yo 6/15/2004 18:43",
-		"storeCodeOn:indent:" : "yo 10/9/2004 10:01" } }

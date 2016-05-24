@@ -1,6 +1,0 @@
-accessing
-parseNode
-	
-	^parseNode
-		
-	

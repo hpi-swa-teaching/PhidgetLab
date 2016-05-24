@@ -1,1 +1,0 @@
-A slight modification on TextMorph to show empty fields just as one would fields with data: with a cursor and without the pink field

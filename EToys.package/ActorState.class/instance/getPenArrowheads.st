@@ -1,3 +1,0 @@
-pen
-getPenArrowheads
-	^ penArrowheads == true

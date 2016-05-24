@@ -1,3 +1,0 @@
-other
-costume
-	^ owningPlayer costume

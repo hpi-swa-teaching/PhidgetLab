@@ -1,3 +1,0 @@
-buttons
-playerScripted
-	^ playerScripted

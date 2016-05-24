@@ -1,4 +1,0 @@
-converting
-asString
-
-	^item contents

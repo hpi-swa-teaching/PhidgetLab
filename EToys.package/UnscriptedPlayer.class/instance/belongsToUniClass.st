@@ -1,3 +1,0 @@
-viewer
-belongsToUniClass
-	^ false

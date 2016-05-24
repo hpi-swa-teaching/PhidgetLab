@@ -1,3 +1,0 @@
-label
-isTileScriptingElement
-	^ true

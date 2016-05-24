@@ -1,4 +1,0 @@
-accessing
-bringUpToDate
-
-	self establishEtoyLabelWording

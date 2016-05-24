@@ -1,4 +1,0 @@
-scripting
-defaultNameStemForInstances
-
-	^ 'patch' translated.

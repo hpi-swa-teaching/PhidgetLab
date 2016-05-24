@@ -1,4 +1,0 @@
-card data
-privateMorphs
-
-	^ privateMorphs

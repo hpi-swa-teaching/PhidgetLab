@@ -1,3 +1,0 @@
-slot-accessing
-setHeading: degree
-

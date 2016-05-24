@@ -1,4 +1,0 @@
-miscellaneous
-type
-
-	^ #compound

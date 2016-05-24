@@ -1,3 +1,0 @@
-other
-timeStamp
-	^ timeStamp

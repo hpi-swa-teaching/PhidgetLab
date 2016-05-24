@@ -1,4 +1,0 @@
-etoys
-turtleCount
-
-	^ turtleCount.

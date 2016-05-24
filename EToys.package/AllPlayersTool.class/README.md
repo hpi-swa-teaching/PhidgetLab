@@ -1,1 +1,0 @@
-A tool that lets you see find, view, and obtain tiles for all the active players in the project.

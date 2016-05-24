@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"hibernate" : "tk 3/1/2001 11:24",
-		"storeCodeOn:indent:" : "dgd 2/22/2003 14:44",
-		"unhibernate" : "tk 2/28/2001 21:07",
-		"wantsDroppedMorph:event:" : "nice 5/8/2011 10:10" } }

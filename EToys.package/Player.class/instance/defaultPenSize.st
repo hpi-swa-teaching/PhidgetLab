@@ -1,3 +1,0 @@
-pen
-defaultPenSize
-	^ 1

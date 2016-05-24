@@ -1,3 +1,0 @@
-miscellaneous
-userScriptSelector
-	^ userScriptSelector

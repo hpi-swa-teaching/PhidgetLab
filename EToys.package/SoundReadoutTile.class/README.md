@@ -1,1 +1,0 @@
-A tile comprising a readout for a sound-valued instance variable in a Viewer.  It sports up/down  arrows, and a click on the sound name results in a pop-up menu, offering the user the opportunity to choose a new one.

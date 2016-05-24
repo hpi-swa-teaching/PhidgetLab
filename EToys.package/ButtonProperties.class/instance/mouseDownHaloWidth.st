@@ -1,4 +1,0 @@
-accessing
-mouseDownHaloWidth
-
-	^mouseDownHaloWidth

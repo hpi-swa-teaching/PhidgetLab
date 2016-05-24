@@ -1,3 +1,0 @@
-accessing
-isKedamaMorph
-	^true

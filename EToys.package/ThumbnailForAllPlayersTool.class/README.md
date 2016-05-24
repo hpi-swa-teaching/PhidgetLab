@@ -1,1 +1,0 @@
-A thumbnail for use in an All-Players tool

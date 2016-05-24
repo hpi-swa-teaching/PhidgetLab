@@ -1,4 +1,0 @@
-accessing
-figureOutScriptSelector
-
-	self halt

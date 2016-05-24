@@ -1,1 +1,0 @@
-A tool for controlling and viewing all scripts in a project.  The tool has an open and a closed form.  In the closed form, stop-step-go buttons are available, plus a control for opening the tool up.  In the open form, it has a second row of controls that govern which scripts should be shown, followed by the individual script items.

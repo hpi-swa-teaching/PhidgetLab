@@ -1,1 +1,0 @@
-A defunct class that represents the turtles in the KedamaWorld.  In this version, each turtle was represented as a full-fledged player.  Kept here to remember the alternative implementation.

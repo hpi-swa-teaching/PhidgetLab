@@ -1,3 +1,0 @@
-*etoys
-remainingContents
-	^ self contents

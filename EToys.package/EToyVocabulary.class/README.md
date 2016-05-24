@@ -1,1 +1,0 @@
-EToyVocabulary - a vocabulary mirroring the capabilities available to end users in Squeak's old 1997-2000 etoy prototype.

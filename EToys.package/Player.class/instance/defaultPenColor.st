@@ -1,3 +1,0 @@
-pen
-defaultPenColor
-	^ Color blue

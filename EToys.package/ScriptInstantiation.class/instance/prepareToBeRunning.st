@@ -1,3 +1,0 @@
-misc
-prepareToBeRunning
-	lastTick := nil.

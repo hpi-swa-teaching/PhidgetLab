@@ -1,2 +1,0 @@
-slot-kedama
-getBlueComponentIn: aPatch

@@ -1,3 +1,0 @@
-misc
-minimumWidth
-	^ 40

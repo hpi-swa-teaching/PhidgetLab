@@ -1,3 +1,0 @@
-other
-colorSwatch
-	^ colorSwatch

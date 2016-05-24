@@ -1,1 +1,0 @@
-Holds information about user-defined instance variables in Players.

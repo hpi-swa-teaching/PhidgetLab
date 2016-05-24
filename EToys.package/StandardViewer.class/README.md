@@ -1,1 +1,0 @@
-A structure that allows you to view state and behavior of an object; it consists of a header and then any number of CategoryViewers.

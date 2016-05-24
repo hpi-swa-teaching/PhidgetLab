@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"initialize" : "nk 11/1/2004 07:48",
-		"unload" : "nk 7/20/2003 12:36" },
-	"instance" : {
-		"releaseCachedState" : "nk 10/12/2003 13:23",
-		"step" : "nk 10/12/2003 13:23",
-		"visibleMorphs" : "nk 10/12/2003 13:22",
-		"visibleMorphs:" : "nk 10/12/2003 13:22" } }

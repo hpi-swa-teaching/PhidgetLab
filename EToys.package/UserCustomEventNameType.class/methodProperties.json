@@ -1,8 +1,0 @@
-{
-	"class" : {
-		"allowEtoyUserCustomEventsPreferenceChanged" : "nk 6/12/2004 14:18",
-		"initialize" : "nk 8/18/2004 18:02" },
-	"instance" : {
-		"choices" : "nk 9/26/2003 23:36",
-		"initialize" : "nk 7/21/2003 20:42",
-		"representsAType" : "nk 8/18/2004 17:48" } }

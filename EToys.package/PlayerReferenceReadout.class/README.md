@@ -1,1 +1,0 @@
-A thumbnail that serves as the value readout for a player-valued slot in a Viewer.  Clicking on it allows the user to select a new object for the slot to point to. 

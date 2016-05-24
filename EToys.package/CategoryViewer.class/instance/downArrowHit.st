@@ -1,3 +1,0 @@
-categories
-downArrowHit
-	self previousCategory

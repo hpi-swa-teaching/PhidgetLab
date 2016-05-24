@@ -1,1 +1,0 @@
-A scripting tile representing a 'sound' constant.  Sounds are represented by their names, which are strings; the actual sounds live in SampleSound's SoundLibrary.

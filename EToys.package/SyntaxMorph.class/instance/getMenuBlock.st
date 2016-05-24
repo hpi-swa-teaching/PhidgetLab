@@ -1,4 +1,0 @@
-menus
-getMenuBlock
-
-	^ nil

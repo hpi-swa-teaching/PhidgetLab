@@ -1,4 +1,0 @@
-accessing
-isInWorld
-
-	^ world isInWorld.

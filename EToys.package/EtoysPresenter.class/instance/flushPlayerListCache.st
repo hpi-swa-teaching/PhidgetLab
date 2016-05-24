@@ -1,3 +1,0 @@
-playerList
-flushPlayerListCache
-	playerList := nil

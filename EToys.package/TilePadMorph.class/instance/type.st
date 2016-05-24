@@ -1,3 +1,0 @@
-miscellaneous
-type
-	^ type

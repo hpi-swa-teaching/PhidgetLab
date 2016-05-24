@@ -1,3 +1,0 @@
-slot-accessing
-setNormal: degree
-

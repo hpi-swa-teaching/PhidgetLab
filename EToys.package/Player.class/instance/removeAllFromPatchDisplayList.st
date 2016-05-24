@@ -1,4 +1,0 @@
-slot-kedama
-removeAllFromPatchDisplayList
-
-	costume renderedMorph removeAllFromPatchDisplayList.

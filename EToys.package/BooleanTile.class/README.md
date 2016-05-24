@@ -1,1 +1,0 @@
-A tile whose result type is boolean.

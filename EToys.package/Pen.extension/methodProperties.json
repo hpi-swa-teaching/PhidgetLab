@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"arrowHead" : "sw 10/5/2002 03:17",
-		"arrowHeadForArrowSpec:" : "sw 10/5/2002 02:29",
-		"arrowHeadFrom:to:arrowSpec:" : "sw 10/5/2002 02:25",
-		"arrowHeadFrom:to:forPlayer:" : "sw 10/5/2002 02:11",
-		"putDotOfDiameter:at:" : "sw 4/10/2003 22:37" } }

@@ -1,2 +1,0 @@
-player commands
-colorFromPatch: aPatch

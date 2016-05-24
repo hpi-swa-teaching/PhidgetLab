@@ -1,4 +1,0 @@
-accessing
-classVersion
-
-	^ 1.

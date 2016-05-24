@@ -1,1 +1,0 @@
-An abstract superclass for both CategoryViewer and StandardViewer.  A viewer is always associated with a particular 'scriptedPlayer' -- the object whose protocol it shows in tile form.

@@ -1,3 +1,0 @@
-misc
-basicWidth
-	^ 26

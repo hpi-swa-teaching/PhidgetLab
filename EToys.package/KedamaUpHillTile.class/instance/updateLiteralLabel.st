@@ -1,2 +1,0 @@
-tile protocol
-updateLiteralLabel

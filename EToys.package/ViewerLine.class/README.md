@@ -1,1 +1,0 @@
-Serves as a wrapper around a line in a Viewer, enforcing the desired layout properties.

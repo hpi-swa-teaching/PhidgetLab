@@ -1,4 +1,0 @@
-accessing
-instSize
-
-	^ arrays size.
